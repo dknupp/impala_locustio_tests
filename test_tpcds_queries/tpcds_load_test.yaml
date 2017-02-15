@@ -1,0 +1,5 @@
+cm_host: vc0726.halxg.cloudera.com
+hs2_port: 21050
+min_wait: 100
+max_wait: 1000
+target_db: tpcds

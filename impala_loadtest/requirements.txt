@@ -1,4 +1,4 @@
-appdirs==1.4.0
+appdirs==1.4.3
 bitarray==0.8.1
 click==6.7
 cm-api==14.0.0
@@ -9,13 +9,15 @@ impyla==0.14.0
 itsdangerous==0.24
 Jinja2==2.9.5
 locustio==0.7.5
-MarkupSafe==0.23
+MarkupSafe==1.0
 msgpack-python==0.4.8
 packaging==16.8
-pyparsing==2.1.10
+pyparsing==2.2.0
+PyYAML==3.12
 pyzmq==16.0.2
 readline==6.2.4.1
 requests==2.13.0
 six==1.10.0
+sqlparse==0.2.3
+Werkzeug==0.12.1
 thrift==0.9.3
-Werkzeug==0.11.15
