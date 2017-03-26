@@ -2,6 +2,7 @@
 
 import impala.dbapi as impyla
 import locust
+import logging
 import sqlparse
 import time
 import yaml
@@ -10,6 +11,11 @@ from cm_api.api_client import ApiResource
 from impala.error import ProgrammingError
 
 DEFAULT_HS2_PORT = 21050
+
+logger = logging.getLogger(name='impala_loadtest')
+
+# Reduce the chattiness of hiveserver2 logging
+logging.getLogger('impala.hiveserver2').setLevel(logging.WARNING)
 
 
 class TestConfig(object):
@@ -33,7 +39,6 @@ class ImpylaLocustClient(object):
     def __init__(self):
         self.impalad = None
         self.conn = None
-        self.cursor = None
 
     def connect(self, impalad_host, hs2_port=DEFAULT_HS2_PORT):
         """
@@ -43,9 +48,8 @@ class ImpylaLocustClient(object):
         """
         self.impalad = impalad_host
         self.conn = impyla.connect(impalad_host, hs2_port)
-        self.cursor = self.conn.cursor()
 
-    def execute(self, query, query_name=None):
+    def execute(self, query, query_name=None, sync_ddl=False, db=None):
         """
         Execute a query supplied by a task in the running TaskSet.
 
@@ -57,8 +61,13 @@ class ImpylaLocustClient(object):
 
         start_time = time.time()
         try:
-            self.cursor.execute(query)
-            response = self.cursor.fetchall()
+            with self.conn.cursor() as cursor:
+                if db is not None:
+                    cursor.execute('use {db}'.format(db=db))
+                if sync_ddl:
+                    cursor.execute('set sync_ddl=True')
+                cursor.execute(query)
+                response = cursor.fetchall()
         except ProgrammingError as e:
             # Some operations -- e.g. invalidate metadata -- properly don't
             # return a value even when successful, and will throw an exception
@@ -78,12 +87,12 @@ class ImpylaLocustClient(object):
             request_type="query", name=query_name,
             response_time=total_time, response_length=len(response)
         )
+
         return response
 
     def __del__(self):
         """Clean up connection when object is garbage collected."""
         if self is not None:
-            self.cursor.close()
             self.conn.close()
 
 
@@ -107,6 +116,7 @@ def setup_test_config(config_file=None, **kwargs):
     This event handler is aded to the start_test EventHook for all tests,
     and should be fired once, just as the Locust test first starts.
     """
+    logger.info('Setting up TestConfig')
     with open(config_file) as fh:
         TestConfig.config = yaml.load(fh)
         TestConfig.nodes = get_node_hostnames(TestConfig.config['cm_host'])
@@ -119,6 +129,7 @@ def setup_database(test_config_object=None, **kwargs):
     Assumes that the test_config_object has already been populated by the
     setup_test_config event handler.
     """
+    logger.info('Setting up test databases and tables')
     tc = test_config_object
     test_db = tc.config['setup_database']['db']
     test_table = '{}.{}'.format(test_db, tc.config['setup_database']['table'])
@@ -131,11 +142,12 @@ def setup_database(test_config_object=None, **kwargs):
     client.connect(tc.nodes[0], hs2_port=tc.config['hs2_port'])
 
     for query in (create_db_query, create_tbl_query):
-        client.execute(query)
+        client.execute(query, sync_ddl=True)
 
 
 def get_node_hostnames(cm_host):
     """Return the list of hostnames of nodes managed by a given cm_host."""
+    logger.info('Querying CM API for node hostnames')
     api = ApiResource(cm_host, username="admin", password="admin", version=15)
     hosts = api.get_all_hosts()
     return [host.hostname for host in hosts[1:]]  # Skip hosts[0], the CM itself

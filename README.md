@@ -1,7 +1,7 @@
 # Impala Load Tests with Locust.io: Proof of Concept
 
 ```
-$ git clone git@github.mtv.cloudera.com:dknupp/locustio_tests.git
+$ git clone git@github.mtv.cloudera.com:dknupp/impala_locustio_tests.git
 ```
 
 ## Repo Contents
@@ -82,7 +82,7 @@ With your virtualenv active, you can install it directly from the directory
 using ```pip install -e```. External dependencies will be installed as well.
 
 ```
-(locust_env) $ cd locust_tests
+(locust_env) $ cd impala_locustio_tests
 (locust_env) $ pip install -e impala_loadtest/
 [...]
 Successfully installed Flask-0.12 Jinja2-2.9.5 MarkupSafe-1.0 PyYAML-3.12 Werkzeug-0.12.1 bitarray-0.8.1 click-6.7 cm-api-14.0.0 gevent-1.1.1 greenlet-0.4.12 impala-loadtest impyla-0.14.0 itsdangerous-0.24 locustio-0.7.5 msgpack-python-0.4.8 pyzmq-16.0.2 readline-6.2.4.1 requests-2.13.0 sqlparse-0.2.3 thrift-0.9.3
@@ -163,5 +163,3 @@ Locust uses asychronous coroutines in place of native OS threads
 ### Third Party Guides
 
 * [Google Cloud Platform: Distributed Load Testing Using Kubernetes] (https://cloud.google.com/solutions/distributed-load-testing-using-kubernetes)
-* [How to Run 50,000 Concurrent Users from Multi GEOs Using Locust.IO] (https://www.blazemeter.com/blog/how-run-50000-concurrent-users-multi-geos-using-locustio)
-* [Load Testing With Locust] (https://andrew-jones.com/blog/load-testing-with-locust/)

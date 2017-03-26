@@ -2,8 +2,8 @@ cm_host: vc0726.halxg.cloudera.com
 hs2_port: 21050
 setup_database:
   db: loadtest_db
-  table: loadtest_tbl
-partition_limit: 2500
+  table: test_tbl
+partition_limit: 1500
 min_wait: 100
 max_wait: 1000
 add_partition_task:

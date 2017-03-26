@@ -37,25 +37,25 @@ class RunSQLQueryFiles(locust.TaskSet):
 
     def on_start(self):
         """
-        Connect to the next impalad in the list, and use the target database.
+        Connect to the next impalad in the list.
 
         The on_start handler is called once, when a Locust worker first
         hatches and before any tasks are scheduled.
         """
         self.client.connect(self.impalads.next(), hs2_port=config['hs2_port'])
-        self.client.execute('use {db}'.format(db=config['target_db']))
 
     @locust.task
     def run_query(self):
         """Randomly select and run from a local directory of SQL queries."""
         sql_file = random.choice(os.listdir(self.query_dir))
-        logger.info("Running query: {sql_file}".format(sql_file=sql_file))
+        logger.debug("Running query: {sql_file}".format(sql_file=sql_file))
 
-        # Even though the queries will go to various impalads, the stats will
-        # group by only the filename of the SQL query file. To further
+        # Even though the queries will go to various impalads, the stats
+        # will group by only the filename of the SQL query file. To further
         # differentiate stats by which impalad is processing each query,
         # the coordinator hostname can be added to the query_name here.
         self.client.execute(
+            db=config['target_db'],
             query=parse_sql_file(os.path.join(self.query_dir, sql_file)),
             query_name=sql_file.split('.')[0]  # e.g., q8, q19, q27, etc.
         )
