@@ -8,6 +8,7 @@ import time
 import yaml
 
 from cm_api.api_client import ApiResource
+from contextlib import contextmanager
 from impala.error import ProgrammingError
 
 DEFAULT_HS2_PORT = 21050
@@ -39,6 +40,11 @@ class ImpylaLocustClient(object):
     def __init__(self):
         self.impalad = None
         self.conn = None
+        self.cursor = None
+
+    @property
+    def hostname(self):
+        return self.impalad.split('.')[0]
 
     def connect(self, impalad_host, hs2_port=DEFAULT_HS2_PORT):
         """
@@ -48,6 +54,7 @@ class ImpylaLocustClient(object):
         """
         self.impalad = impalad_host
         self.conn = impyla.connect(impalad_host, hs2_port)
+        self.cursor = self.conn.cursor()
 
     def execute(self, query, query_name=None, sync_ddl=False, db=None):
         """
@@ -61,13 +68,14 @@ class ImpylaLocustClient(object):
 
         start_time = time.time()
         try:
-            with self.conn.cursor() as cursor:
-                if db is not None:
-                    cursor.execute('use {db}'.format(db=db))
-                if sync_ddl:
-                    cursor.execute('set sync_ddl=True')
-                cursor.execute(query)
-                response = cursor.fetchall()
+            if db is not None:
+                self.cursor.execute('use {db}'.format(db=db))
+            if sync_ddl:
+                with self.__enable_sync_ddl__():
+                    self.cursor.execute(query)
+            else:
+                self.cursor.execute(query)
+            response = self.cursor.fetchall()
         except ProgrammingError as e:
             # Some operations -- e.g. invalidate metadata -- properly don't
             # return a value even when successful, and will throw an exception
@@ -90,9 +98,18 @@ class ImpylaLocustClient(object):
 
         return response
 
+    @contextmanager
+    def __enable_sync_ddl__(self):
+        """Set sync_ddl for a single query."""
+        self.cursor.execute('set sync_ddl=True')
+        yield
+        self.cursor.execute('set sync_ddl=False')
+
     def __del__(self):
         """Clean up connection when object is garbage collected."""
+        logger.info("Killing locust...")
         if self is not None:
+            self.cursor.close()
             self.conn.close()
 
 

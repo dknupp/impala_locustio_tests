@@ -89,11 +89,10 @@ class AddPartitionsThenDropDatabase(locust.TaskSet):
                                                    key2=int(y))
 
         try:
-            # hostname is needed for displaying stats by hostname:query.
-            hostname = self.client.impalad.split('.')[0]
             self.client.execute(
                 query='{0} {1}'.format(self.alter_tbl_query, keys),
-                query_name='{0}: {1}'.format(hostname, self.alter_tbl_query)
+                query_name='{0}: {1}'.format(self.client.hostname,
+                                             self.alter_tbl_query)
             )
         except Exception as e:
             logger.error(str(e))
@@ -109,13 +108,12 @@ class AddPartitionsThenDropDatabase(locust.TaskSet):
 
         Raise StopLocust to halt all workers when an Exception is caught.
         """
-        # hostname is needed for displaying stats by hostname:query.
-        hostname = self.client.impalad.split('.')[0]
-        num_partitions = self._get_partitions_count(hostname)
+        num_partitions = self._get_partitions_count(self.client.hostname)
         if num_partitions > config['partition_limit']:
             self.client.execute(
                 query=self.drop_db_query,
-                query_name='{0} {1}'.format(hostname, self.drop_db_query)
+                query_name='{0}: {1}'.format(self.client.hostname,
+                                             self.drop_db_query)
             )
 
     def _get_partitions_count(self, hostname):
@@ -128,7 +126,7 @@ class AddPartitionsThenDropDatabase(locust.TaskSet):
         query = 'EXPLAIN SELECT count(*) FROM {tbl}'
         response = self.client.execute(
             query=query.format(tbl=self.table),
-            query_name='{0} {1}'.format(hostname, query)
+            query_name='{0}: {1}'.format(hostname, query)
         )
 
         # Response is a list of rows, with each row being a string in a tuple.

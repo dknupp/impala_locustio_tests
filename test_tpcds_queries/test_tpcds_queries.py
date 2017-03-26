@@ -53,7 +53,7 @@ class RunSQLQueryFiles(locust.TaskSet):
         # Even though the queries will go to various impalads, the stats
         # will group by only the filename of the SQL query file. To further
         # differentiate stats by which impalad is processing each query,
-        # the coordinator hostname can be added to the query_name here.
+        # self.client.hostname can be added to the query_name here.
         self.client.execute(
             db=config['target_db'],
             query=parse_sql_file(os.path.join(self.query_dir, sql_file)),

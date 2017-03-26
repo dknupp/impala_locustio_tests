@@ -1,9 +1,5 @@
 # Impala Load Tests with Locust.io: Proof of Concept
 
-```
-$ git clone git@github.mtv.cloudera.com:dknupp/impala_locustio_tests.git
-```
-
 ## Repo Contents
 
 The most basic example of a Locust test file defines a worker class, and a
