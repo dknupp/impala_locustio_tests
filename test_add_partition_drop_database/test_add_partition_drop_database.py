@@ -108,7 +108,7 @@ class AddPartitionsThenDropDatabase(locust.TaskSet):
 
         Raise StopLocust to halt all workers when an Exception is caught.
         """
-        num_partitions = self._get_partitions_count(self.client.hostname)
+        num_partitions = self._get_partitions_count()
         if num_partitions > config['partition_limit']:
             self.client.execute(
                 query=self.drop_db_query,
@@ -116,7 +116,7 @@ class AddPartitionsThenDropDatabase(locust.TaskSet):
                                              self.drop_db_query)
             )
 
-    def _get_partitions_count(self, hostname):
+    def _get_partitions_count(self):
         """
         Parse the output of EXPLAIN SELECT count(*) to get number of partitions.
 
@@ -126,7 +126,7 @@ class AddPartitionsThenDropDatabase(locust.TaskSet):
         query = 'EXPLAIN SELECT count(*) FROM {tbl}'
         response = self.client.execute(
             query=query.format(tbl=self.table),
-            query_name='{0}: {1}'.format(hostname, query)
+            query_name='{0}: {1}'.format(self.client.hostname, query)
         )
 
         # Response is a list of rows, with each row being a string in a tuple.

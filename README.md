@@ -1,5 +1,17 @@
 # Impala Load Tests with Locust.io: Proof of Concept
 
+## Why Locust.io?
+
+* Purely code-based
+  * easier to submit tests for peer code review
+  * easier to write load tests with complex programming logic
+  * easier to debug tests
+* It's just Python
+  * doesn't require juggling various file types and contexts (e.g., JMeter automation often combines XML, BeanShell, CSV, plus a Python wrapper)
+  * easily incorporated into existing Python-based test automation frameworks
+  * deloyable with nothing more than virtualenv and pip
+* Based on async coroutines, rather than OS threads, so might be less resource intensive on the host generating the load
+
 ## Repo Contents
 
 The most basic example of a Locust test file defines a worker class, and a
