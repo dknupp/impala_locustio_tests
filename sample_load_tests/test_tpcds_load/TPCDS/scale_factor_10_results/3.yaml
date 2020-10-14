@@ -1,0 +1,564 @@
+- !!python/tuple
+  - 1998
+  - 3004002
+  - 'edu packexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '875.59'
+- !!python/tuple
+  - 1998
+  - 1001001
+  - 'amalgamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '850.21'
+- !!python/tuple
+  - 1998
+  - 3003002
+  - 'exportiexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '820.36'
+- !!python/tuple
+  - 1998
+  - 2002001
+  - 'importoimporto #1'
+  - !!python/object/apply:decimal.Decimal
+    - '734.86'
+- !!python/tuple
+  - 1998
+  - 5004001
+  - 'edu packscholar #1'
+  - !!python/object/apply:decimal.Decimal
+    - '714.73'
+- !!python/tuple
+  - 1998
+  - 1004001
+  - 'edu packamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '710.10'
+- !!python/tuple
+  - 1998
+  - 8014008
+  - 'edu packmaxi #8'
+  - !!python/object/apply:decimal.Decimal
+    - '699.57'
+- !!python/tuple
+  - 1998
+  - 2001002
+  - 'amalgimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '660.04'
+- !!python/tuple
+  - 1998
+  - 1002001
+  - 'importoamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '656.08'
+- !!python/tuple
+  - 1998
+  - 7002007
+  - 'importobrand #7'
+  - !!python/object/apply:decimal.Decimal
+    - '527.59'
+- !!python/tuple
+  - 1998
+  - 6009005
+  - 'maxicorp #5'
+  - !!python/object/apply:decimal.Decimal
+    - '527.42'
+- !!python/tuple
+  - 1998
+  - 5004002
+  - 'edu packscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '459.62'
+- !!python/tuple
+  - 1998
+  - 8005002
+  - 'scholarnameless #2'
+  - !!python/object/apply:decimal.Decimal
+    - '423.72'
+- !!python/tuple
+  - 1998
+  - 1002002
+  - 'importoamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '419.84'
+- !!python/tuple
+  - 1998
+  - 1003001
+  - 'exportiamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '343.89'
+- !!python/tuple
+  - 1998
+  - 6016003
+  - 'corpbrand #3'
+  - !!python/object/apply:decimal.Decimal
+    - '268.59'
+- !!python/tuple
+  - 1999
+  - 3003002
+  - 'exportiexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '1098.09'
+- !!python/tuple
+  - 1999
+  - 6016003
+  - 'corpbrand #3'
+  - !!python/object/apply:decimal.Decimal
+    - '950.06'
+- !!python/tuple
+  - 1999
+  - 1004001
+  - 'edu packamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '933.72'
+- !!python/tuple
+  - 1999
+  - 1002001
+  - 'importoamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '796.17'
+- !!python/tuple
+  - 1999
+  - 5004001
+  - 'edu packscholar #1'
+  - !!python/object/apply:decimal.Decimal
+    - '779.90'
+- !!python/tuple
+  - 1999
+  - 1003001
+  - 'exportiamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '777.43'
+- !!python/tuple
+  - 1999
+  - 5004002
+  - 'edu packscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '760.51'
+- !!python/tuple
+  - 1999
+  - 1002002
+  - 'importoamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '687.43'
+- !!python/tuple
+  - 1999
+  - 3004002
+  - 'edu packexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '623.13'
+- !!python/tuple
+  - 1999
+  - 2001002
+  - 'amalgimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '584.82'
+- !!python/tuple
+  - 1999
+  - 6009005
+  - 'maxicorp #5'
+  - !!python/object/apply:decimal.Decimal
+    - '507.15'
+- !!python/tuple
+  - 1999
+  - 8005002
+  - 'scholarnameless #2'
+  - !!python/object/apply:decimal.Decimal
+    - '502.90'
+- !!python/tuple
+  - 1999
+  - 2002001
+  - 'importoimporto #1'
+  - !!python/object/apply:decimal.Decimal
+    - '476.42'
+- !!python/tuple
+  - 1999
+  - 7002007
+  - 'importobrand #7'
+  - !!python/object/apply:decimal.Decimal
+    - '468.16'
+- !!python/tuple
+  - 1999
+  - 8014008
+  - 'edu packmaxi #8'
+  - !!python/object/apply:decimal.Decimal
+    - '431.39'
+- !!python/tuple
+  - 1999
+  - 1001001
+  - 'amalgamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '414.87'
+- !!python/tuple
+  - 2000
+  - 3003002
+  - 'exportiexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '962.16'
+- !!python/tuple
+  - 2000
+  - 6009005
+  - 'maxicorp #5'
+  - !!python/object/apply:decimal.Decimal
+    - '876.88'
+- !!python/tuple
+  - 2000
+  - 1003001
+  - 'exportiamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '850.14'
+- !!python/tuple
+  - 2000
+  - 5004002
+  - 'edu packscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '823.41'
+- !!python/tuple
+  - 2000
+  - 7002007
+  - 'importobrand #7'
+  - !!python/object/apply:decimal.Decimal
+    - '796.58'
+- !!python/tuple
+  - 2000
+  - 2001002
+  - 'amalgimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '751.07'
+- !!python/tuple
+  - 2000
+  - 8005002
+  - 'scholarnameless #2'
+  - !!python/object/apply:decimal.Decimal
+    - '715.88'
+- !!python/tuple
+  - 2000
+  - 2002001
+  - 'importoimporto #1'
+  - !!python/object/apply:decimal.Decimal
+    - '709.82'
+- !!python/tuple
+  - 2000
+  - 1002002
+  - 'importoamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '655.03'
+- !!python/tuple
+  - 2000
+  - 8014008
+  - 'edu packmaxi #8'
+  - !!python/object/apply:decimal.Decimal
+    - '626.88'
+- !!python/tuple
+  - 2000
+  - 6001008
+  - 'amalgcorp #8'
+  - !!python/object/apply:decimal.Decimal
+    - '588.91'
+- !!python/tuple
+  - 2000
+  - 1004001
+  - 'edu packamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '586.71'
+- !!python/tuple
+  - 2000
+  - 5002002
+  - 'importoscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '561.17'
+- !!python/tuple
+  - 2000
+  - 7003008
+  - 'exportibrand #8'
+  - !!python/object/apply:decimal.Decimal
+    - '548.53'
+- !!python/tuple
+  - 2000
+  - 3002002
+  - 'importoexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '501.92'
+- !!python/tuple
+  - 2000
+  - 3004002
+  - 'edu packexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '481.85'
+- !!python/tuple
+  - 2000
+  - 1004002
+  - 'edu packamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '356.36'
+- !!python/tuple
+  - 2000
+  - 5001002
+  - 'amalgscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '312.67'
+- !!python/tuple
+  - 2000
+  - 5004001
+  - 'edu packscholar #1'
+  - !!python/object/apply:decimal.Decimal
+    - '239.88'
+- !!python/tuple
+  - 2001
+  - 1002002
+  - 'importoamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '1254.47'
+- !!python/tuple
+  - 2001
+  - 5004001
+  - 'exportiexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '1140.68'
+- !!python/tuple
+  - 2001
+  - 7002007
+  - 'edu packamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '987.77'
+- !!python/tuple
+  - 2001
+  - 10005002
+  - 'amalgmaxi #10'
+  - !!python/object/apply:decimal.Decimal
+    - '897.81'
+- !!python/tuple
+  - 2001
+  - 5001002
+  - 'amalgscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '882.50'
+- !!python/tuple
+  - 2001
+  - 1003001
+  - 'amalgunivamalg #4'
+  - !!python/object/apply:decimal.Decimal
+    - '825.58'
+- !!python/tuple
+  - 2001
+  - 3002002
+  - 'importoexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '799.02'
+- !!python/tuple
+  - 2001
+  - 6001008
+  - 'amalgcorp #8'
+  - !!python/object/apply:decimal.Decimal
+    - '740.84'
+- !!python/tuple
+  - 2001
+  - 9012004
+  - 'importounivamalg #4'
+  - !!python/object/apply:decimal.Decimal
+    - '704.34'
+- !!python/tuple
+  - 2001
+  - 3003002
+  - 'exportiexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '644.17'
+- !!python/tuple
+  - 2001
+  - 2001002
+  - 'amalgimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '636.67'
+- !!python/tuple
+  - 2001
+  - 5002002
+  - 'importoscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '632.79'
+- !!python/tuple
+  - 2001
+  - 1004002
+  - 'edu packamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '620.04'
+- !!python/tuple
+  - 2001
+  - 3004002
+  - 'edu packexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '512.01'
+- !!python/tuple
+  - 2001
+  - 6016001
+  - 'importoamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '495.60'
+- !!python/tuple
+  - 2001
+  - 8014008
+  - 'edu packmaxi #8'
+  - !!python/object/apply:decimal.Decimal
+    - '458.89'
+- !!python/tuple
+  - 2001
+  - 5004002
+  - 'edu packscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '454.40'
+- !!python/tuple
+  - 2001
+  - 8005002
+  - 'scholarnameless #2'
+  - !!python/object/apply:decimal.Decimal
+    - '316.97'
+- !!python/tuple
+  - 2001
+  - 7003008
+  - 'exportibrand #8'
+  - !!python/object/apply:decimal.Decimal
+    - '259.11'
+- !!python/tuple
+  - 2001
+  - 2004002
+  - 'edu packimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '227.21'
+- !!python/tuple
+  - 2002
+  - 5002002
+  - 'importoscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '1282.79'
+- !!python/tuple
+  - 2002
+  - 5004001
+  - 'exportiexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '1098.04'
+- !!python/tuple
+  - 2002
+  - 10005002
+  - 'amalgmaxi #10'
+  - !!python/object/apply:decimal.Decimal
+    - '1097.30'
+- !!python/tuple
+  - 2002
+  - 8005002
+  - 'scholarnameless #2'
+  - !!python/object/apply:decimal.Decimal
+    - '984.64'
+- !!python/tuple
+  - 2002
+  - 6016001
+  - 'importoamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '959.73'
+- !!python/tuple
+  - 2002
+  - 8014008
+  - 'edu packmaxi #8'
+  - !!python/object/apply:decimal.Decimal
+    - '876.93'
+- !!python/tuple
+  - 2002
+  - 9015007
+  - 'scholarunivamalg #7'
+  - !!python/object/apply:decimal.Decimal
+    - '871.42'
+- !!python/tuple
+  - 2002
+  - 4002001
+  - 'amalgimporto #1'
+  - !!python/object/apply:decimal.Decimal
+    - '843.43'
+- !!python/tuple
+  - 2002
+  - 10009007
+  - 'maxiunivamalg #7'
+  - !!python/object/apply:decimal.Decimal
+    - '792.08'
+- !!python/tuple
+  - 2002
+  - 4004001
+  - 'edu packedu pack #1'
+  - !!python/object/apply:decimal.Decimal
+    - '738.22'
+- !!python/tuple
+  - 2002
+  - 7002007
+  - 'edu packamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '735.03'
+- !!python/tuple
+  - 2002
+  - 3003002
+  - 'exportiexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '728.80'
+- !!python/tuple
+  - 2002
+  - 6001008
+  - 'edu packimporto #1'
+  - !!python/object/apply:decimal.Decimal
+    - '714.10'
+- !!python/tuple
+  - 2002
+  - 1002002
+  - 'importoamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '676.53'
+- !!python/tuple
+  - 2002
+  - 5002002
+  - 'corpmaxi #1'
+  - !!python/object/apply:decimal.Decimal
+    - '654.63'
+- !!python/tuple
+  - 2002
+  - 1003001
+  - 'amalgunivamalg #4'
+  - !!python/object/apply:decimal.Decimal
+    - '606.64'
+- !!python/tuple
+  - 2002
+  - 5004002
+  - 'edu packscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '580.17'
+- !!python/tuple
+  - 2002
+  - 7003008
+  - 'exportiamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '526.16'
+- !!python/tuple
+  - 2002
+  - 3004002
+  - 'edu packexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '487.12'
+- !!python/tuple
+  - 2002
+  - 6001008
+  - 'exportischolar #1'
+  - !!python/object/apply:decimal.Decimal
+    - '470.14'
+- !!python/tuple
+  - 2002
+  - 2001002
+  - 'amalgimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '395.27'
+- !!python/tuple
+  - 2002
+  - 2004002
+  - 'edu packimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '363.24'
+- !!python/tuple
+  - 2002
+  - 9012004
+  - 'importounivamalg #4'
+  - !!python/object/apply:decimal.Decimal
+    - '229.12'

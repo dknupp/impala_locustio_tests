@@ -1,0 +1,11 @@
+auth_type: null
+client_type: null
+max_wait: null
+min_wait: null
+num_iterations: null
+password: null
+ssl: null
+target_db: null
+thrift_transport: false
+user: null
+warmup: null

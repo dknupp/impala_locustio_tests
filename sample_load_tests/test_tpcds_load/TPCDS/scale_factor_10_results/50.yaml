@@ -1,0 +1,816 @@
+- !!python/tuple
+  - able
+  - 1
+  - '228'
+  - 'Cherry '
+  - Avenue
+  - Suite G
+  - Fairview
+  - Walker County
+  - AL
+  - '35709'
+  - 108
+  - 84
+  - 67
+  - 71
+  - 118
+- !!python/tuple
+  - able
+  - 1
+  - '255'
+  - 'Sycamore '
+  - Dr.
+  - Suite 410
+  - Midway
+  - Ziebach County
+  - SD
+  - '51904'
+  - 128
+  - 103
+  - 59
+  - 74
+  - 130
+- !!python/tuple
+  - able
+  - 1
+  - '302'
+  - Walnut Madison
+  - Wy
+  - Suite T
+  - Fairview
+  - Ziebach County
+  - SD
+  - '55709'
+  - 121
+  - 95
+  - 61
+  - 59
+  - 123
+- !!python/tuple
+  - able
+  - 1
+  - '441'
+  - '11th '
+  - ST
+  - Suite H
+  - Riverside
+  - Williamson County
+  - TN
+  - '39231'
+  - 139
+  - 118
+  - 66
+  - 61
+  - 123
+- !!python/tuple
+  - able
+  - 1
+  - '479'
+  - Park First
+  - Lane
+  - Suite 20
+  - Oak Grove
+  - Walker County
+  - AL
+  - '38370'
+  - 144
+  - 98
+  - 64
+  - 56
+  - 121
+- !!python/tuple
+  - able
+  - 1
+  - '543'
+  - West Elm
+  - Ln
+  - Suite A
+  - Five Points
+  - Walker County
+  - AL
+  - '36098'
+  - 126
+  - 105
+  - 64
+  - 56
+  - 132
+- !!python/tuple
+  - able
+  - 1
+  - '722'
+  - Railroad Spring
+  - Ct.
+  - Suite M
+  - Five Points
+  - Ziebach County
+  - SD
+  - '56098'
+  - 113
+  - 91
+  - 61
+  - 77
+  - 127
+- !!python/tuple
+  - anti
+  - 1
+  - '321'
+  - '11th '
+  - Parkway
+  - Suite G
+  - Pleasant Hill
+  - Walker County
+  - AL
+  - '33604'
+  - 125
+  - 100
+  - 53
+  - 70
+  - 147
+- !!python/tuple
+  - anti
+  - 1
+  - '735'
+  - 'Walnut '
+  - Blvd
+  - Suite 360
+  - Five Points
+  - Walker County
+  - AL
+  - '36098'
+  - 131
+  - 92
+  - 68
+  - 66
+  - 152
+- !!python/tuple
+  - anti
+  - 1
+  - '897'
+  - Ash Oak
+  - Circle
+  - Suite T
+  - Oak Grove
+  - Williamson County
+  - TN
+  - '38370'
+  - 116
+  - 94
+  - 71
+  - 66
+  - 113
+- !!python/tuple
+  - ation
+  - 1
+  - '213'
+  - '8th '
+  - Road
+  - Suite 490
+  - Pleasant Hill
+  - Williamson County
+  - TN
+  - '33604'
+  - 116
+  - 101
+  - 72
+  - 61
+  - 113
+- !!python/tuple
+  - ation
+  - 1
+  - '421'
+  - 12th Center
+  - Avenue
+  - Suite J
+  - Riverside
+  - Williamson County
+  - TN
+  - '39231'
+  - 147
+  - 93
+  - 69
+  - 58
+  - 119
+- !!python/tuple
+  - ation
+  - 1
+  - '8'
+  - Cedar Maple
+  - ST
+  - Suite 320
+  - Oak Grove
+  - Williamson County
+  - TN
+  - '38370'
+  - 131
+  - 89
+  - 55
+  - 59
+  - 112
+- !!python/tuple
+  - ation
+  - 1
+  - '811'
+  - 'Lee '
+  - Circle
+  - Suite T
+  - Oak Grove
+  - Ziebach County
+  - SD
+  - '58370'
+  - 117
+  - 108
+  - 57
+  - 65
+  - 119
+- !!python/tuple
+  - bar
+  - 1
+  - '147'
+  - 'Highland '
+  - Ln
+  - Suite 270
+  - Fairview
+  - Ziebach County
+  - SD
+  - '55709'
+  - 126
+  - 104
+  - 70
+  - 51
+  - 123
+- !!python/tuple
+  - bar
+  - 1
+  - '175'
+  - '4th '
+  - Court
+  - Suite C
+  - Oak Grove
+  - Williamson County
+  - TN
+  - '38370'
+  - 132
+  - 99
+  - 73
+  - 59
+  - 97
+- !!python/tuple
+  - bar
+  - 1
+  - '200'
+  - 'Lake '
+  - RD
+  - Suite 320
+  - Pleasant Hill
+  - Ziebach County
+  - SD
+  - '53604'
+  - 124
+  - 103
+  - 83
+  - 55
+  - 107
+- !!python/tuple
+  - bar
+  - 1
+  - '543'
+  - 'Twelfth '
+  - Avenue
+  - Suite L
+  - Oak Grove
+  - Ziebach County
+  - SD
+  - '58370'
+  - 120
+  - 101
+  - 75
+  - 64
+  - 130
+- !!python/tuple
+  - bar
+  - 1
+  - '582'
+  - Oak Washington
+  - Drive
+  - Suite S
+  - Pleasant Hill
+  - Walker County
+  - AL
+  - '33604'
+  - 136
+  - 112
+  - 62
+  - 62
+  - 121
+- !!python/tuple
+  - bar
+  - 1
+  - '818'
+  - 1st Elm
+  - Road
+  - Suite 220
+  - Pleasant Hill
+  - Walker County
+  - AL
+  - '33604'
+  - 140
+  - 94
+  - 60
+  - 64
+  - 112
+- !!python/tuple
+  - bar
+  - 1
+  - '903'
+  - 'Sixth '
+  - Court
+  - Suite Q
+  - Five Points
+  - Ziebach County
+  - SD
+  - '56098'
+  - 123
+  - 78
+  - 69
+  - 58
+  - 119
+- !!python/tuple
+  - cally
+  - 1
+  - '353'
+  - Third View
+  - Drive
+  - Suite 380
+  - Midway
+  - Williamson County
+  - TN
+  - '31904'
+  - 133
+  - 92
+  - 57
+  - 65
+  - 116
+- !!python/tuple
+  - cally
+  - 1
+  - '392'
+  - '15th '
+  - Dr.
+  - Suite W
+  - Oak Grove
+  - Walker County
+  - AL
+  - '38370'
+  - 123
+  - 83
+  - 61
+  - 49
+  - 117
+- !!python/tuple
+  - cally
+  - 1
+  - '496'
+  - '3rd '
+  - Ct.
+  - Suite E
+  - Fairview
+  - Williamson County
+  - TN
+  - '35709'
+  - 112
+  - 94
+  - 63
+  - 76
+  - 123
+- !!python/tuple
+  - cally
+  - 1
+  - '588'
+  - View Mill
+  - Court
+  - Suite 160
+  - Pleasant Hill
+  - Ziebach County
+  - SD
+  - '53604'
+  - 147
+  - 94
+  - 57
+  - 67
+  - 109
+- !!python/tuple
+  - cally
+  - 1
+  - '606'
+  - Lake Lincoln
+  - Boulevard
+  - Suite S
+  - Pleasant Hill
+  - Williamson County
+  - TN
+  - '33604'
+  - 114
+  - 101
+  - 56
+  - 60
+  - 121
+- !!python/tuple
+  - cally
+  - null
+  - '688'
+  - ''
+  - Avenue
+  - Suite 50
+  - ''
+  - ''
+  - TN
+  - ''
+  - 127
+  - 105
+  - 48
+  - 59
+  - 109
+- !!python/tuple
+  - eing
+  - 1
+  - '226'
+  - '12th '
+  - Lane
+  - Suite D
+  - Riverside
+  - Walker County
+  - AL
+  - '39231'
+  - 126
+  - 101
+  - 70
+  - 70
+  - 136
+- !!python/tuple
+  - eing
+  - 1
+  - '293'
+  - Center Main
+  - Lane
+  - Suite 200
+  - Fairview
+  - Ziebach County
+  - SD
+  - '55709'
+  - 133
+  - 90
+  - 58
+  - 62
+  - 110
+- !!python/tuple
+  - eing
+  - 1
+  - '303'
+  - 'Fifteenth '
+  - RD
+  - Suite 340
+  - Pleasant Hill
+  - Williamson County
+  - TN
+  - '33604'
+  - 114
+  - 101
+  - 57
+  - 74
+  - 135
+- !!python/tuple
+  - eing
+  - 1
+  - '317'
+  - Poplar 9th
+  - Pkwy
+  - Suite P
+  - Midway
+  - Walker County
+  - AL
+  - '31904'
+  - 127
+  - 98
+  - 68
+  - 56
+  - 116
+- !!python/tuple
+  - eing
+  - 1
+  - '317'
+  - Ridge Green
+  - Lane
+  - Suite A
+  - Midway
+  - Williamson County
+  - TN
+  - '31904'
+  - 129
+  - 97
+  - 72
+  - 58
+  - 119
+- !!python/tuple
+  - eing
+  - 1
+  - '656'
+  - 'Washington '
+  - Dr.
+  - Suite 50
+  - Pleasant Hill
+  - Williamson County
+  - TN
+  - '33604'
+  - 119
+  - 103
+  - 72
+  - 48
+  - 145
+- !!python/tuple
+  - eing
+  - 1
+  - '687'
+  - 'Ridge '
+  - Blvd
+  - Suite P
+  - Riverside
+  - Ziebach County
+  - SD
+  - '59231'
+  - 138
+  - 116
+  - 68
+  - 65
+  - 122
+- !!python/tuple
+  - ese
+  - 1
+  - '27'
+  - 'Lake '
+  - Ln
+  - Suite 260
+  - Pleasant Hill
+  - Williamson County
+  - TN
+  - '33604'
+  - 141
+  - 94
+  - 53
+  - 78
+  - 115
+- !!python/tuple
+  - ese
+  - 1
+  - '302'
+  - 'Spruce '
+  - Court
+  - Suite L
+  - Fairview
+  - Walker County
+  - AL
+  - '35709'
+  - 146
+  - 89
+  - 72
+  - 49
+  - 138
+- !!python/tuple
+  - ese
+  - 1
+  - '313'
+  - 'East '
+  - Court
+  - Suite 300
+  - Five Points
+  - Walker County
+  - AL
+  - '36098'
+  - 120
+  - 118
+  - 66
+  - 72
+  - 135
+- !!python/tuple
+  - ese
+  - 1
+  - '408'
+  - Washington 1st
+  - Circle
+  - Suite 390
+  - Oak Grove
+  - Ziebach County
+  - SD
+  - '58370'
+  - 140
+  - 110
+  - 57
+  - 65
+  - 121
+- !!python/tuple
+  - ese
+  - 1
+  - '462'
+  - 1st Washington
+  - Parkway
+  - Suite 290
+  - Five Points
+  - Walker County
+  - AL
+  - '36098'
+  - 122
+  - 100
+  - 75
+  - 55
+  - 128
+- !!python/tuple
+  - ese
+  - 1
+  - '521'
+  - '9th '
+  - Ave
+  - Suite Y
+  - Pleasant Hill
+  - Ziebach County
+  - SD
+  - '53604'
+  - 133
+  - 74
+  - 61
+  - 71
+  - 126
+- !!python/tuple
+  - ese
+  - 1
+  - '669'
+  - Locust Spring
+  - Parkway
+  - Suite E
+  - Fairview
+  - Walker County
+  - AL
+  - '35709'
+  - 128
+  - 100
+  - 81
+  - 75
+  - 127
+- !!python/tuple
+  - n st
+  - 1
+  - '240'
+  - 'Willow '
+  - RD
+  - Suite 280
+  - Riverside
+  - Walker County
+  - AL
+  - '39231'
+  - 128
+  - 99
+  - 49
+  - 53
+  - 113
+- !!python/tuple
+  - n st
+  - 1
+  - '495'
+  - 'Valley '
+  - Lane
+  - Suite D
+  - Fairview
+  - Williamson County
+  - TN
+  - '35709'
+  - 134
+  - 96
+  - 68
+  - 55
+  - 120
+- !!python/tuple
+  - n st
+  - 1
+  - '638'
+  - 'Cherry '
+  - Dr.
+  - Suite T
+  - Riverside
+  - Walker County
+  - AL
+  - '39231'
+  - 132
+  - 94
+  - 58
+  - 59
+  - 114
+- !!python/tuple
+  - ought
+  - 1
+  - '150'
+  - Maple Williams
+  - Lane
+  - Suite D
+  - Fairview
+  - Williamson County
+  - TN
+  - '35709'
+  - 131
+  - 92
+  - 68
+  - 53
+  - 116
+- !!python/tuple
+  - ought
+  - 1
+  - '602'
+  - Chestnut 5th
+  - Boulevard
+  - Suite C
+  - Pleasant Hill
+  - Williamson County
+  - TN
+  - '33604'
+  - 126
+  - 100
+  - 51
+  - 72
+  - 124
+- !!python/tuple
+  - ought
+  - 1
+  - '75'
+  - 2nd Oak
+  - Pkwy
+  - Suite C
+  - Riverside
+  - Williamson County
+  - TN
+  - '39231'
+  - 119
+  - 102
+  - 69
+  - 61
+  - 116
+- !!python/tuple
+  - ought
+  - 1
+  - '767'
+  - 'Spring '
+  - Wy
+  - Suite 250
+  - Pleasant Hill
+  - Ziebach County
+  - SD
+  - '53604'
+  - 132
+  - 104
+  - 67
+  - 69
+  - 144
+- !!python/tuple
+  - pri
+  - 1
+  - '84'
+  - 'First '
+  - Cir.
+  - Suite 180
+  - Pleasant Hill
+  - Ziebach County
+  - SD
+  - '53604'
+  - 129
+  - 91
+  - 64
+  - 49
+  - 133
+- !!python/tuple
+  - pri
+  - 1
+  - '872'
+  - 'Washington '
+  - Pkwy
+  - Suite 70
+  - Midway
+  - Walker County
+  - AL
+  - '31904'
+  - 136
+  - 114
+  - 57
+  - 52
+  - 124
+- !!python/tuple
+  - pri
+  - 1
+  - '889'
+  - River Wilson
+  - Avenue
+  - Suite 210
+  - Fairview
+  - Walker County
+  - AL
+  - '35709'
+  - 137
+  - 90
+  - 57
+  - 51
+  - 93

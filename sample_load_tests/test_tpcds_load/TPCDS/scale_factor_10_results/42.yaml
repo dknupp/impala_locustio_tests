@@ -1,0 +1,66 @@
+- !!python/tuple
+  - 2000
+  - 10
+  - Electronics
+  - !!python/object/apply:decimal.Decimal
+    - '3689774.94'
+- !!python/tuple
+  - 2000
+  - 1
+  - Women
+  - !!python/object/apply:decimal.Decimal
+    - '3688149.88'
+- !!python/tuple
+  - 2000
+  - 2
+  - Men
+  - !!python/object/apply:decimal.Decimal
+    - '3418374.30'
+- !!python/tuple
+  - 2000
+  - 7
+  - Home
+  - !!python/object/apply:decimal.Decimal
+    - '3358399.66'
+- !!python/tuple
+  - 2000
+  - 3
+  - Children
+  - !!python/object/apply:decimal.Decimal
+    - '3230972.99'
+- !!python/tuple
+  - 2000
+  - 4
+  - Shoes
+  - !!python/object/apply:decimal.Decimal
+    - '3112828.05'
+- !!python/tuple
+  - 2000
+  - 6
+  - Jewelry
+  - !!python/object/apply:decimal.Decimal
+    - '3001886.90'
+- !!python/tuple
+  - 2000
+  - 5
+  - Music
+  - !!python/object/apply:decimal.Decimal
+    - '2901111.29'
+- !!python/tuple
+  - 2000
+  - 8
+  - Sports
+  - !!python/object/apply:decimal.Decimal
+    - '2717738.54'
+- !!python/tuple
+  - 2000
+  - 9
+  - Books
+  - !!python/object/apply:decimal.Decimal
+    - '2651891.62'
+- !!python/tuple
+  - 2000
+  - null
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '48030.52'

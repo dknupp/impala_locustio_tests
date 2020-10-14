@@ -1,0 +1,1100 @@
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - ese
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '16945.75'
+  - !!python/object/apply:decimal.Decimal
+    - '37156.170000'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - eing
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '20514.79'
+  - !!python/object/apply:decimal.Decimal
+    - '39829.640000'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - bar
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '20293.45'
+  - !!python/object/apply:decimal.Decimal
+    - '39266.945833'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - eing
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '19327.08'
+  - !!python/object/apply:decimal.Decimal
+    - '38096.687500'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - eing
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '19490.61'
+  - !!python/object/apply:decimal.Decimal
+    - '38096.687500'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - eing
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '19576.42'
+  - !!python/object/apply:decimal.Decimal
+    - '38096.687500'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - able
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '22105.79'
+  - !!python/object/apply:decimal.Decimal
+    - '40464.201667'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - able
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '22163.58'
+  - !!python/object/apply:decimal.Decimal
+    - '40464.201667'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - able
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '20152.12'
+  - !!python/object/apply:decimal.Decimal
+    - '38248.835833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - bar
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '21181.87'
+  - !!python/object/apply:decimal.Decimal
+    - '39266.945833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - ese
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '21318.11'
+  - !!python/object/apply:decimal.Decimal
+    - '39398.541667'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - ese
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '20127.20'
+  - !!python/object/apply:decimal.Decimal
+    - '38156.563333'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - bar
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '19481.65'
+  - !!python/object/apply:decimal.Decimal
+    - '37344.735833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - eing
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '22009.39'
+  - !!python/object/apply:decimal.Decimal
+    - '39829.640000'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - eing
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '22127.56'
+  - !!python/object/apply:decimal.Decimal
+    - '39829.640000'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - eing
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '20460.89'
+  - !!python/object/apply:decimal.Decimal
+    - '38096.687500'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - eing
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '22214.04'
+  - !!python/object/apply:decimal.Decimal
+    - '39829.640000'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - able
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '22854.88'
+  - !!python/object/apply:decimal.Decimal
+    - '40464.201667'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - ese
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '22011.77'
+  - !!python/object/apply:decimal.Decimal
+    - '39398.541667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - eing
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '20918.53'
+  - !!python/object/apply:decimal.Decimal
+    - '38166.450000'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - bar
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '20275.57'
+  - !!python/object/apply:decimal.Decimal
+    - '37496.880833'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - able
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '20478.34'
+  - !!python/object/apply:decimal.Decimal
+    - '37592.891667'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - bar
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '22179.31'
+  - !!python/object/apply:decimal.Decimal
+    - '39266.945833'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - bar
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '20275.35'
+  - !!python/object/apply:decimal.Decimal
+    - '37344.735833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - bar
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '22236.19'
+  - !!python/object/apply:decimal.Decimal
+    - '39266.945833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - able
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '23458.61'
+  - !!python/object/apply:decimal.Decimal
+    - '40464.201667'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - bar
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '20342.69'
+  - !!python/object/apply:decimal.Decimal
+    - '37344.735833'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - ese
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '21212.66'
+  - !!python/object/apply:decimal.Decimal
+    - '38156.563333'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - able
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '21307.03'
+  - !!python/object/apply:decimal.Decimal
+    - '38248.835833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - ese
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '22468.62'
+  - !!python/object/apply:decimal.Decimal
+    - '39398.541667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - eing
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '21268.98'
+  - !!python/object/apply:decimal.Decimal
+    - '38166.450000'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - able
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '23638.05'
+  - !!python/object/apply:decimal.Decimal
+    - '40464.201667'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - eing
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '23215.85'
+  - !!python/object/apply:decimal.Decimal
+    - '39829.640000'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - ese
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '20574.70'
+  - !!python/object/apply:decimal.Decimal
+    - '37156.170000'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - bar
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '20917.93'
+  - !!python/object/apply:decimal.Decimal
+    - '37496.880833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - ese
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '22874.69'
+  - !!python/object/apply:decimal.Decimal
+    - '39398.541667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - able
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '21081.64'
+  - !!python/object/apply:decimal.Decimal
+    - '37592.891667'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - ese
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '21829.02'
+  - !!python/object/apply:decimal.Decimal
+    - '38156.563333'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - ese
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '23179.30'
+  - !!python/object/apply:decimal.Decimal
+    - '39398.541667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - bar
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '21333.18'
+  - !!python/object/apply:decimal.Decimal
+    - '37496.880833'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - able
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '21436.52'
+  - !!python/object/apply:decimal.Decimal
+    - '37592.891667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - ese
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '21083.78'
+  - !!python/object/apply:decimal.Decimal
+    - '37156.170000'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - eing
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '22034.71'
+  - !!python/object/apply:decimal.Decimal
+    - '38096.687500'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - bar
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '21480.53'
+  - !!python/object/apply:decimal.Decimal
+    - '37496.880833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - bar
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '23330.21'
+  - !!python/object/apply:decimal.Decimal
+    - '39266.945833'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - eing
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '22238.80'
+  - !!python/object/apply:decimal.Decimal
+    - '38166.450000'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - able
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '24627.84'
+  - !!python/object/apply:decimal.Decimal
+    - '40464.201667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - able
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '21771.91'
+  - !!python/object/apply:decimal.Decimal
+    - '37592.891667'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - able
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '22476.62'
+  - !!python/object/apply:decimal.Decimal
+    - '38248.835833'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - ese
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '22474.76'
+  - !!python/object/apply:decimal.Decimal
+    - '38156.563333'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - able
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '22585.07'
+  - !!python/object/apply:decimal.Decimal
+    - '38248.835833'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - bar
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '21842.22'
+  - !!python/object/apply:decimal.Decimal
+    - '37496.880833'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - bar
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '21788.12'
+  - !!python/object/apply:decimal.Decimal
+    - '37344.735833'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - able
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '22764.74'
+  - !!python/object/apply:decimal.Decimal
+    - '38248.835833'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - eing
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '22689.45'
+  - !!python/object/apply:decimal.Decimal
+    - '38166.450000'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - eing
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '22698.91'
+  - !!python/object/apply:decimal.Decimal
+    - '38166.450000'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - eing
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '24389.10'
+  - !!python/object/apply:decimal.Decimal
+    - '39829.640000'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - ese
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '21717.81'
+  - !!python/object/apply:decimal.Decimal
+    - '37156.170000'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - able
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '22860.50'
+  - !!python/object/apply:decimal.Decimal
+    - '38248.835833'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - bar
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '22014.00'
+  - !!python/object/apply:decimal.Decimal
+    - '37344.735833'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - eing
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '22969.66'
+  - !!python/object/apply:decimal.Decimal
+    - '38166.450000'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - able
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '22399.97'
+  - !!python/object/apply:decimal.Decimal
+    - '37592.891667'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - ese
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '22966.81'
+  - !!python/object/apply:decimal.Decimal
+    - '38156.563333'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - bar
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '22251.37'
+  - !!python/object/apply:decimal.Decimal
+    - '37344.735833'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - ese
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '22107.20'
+  - !!python/object/apply:decimal.Decimal
+    - '37156.170000'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - bar
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '22343.64'
+  - !!python/object/apply:decimal.Decimal
+    - '37344.735833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - ese
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '24470.44'
+  - !!python/object/apply:decimal.Decimal
+    - '39398.541667'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - cally
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '18788.19'
+  - !!python/object/apply:decimal.Decimal
+    - '33570.444167'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - bar
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '24516.26'
+  - !!python/object/apply:decimal.Decimal
+    - '39266.945833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - cally
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '18870.88'
+  - !!python/object/apply:decimal.Decimal
+    - '33570.444167'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - cally
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '18947.31'
+  - !!python/object/apply:decimal.Decimal
+    - '33570.444167'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - cally
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '17808.75'
+  - !!python/object/apply:decimal.Decimal
+    - '32315.597500'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - bar
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '24760.26'
+  - !!python/object/apply:decimal.Decimal
+    - '39266.945833'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - bar
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '23074.64'
+  - !!python/object/apply:decimal.Decimal
+    - '37496.880833'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - cally
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '19203.36'
+  - !!python/object/apply:decimal.Decimal
+    - '33570.444167'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - cally
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '17979.45'
+  - !!python/object/apply:decimal.Decimal
+    - '32315.597500'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - ese
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '22822.00'
+  - !!python/object/apply:decimal.Decimal
+    - '37156.170000'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - cally
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '17203.40'
+  - !!python/object/apply:decimal.Decimal
+    - '31520.536667'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - eing
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '25633.92'
+  - !!python/object/apply:decimal.Decimal
+    - '39829.640000'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - cally
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '19387.15'
+  - !!python/object/apply:decimal.Decimal
+    - '33570.444167'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - eing
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '24165.73'
+  - !!python/object/apply:decimal.Decimal
+    - '38096.687500'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - ese
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '24378.03'
+  - !!python/object/apply:decimal.Decimal
+    - '38156.563333'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - cally
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '17824.70'
+  - !!python/object/apply:decimal.Decimal
+    - '31520.536667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - bar
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '23813.00'
+  - !!python/object/apply:decimal.Decimal
+    - '37496.880833'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - cally
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '17977.43'
+  - !!python/object/apply:decimal.Decimal
+    - '31520.536667'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - able
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '24892.20'
+  - !!python/object/apply:decimal.Decimal
+    - '38248.835833'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - cally
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '18352.18'
+  - !!python/object/apply:decimal.Decimal
+    - '31520.536667'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - eing
+  - Unknown
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '24972.26'
+  - !!python/object/apply:decimal.Decimal
+    - '38096.687500'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - cally
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '20571.28'
+  - !!python/object/apply:decimal.Decimal
+    - '33570.444167'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - cally
+  - Unknown
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '19347.75'
+  - !!python/object/apply:decimal.Decimal
+    - '32315.597500'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - cally
+  - Unknown
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '18690.11'
+  - !!python/object/apply:decimal.Decimal
+    - '31520.536667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - ese
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '24458.51'
+  - !!python/object/apply:decimal.Decimal
+    - '37156.170000'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - cally
+  - Unknown
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '18924.65'
+  - !!python/object/apply:decimal.Decimal
+    - '31520.536667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - cally
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '19732.93'
+  - !!python/object/apply:decimal.Decimal
+    - '32315.597500'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - ese
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '25949.34'
+  - !!python/object/apply:decimal.Decimal
+    - '38156.563333'
+- !!python/tuple
+  - Music
+  - rock
+  - 'amalgscholar #2'
+  - cally
+  - Unknown
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '19325.87'
+  - !!python/object/apply:decimal.Decimal
+    - '31520.536667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - cally
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '20149.26'
+  - !!python/object/apply:decimal.Decimal
+    - '32315.597500'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - cally
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '21531.28'
+  - !!python/object/apply:decimal.Decimal
+    - '33570.444167'
+- !!python/tuple
+  - Men
+  - accessories
+  - 'amalgimporto #2'
+  - ese
+  - Unknown
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '27496.53'
+  - !!python/object/apply:decimal.Decimal
+    - '39398.541667'
+- !!python/tuple
+  - Women
+  - swimwear
+  - 'edu packamalg #2'
+  - able
+  - Unknown
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '25723.83'
+  - !!python/object/apply:decimal.Decimal
+    - '37592.891667'

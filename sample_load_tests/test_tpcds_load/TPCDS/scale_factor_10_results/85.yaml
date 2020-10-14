@@ -1,0 +1,105 @@
+- !!python/tuple
+  - Did not get it on ti
+  - 29.0
+  - !!python/object/apply:decimal.Decimal
+    - '20.810000'
+  - !!python/object/apply:decimal.Decimal
+    - '90.730000'
+- !!python/tuple
+  - Did not like the col
+  - 5.0
+  - !!python/object/apply:decimal.Decimal
+    - '30.570000'
+  - !!python/object/apply:decimal.Decimal
+    - '16.300000'
+- !!python/tuple
+  - Not working any more
+  - 58.0
+  - !!python/object/apply:decimal.Decimal
+    - '976.130000'
+  - !!python/object/apply:decimal.Decimal
+    - '53.686667'
+- !!python/tuple
+  - Stopped working
+  - 16.0
+  - !!python/object/apply:decimal.Decimal
+    - '170.550000'
+  - !!python/object/apply:decimal.Decimal
+    - '92.610000'
+- !!python/tuple
+  - Wrong size
+  - 57.0
+  - !!python/object/apply:decimal.Decimal
+    - '2901.450000'
+  - !!python/object/apply:decimal.Decimal
+    - '51.010000'
+- !!python/tuple
+  - duplicate purchase
+  - 6.0
+  - !!python/object/apply:decimal.Decimal
+    - '199.490000'
+  - !!python/object/apply:decimal.Decimal
+    - '17.540000'
+- !!python/tuple
+  - reason 23
+  - 15.0
+  - !!python/object/apply:decimal.Decimal
+    - '957.370000'
+  - !!python/object/apply:decimal.Decimal
+    - '83.730000'
+- !!python/tuple
+  - reason 27
+  - 19.0
+  - !!python/object/apply:decimal.Decimal
+    - '165.110000'
+  - !!python/object/apply:decimal.Decimal
+    - '72.190000'
+- !!python/tuple
+  - reason 28
+  - 27.0
+  - !!python/object/apply:decimal.Decimal
+    - '523.900000'
+  - !!python/object/apply:decimal.Decimal
+    - '91.980000'
+- !!python/tuple
+  - reason 33
+  - 11.0
+  - !!python/object/apply:decimal.Decimal
+    - '96.240000'
+  - !!python/object/apply:decimal.Decimal
+    - '82.050000'
+- !!python/tuple
+  - reason 34
+  - 33.5
+  - !!python/object/apply:decimal.Decimal
+    - '987.420000'
+  - !!python/object/apply:decimal.Decimal
+    - '43.810000'
+- !!python/tuple
+  - reason 38
+  - 15.0
+  - !!python/object/apply:decimal.Decimal
+    - '282.155000'
+  - !!python/object/apply:decimal.Decimal
+    - '35.490000'
+- !!python/tuple
+  - reason 40
+  - 11.0
+  - !!python/object/apply:decimal.Decimal
+    - '172.660000'
+  - !!python/object/apply:decimal.Decimal
+    - '32.910000'
+- !!python/tuple
+  - reason 41
+  - 40.0
+  - !!python/object/apply:decimal.Decimal
+    - '1449.980000'
+  - !!python/object/apply:decimal.Decimal
+    - '2.320000'
+- !!python/tuple
+  - unauthoized purchase
+  - 85.0
+  - !!python/object/apply:decimal.Decimal
+    - '4622.410000'
+  - !!python/object/apply:decimal.Decimal
+    - '8.650000'

@@ -1,0 +1,600 @@
+- !!python/tuple
+  - 2000
+  - 1001002
+  - 'amalgamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '6140504.11'
+- !!python/tuple
+  - 2000
+  - 2003002
+  - 'exportiimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '5492037.02'
+- !!python/tuple
+  - 2000
+  - 2001002
+  - 'amalgimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '5482448.55'
+- !!python/tuple
+  - 2000
+  - 2004002
+  - 'edu packimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '5481715.55'
+- !!python/tuple
+  - 2000
+  - 3002002
+  - 'importoexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '5002644.79'
+- !!python/tuple
+  - 2000
+  - 4004002
+  - 'edu packedu pack #2'
+  - !!python/object/apply:decimal.Decimal
+    - '4753326.13'
+- !!python/tuple
+  - 2000
+  - 1004002
+  - 'edu packamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '4697567.37'
+- !!python/tuple
+  - 2000
+  - 4001002
+  - 'amalgedu pack #2'
+  - !!python/object/apply:decimal.Decimal
+    - '4290172.91'
+- !!python/tuple
+  - 2000
+  - 1003001
+  - 'exportiamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '4135193.73'
+- !!python/tuple
+  - 2000
+  - 4002002
+  - 'importoedu pack #2'
+  - !!python/object/apply:decimal.Decimal
+    - '3919575.64'
+- !!python/tuple
+  - 2000
+  - 5001002
+  - 'amalgscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '3901499.70'
+- !!python/tuple
+  - 2000
+  - 5003002
+  - 'exportischolar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '3897761.20'
+- !!python/tuple
+  - 2000
+  - 1003002
+  - 'exportiamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '3869616.10'
+- !!python/tuple
+  - 2000
+  - 3001002
+  - 'amalgexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '3864146.63'
+- !!python/tuple
+  - 2000
+  - 4003002
+  - 'exportiedu pack #2'
+  - !!python/object/apply:decimal.Decimal
+    - '3738866.24'
+- !!python/tuple
+  - 2000
+  - 3004002
+  - 'edu packexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '3730600.40'
+- !!python/tuple
+  - 2000
+  - 3003002
+  - 'exportiexporti #2'
+  - !!python/object/apply:decimal.Decimal
+    - '3619502.69'
+- !!python/tuple
+  - 2000
+  - 4003001
+  - 'exportiedu pack #1'
+  - !!python/object/apply:decimal.Decimal
+    - '3605673.19'
+- !!python/tuple
+  - 2000
+  - 2002001
+  - 'importoimporto #1'
+  - !!python/object/apply:decimal.Decimal
+    - '3561690.61'
+- !!python/tuple
+  - 2000
+  - 5002002
+  - 'importoscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '3239769.29'
+- !!python/tuple
+  - 2000
+  - 2001001
+  - 'amalgimporto #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2929318.92'
+- !!python/tuple
+  - 2000
+  - 2002002
+  - 'importoimporto #2'
+  - !!python/object/apply:decimal.Decimal
+    - '2848573.38'
+- !!python/tuple
+  - 2000
+  - 4004001
+  - 'edu packedu pack #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2824658.69'
+- !!python/tuple
+  - 2000
+  - 1002002
+  - 'importoamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '2812519.94'
+- !!python/tuple
+  - 2000
+  - 3004001
+  - 'edu packexporti #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2747968.19'
+- !!python/tuple
+  - 2000
+  - 3003001
+  - 'exportiexporti #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2691213.41'
+- !!python/tuple
+  - 2000
+  - 4002001
+  - 'importoedu pack #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2621942.72'
+- !!python/tuple
+  - 2000
+  - 5004002
+  - 'edu packscholar #2'
+  - !!python/object/apply:decimal.Decimal
+    - '2621311.64'
+- !!python/tuple
+  - 2000
+  - 4001001
+  - 'amalgedu pack #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2609002.49'
+- !!python/tuple
+  - 2000
+  - 3001001
+  - 'amalgexporti #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2552944.52'
+- !!python/tuple
+  - 2000
+  - 1004001
+  - 'edu packamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2547446.83'
+- !!python/tuple
+  - 2000
+  - 5003001
+  - 'exportischolar #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2540133.85'
+- !!python/tuple
+  - 2000
+  - 1002001
+  - 'importoamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2448602.19'
+- !!python/tuple
+  - 2000
+  - 2003001
+  - 'exportiimporto #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2261003.78'
+- !!python/tuple
+  - 2000
+  - 5001001
+  - 'amalgscholar #1'
+  - !!python/object/apply:decimal.Decimal
+    - '2090896.74'
+- !!python/tuple
+  - 2000
+  - 3002001
+  - 'importoexporti #1'
+  - !!python/object/apply:decimal.Decimal
+    - '1981815.32'
+- !!python/tuple
+  - 2000
+  - 1001001
+  - 'amalgamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '1973014.23'
+- !!python/tuple
+  - 2000
+  - 2004001
+  - 'edu packimporto #1'
+  - !!python/object/apply:decimal.Decimal
+    - '1728537.61'
+- !!python/tuple
+  - 2000
+  - 5002001
+  - 'importoscholar #1'
+  - !!python/object/apply:decimal.Decimal
+    - '1549126.28'
+- !!python/tuple
+  - 2000
+  - 5004001
+  - 'edu packscholar #1'
+  - !!python/object/apply:decimal.Decimal
+    - '1428414.66'
+- !!python/tuple
+  - 2000
+  - 9014008
+  - 'edu packunivamalg #8'
+  - !!python/object/apply:decimal.Decimal
+    - '942814.99'
+- !!python/tuple
+  - 2000
+  - 7007004
+  - 'brandbrand #4'
+  - !!python/object/apply:decimal.Decimal
+    - '925395.79'
+- !!python/tuple
+  - 2000
+  - 9003008
+  - 'exportimaxi #8'
+  - !!python/object/apply:decimal.Decimal
+    - '871608.09'
+- !!python/tuple
+  - 2000
+  - 9009012
+  - 'maximaxi #12'
+  - !!python/object/apply:decimal.Decimal
+    - '862903.10'
+- !!python/tuple
+  - 2000
+  - 6003008
+  - 'exporticorp #8'
+  - !!python/object/apply:decimal.Decimal
+    - '833684.02'
+- !!python/tuple
+  - 2000
+  - 9015002
+  - 'scholarunivamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '833188.94'
+- !!python/tuple
+  - 2000
+  - 9011008
+  - 'amalgunivamalg #8'
+  - !!python/object/apply:decimal.Decimal
+    - '796650.81'
+- !!python/tuple
+  - 2000
+  - 8009010
+  - 'maxinameless #10'
+  - !!python/object/apply:decimal.Decimal
+    - '793948.69'
+- !!python/tuple
+  - 2000
+  - 9006009
+  - 'corpmaxi #9'
+  - !!python/object/apply:decimal.Decimal
+    - '761425.08'
+- !!python/tuple
+  - 2000
+  - 6010002
+  - 'univbrand #2'
+  - !!python/object/apply:decimal.Decimal
+    - '747711.24'
+- !!python/tuple
+  - 2000
+  - 6013002
+  - 'exportibrand #2'
+  - !!python/object/apply:decimal.Decimal
+    - '740853.76'
+- !!python/tuple
+  - 2000
+  - 9009002
+  - 'maximaxi #2'
+  - !!python/object/apply:decimal.Decimal
+    - '722176.54'
+- !!python/tuple
+  - 2000
+  - 6007006
+  - 'brandcorp #6'
+  - !!python/object/apply:decimal.Decimal
+    - '716294.42'
+- !!python/tuple
+  - 2000
+  - 9004008
+  - 'edu packmaxi #8'
+  - !!python/object/apply:decimal.Decimal
+    - '703171.03'
+- !!python/tuple
+  - 2000
+  - 9007008
+  - 'brandmaxi #8'
+  - !!python/object/apply:decimal.Decimal
+    - '678273.00'
+- !!python/tuple
+  - 2000
+  - 10015001
+  - 'scholaramalgamalg #1'
+  - !!python/object/apply:decimal.Decimal
+    - '667547.54'
+- !!python/tuple
+  - 2000
+  - 7016001
+  - 'corpnameless #1'
+  - !!python/object/apply:decimal.Decimal
+    - '660294.85'
+- !!python/tuple
+  - 2000
+  - 6010004
+  - 'univbrand #4'
+  - !!python/object/apply:decimal.Decimal
+    - '651301.68'
+- !!python/tuple
+  - 2000
+  - 6013006
+  - 'exportibrand #6'
+  - !!python/object/apply:decimal.Decimal
+    - '641419.25'
+- !!python/tuple
+  - 2000
+  - 7010004
+  - 'univnameless #4'
+  - !!python/object/apply:decimal.Decimal
+    - '632576.46'
+- !!python/tuple
+  - 2000
+  - 7015009
+  - 'scholarnameless #9'
+  - !!python/object/apply:decimal.Decimal
+    - '605911.87'
+- !!python/tuple
+  - 2000
+  - 9001003
+  - 'amalgmaxi #3'
+  - !!python/object/apply:decimal.Decimal
+    - '597751.13'
+- !!python/tuple
+  - 2000
+  - 6005001
+  - 'scholarcorp #1'
+  - !!python/object/apply:decimal.Decimal
+    - '594892.58'
+- !!python/tuple
+  - 2000
+  - 8003004
+  - 'exportinameless #4'
+  - !!python/object/apply:decimal.Decimal
+    - '591217.17'
+- !!python/tuple
+  - 2000
+  - 7003004
+  - 'exportibrand #4'
+  - !!python/object/apply:decimal.Decimal
+    - '590218.30'
+- !!python/tuple
+  - 2000
+  - 10013002
+  - 'exportiamalgamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '579681.45'
+- !!python/tuple
+  - 2000
+  - 7012009
+  - 'importonameless #9'
+  - !!python/object/apply:decimal.Decimal
+    - '569655.31'
+- !!python/tuple
+  - 2000
+  - 7007010
+  - 'brandbrand #10'
+  - !!python/object/apply:decimal.Decimal
+    - '565052.30'
+- !!python/tuple
+  - 2000
+  - 9013009
+  - 'exportiunivamalg #9'
+  - !!python/object/apply:decimal.Decimal
+    - '560039.58'
+- !!python/tuple
+  - 2000
+  - 7004004
+  - 'edu packbrand #4'
+  - !!python/object/apply:decimal.Decimal
+    - '554222.04'
+- !!python/tuple
+  - 2000
+  - 7009010
+  - 'maxibrand #10'
+  - !!python/object/apply:decimal.Decimal
+    - '552163.03'
+- !!python/tuple
+  - 2000
+  - 7014002
+  - 'edu packnameless #2'
+  - !!python/object/apply:decimal.Decimal
+    - '550810.90'
+- !!python/tuple
+  - 2000
+  - 9005009
+  - 'scholarmaxi #9'
+  - !!python/object/apply:decimal.Decimal
+    - '543427.00'
+- !!python/tuple
+  - 2000
+  - 8003003
+  - 'exportinameless #3'
+  - !!python/object/apply:decimal.Decimal
+    - '542771.54'
+- !!python/tuple
+  - 2000
+  - 6014003
+  - 'edu packbrand #3'
+  - !!python/object/apply:decimal.Decimal
+    - '542398.94'
+- !!python/tuple
+  - 2000
+  - 9012003
+  - 'importounivamalg #3'
+  - !!python/object/apply:decimal.Decimal
+    - '538665.39'
+- !!python/tuple
+  - 2000
+  - 9013002
+  - 'exportiunivamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '524770.62'
+- !!python/tuple
+  - 2000
+  - 8015006
+  - 'scholarmaxi #6'
+  - !!python/object/apply:decimal.Decimal
+    - '523383.56'
+- !!python/tuple
+  - 2000
+  - 9014002
+  - 'edu packunivamalg #2'
+  - !!python/object/apply:decimal.Decimal
+    - '513831.70'
+- !!python/tuple
+  - 2000
+  - 10002014
+  - 'importounivamalg #14'
+  - !!python/object/apply:decimal.Decimal
+    - '510900.95'
+- !!python/tuple
+  - 2000
+  - 8005009
+  - 'scholarnameless #9'
+  - !!python/object/apply:decimal.Decimal
+    - '510104.87'
+- !!python/tuple
+  - 2000
+  - 9011009
+  - 'amalgunivamalg #9'
+  - !!python/object/apply:decimal.Decimal
+    - '510057.41'
+- !!python/tuple
+  - 2000
+  - 9010009
+  - 'univunivamalg #9'
+  - !!python/object/apply:decimal.Decimal
+    - '506115.00'
+- !!python/tuple
+  - 2000
+  - 6003003
+  - 'exporticorp #3'
+  - !!python/object/apply:decimal.Decimal
+    - '503553.67'
+- !!python/tuple
+  - 2000
+  - 6010007
+  - 'univbrand #7'
+  - !!python/object/apply:decimal.Decimal
+    - '497579.18'
+- !!python/tuple
+  - 2000
+  - 10009013
+  - 'maxiunivamalg #13'
+  - !!python/object/apply:decimal.Decimal
+    - '495939.64'
+- !!python/tuple
+  - 2000
+  - 7010009
+  - 'univnameless #9'
+  - !!python/object/apply:decimal.Decimal
+    - '495815.10'
+- !!python/tuple
+  - 2000
+  - 7013002
+  - 'exportinameless #2'
+  - !!python/object/apply:decimal.Decimal
+    - '495535.85'
+- !!python/tuple
+  - 2000
+  - 7001005
+  - 'amalgbrand #5'
+  - !!python/object/apply:decimal.Decimal
+    - '493765.32'
+- !!python/tuple
+  - 2000
+  - 9013012
+  - 'exportiunivamalg #12'
+  - !!python/object/apply:decimal.Decimal
+    - '489821.73'
+- !!python/tuple
+  - 2000
+  - 8007001
+  - 'brandnameless #1'
+  - !!python/object/apply:decimal.Decimal
+    - '487361.98'
+- !!python/tuple
+  - 2000
+  - 10007015
+  - 'brandunivamalg #15'
+  - !!python/object/apply:decimal.Decimal
+    - '481405.79'
+- !!python/tuple
+  - 2000
+  - 9002008
+  - 'importomaxi #8'
+  - !!python/object/apply:decimal.Decimal
+    - '479170.32'
+- !!python/tuple
+  - 2000
+  - 7010008
+  - 'univnameless #8'
+  - !!python/object/apply:decimal.Decimal
+    - '474618.02'
+- !!python/tuple
+  - 2000
+  - 8004001
+  - 'edu packnameless #1'
+  - !!python/object/apply:decimal.Decimal
+    - '470042.41'
+- !!python/tuple
+  - 2000
+  - 6015006
+  - 'scholarbrand #6'
+  - !!python/object/apply:decimal.Decimal
+    - '467751.90'
+- !!python/tuple
+  - 2000
+  - 7002010
+  - 'importobrand #10'
+  - !!python/object/apply:decimal.Decimal
+    - '457078.13'
+- !!python/tuple
+  - 2000
+  - 8008007
+  - 'namelessnameless #7'
+  - !!python/object/apply:decimal.Decimal
+    - '454122.98'
+- !!python/tuple
+  - 2000
+  - 6007007
+  - 'brandcorp #7'
+  - !!python/object/apply:decimal.Decimal
+    - '447552.56'
+- !!python/tuple
+  - 2000
+  - 7012010
+  - 'importonameless #10'
+  - !!python/object/apply:decimal.Decimal
+    - '444371.98'

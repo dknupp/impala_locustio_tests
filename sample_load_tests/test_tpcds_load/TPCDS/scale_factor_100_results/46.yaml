@@ -1,0 +1,1000 @@
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Bethel
+  - 18329544
+  - !!python/object/apply:decimal.Decimal
+    - '221.64'
+  - !!python/object/apply:decimal.Decimal
+    - '-3113.57'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Bridgeport
+  - 9454127
+  - !!python/object/apply:decimal.Decimal
+    - '10.77'
+  - !!python/object/apply:decimal.Decimal
+    - '-12137.37'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Brownsville
+  - 4298323
+  - !!python/object/apply:decimal.Decimal
+    - '493.42'
+  - !!python/object/apply:decimal.Decimal
+    - '-7259.60'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Crossroads
+  - 16432399
+  - !!python/object/apply:decimal.Decimal
+    - '424.42'
+  - !!python/object/apply:decimal.Decimal
+    - '-15065.66'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Crossroads
+  - 22247795
+  - !!python/object/apply:decimal.Decimal
+    - '7345.85'
+  - !!python/object/apply:decimal.Decimal
+    - '-7517.57'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Edgewood
+  - 20754483
+  - !!python/object/apply:decimal.Decimal
+    - '298.40'
+  - !!python/object/apply:decimal.Decimal
+    - '887.15'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Glenwood
+  - 9609530
+  - !!python/object/apply:decimal.Decimal
+    - '7880.57'
+  - !!python/object/apply:decimal.Decimal
+    - '-8565.92'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Greenwood
+  - 5706329
+  - !!python/object/apply:decimal.Decimal
+    - '1356.83'
+  - !!python/object/apply:decimal.Decimal
+    - '-7823.31'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Hazelwood
+  - 4843653
+  - !!python/object/apply:decimal.Decimal
+    - '1644.18'
+  - !!python/object/apply:decimal.Decimal
+    - '-6096.95'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Kingston
+  - 23115465
+  - !!python/object/apply:decimal.Decimal
+    - '2261.27'
+  - !!python/object/apply:decimal.Decimal
+    - '-9339.36'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Lakeside
+  - 13277433
+  - !!python/object/apply:decimal.Decimal
+    - '1518.22'
+  - !!python/object/apply:decimal.Decimal
+    - '-11866.94'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Mount Vernon
+  - 7085883
+  - !!python/object/apply:decimal.Decimal
+    - '3368.15'
+  - !!python/object/apply:decimal.Decimal
+    - '-17015.64'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Mount Zion
+  - 8877546
+  - !!python/object/apply:decimal.Decimal
+    - '3083.45'
+  - !!python/object/apply:decimal.Decimal
+    - '-22564.16'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Mount Zion
+  - 18752844
+  - !!python/object/apply:decimal.Decimal
+    - '1498.55'
+  - !!python/object/apply:decimal.Decimal
+    - '-3533.14'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Oak Hill
+  - 6950004
+  - !!python/object/apply:decimal.Decimal
+    - '466.31'
+  - !!python/object/apply:decimal.Decimal
+    - '-8764.73'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Oak Hill
+  - 20212138
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-1529.38'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Oakland
+  - 8181088
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-9668.94'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Oakwood
+  - 17499043
+  - !!python/object/apply:decimal.Decimal
+    - '51.74'
+  - !!python/object/apply:decimal.Decimal
+    - '-268.64'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Pleasant Grove
+  - 22923066
+  - !!python/object/apply:decimal.Decimal
+    - '1272.10'
+  - !!python/object/apply:decimal.Decimal
+    - '-2359.21'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Providence
+  - 2576338
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-5779.63'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Riverdale
+  - 19341627
+  - !!python/object/apply:decimal.Decimal
+    - '6054.52'
+  - !!python/object/apply:decimal.Decimal
+    - '-22656.63'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Summit
+  - 4206654
+  - !!python/object/apply:decimal.Decimal
+    - '2808.69'
+  - !!python/object/apply:decimal.Decimal
+    - '-4628.34'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Union Hill
+  - 23792025
+  - !!python/object/apply:decimal.Decimal
+    - '1545.35'
+  - !!python/object/apply:decimal.Decimal
+    - '-13650.32'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Valley View
+  - 1862515
+  - !!python/object/apply:decimal.Decimal
+    - '26.47'
+  - !!python/object/apply:decimal.Decimal
+    - '-2530.11'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Valley View
+  - 14065973
+  - !!python/object/apply:decimal.Decimal
+    - '4798.37'
+  - !!python/object/apply:decimal.Decimal
+    - '-11266.64'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - Waterloo
+  - 22719301
+  - !!python/object/apply:decimal.Decimal
+    - '978.66'
+  - !!python/object/apply:decimal.Decimal
+    - '-12808.06'
+- !!python/tuple
+  - ''
+  - ''
+  - ''
+  - White Oak
+  - 5662541
+  - !!python/object/apply:decimal.Decimal
+    - '514.96'
+  - !!python/object/apply:decimal.Decimal
+    - '-10476.52'
+- !!python/tuple
+  - ''
+  - ''
+  - Aberdeen
+  - Glenwood
+  - 1228226
+  - !!python/object/apply:decimal.Decimal
+    - '7978.64'
+  - !!python/object/apply:decimal.Decimal
+    - '-13018.80'
+- !!python/tuple
+  - ''
+  - ''
+  - Aberdeen
+  - Lakewood
+  - 7895353
+  - !!python/object/apply:decimal.Decimal
+    - '794.30'
+  - !!python/object/apply:decimal.Decimal
+    - '-8893.59'
+- !!python/tuple
+  - ''
+  - ''
+  - Adrian
+  - Mount Pleasant
+  - 8936385
+  - !!python/object/apply:decimal.Decimal
+    - '1071.14'
+  - !!python/object/apply:decimal.Decimal
+    - '-10149.94'
+- !!python/tuple
+  - ''
+  - ''
+  - Adrian
+  - Mountain View
+  - 19773329
+  - !!python/object/apply:decimal.Decimal
+    - '330.79'
+  - !!python/object/apply:decimal.Decimal
+    - '-2064.84'
+- !!python/tuple
+  - ''
+  - ''
+  - Amity
+  - Five Forks
+  - 20533129
+  - !!python/object/apply:decimal.Decimal
+    - '586.39'
+  - !!python/object/apply:decimal.Decimal
+    - '4616.34'
+- !!python/tuple
+  - ''
+  - ''
+  - Antioch
+  - Buena Vista
+  - 5181639
+  - !!python/object/apply:decimal.Decimal
+    - '3622.10'
+  - !!python/object/apply:decimal.Decimal
+    - '-16975.23'
+- !!python/tuple
+  - ''
+  - ''
+  - Antioch
+  - Edgewood
+  - 6354132
+  - !!python/object/apply:decimal.Decimal
+    - '7090.92'
+  - !!python/object/apply:decimal.Decimal
+    - '-14130.08'
+- !!python/tuple
+  - ''
+  - ''
+  - Antioch
+  - Gary
+  - 16986547
+  - !!python/object/apply:decimal.Decimal
+    - '415.68'
+  - !!python/object/apply:decimal.Decimal
+    - '-3220.70'
+- !!python/tuple
+  - ''
+  - ''
+  - Antioch
+  - Kingston
+  - 13412691
+  - !!python/object/apply:decimal.Decimal
+    - '2579.95'
+  - !!python/object/apply:decimal.Decimal
+    - '-10141.90'
+- !!python/tuple
+  - ''
+  - ''
+  - Antioch
+  - Lakeside
+  - 19423245
+  - !!python/object/apply:decimal.Decimal
+    - '851.55'
+  - !!python/object/apply:decimal.Decimal
+    - '-8987.48'
+- !!python/tuple
+  - ''
+  - ''
+  - Antioch
+  - Marion
+  - 17291685
+  - !!python/object/apply:decimal.Decimal
+    - '1216.40'
+  - !!python/object/apply:decimal.Decimal
+    - '-15074.64'
+- !!python/tuple
+  - ''
+  - ''
+  - Antioch
+  - Oakdale
+  - 17170964
+  - !!python/object/apply:decimal.Decimal
+    - '3292.84'
+  - !!python/object/apply:decimal.Decimal
+    - '-3899.56'
+- !!python/tuple
+  - ''
+  - ''
+  - Antioch
+  - Summit
+  - 14916484
+  - !!python/object/apply:decimal.Decimal
+    - '2765.67'
+  - !!python/object/apply:decimal.Decimal
+    - '-11239.11'
+- !!python/tuple
+  - ''
+  - ''
+  - Antioch
+  - Woodlawn
+  - 1036843
+  - !!python/object/apply:decimal.Decimal
+    - '1860.47'
+  - !!python/object/apply:decimal.Decimal
+    - '-9794.38'
+- !!python/tuple
+  - ''
+  - ''
+  - Antioch
+  - Woodville
+  - 15346617
+  - !!python/object/apply:decimal.Decimal
+    - '5565.17'
+  - !!python/object/apply:decimal.Decimal
+    - '-23612.00'
+- !!python/tuple
+  - ''
+  - ''
+  - Appleton
+  - Summit
+  - 10490479
+  - !!python/object/apply:decimal.Decimal
+    - '2371.81'
+  - !!python/object/apply:decimal.Decimal
+    - '-15780.88'
+- !!python/tuple
+  - ''
+  - ''
+  - Arlington
+  - Cedar Grove
+  - 6839903
+  - !!python/object/apply:decimal.Decimal
+    - '1087.49'
+  - !!python/object/apply:decimal.Decimal
+    - '-2321.78'
+- !!python/tuple
+  - ''
+  - ''
+  - Arlington
+  - Jackson
+  - 3417656
+  - !!python/object/apply:decimal.Decimal
+    - '2264.90'
+  - !!python/object/apply:decimal.Decimal
+    - '-13985.76'
+- !!python/tuple
+  - ''
+  - ''
+  - Arlington
+  - Jenkins
+  - 5786737
+  - !!python/object/apply:decimal.Decimal
+    - '6725.32'
+  - !!python/object/apply:decimal.Decimal
+    - '-7392.53'
+- !!python/tuple
+  - ''
+  - ''
+  - Arlington
+  - Oak Ridge
+  - 18948725
+  - !!python/object/apply:decimal.Decimal
+    - '444.62'
+  - !!python/object/apply:decimal.Decimal
+    - '-26773.89'
+- !!python/tuple
+  - ''
+  - ''
+  - Arlington
+  - Oak Ridge
+  - 22667371
+  - !!python/object/apply:decimal.Decimal
+    - '8517.77'
+  - !!python/object/apply:decimal.Decimal
+    - '-14957.90'
+- !!python/tuple
+  - ''
+  - ''
+  - Arlington
+  - Pleasant Valley
+  - 15755769
+  - !!python/object/apply:decimal.Decimal
+    - '405.61'
+  - !!python/object/apply:decimal.Decimal
+    - '-11093.68'
+- !!python/tuple
+  - ''
+  - ''
+  - Arlington
+  - Wildwood
+  - 11865364
+  - !!python/object/apply:decimal.Decimal
+    - '301.08'
+  - !!python/object/apply:decimal.Decimal
+    - '-6660.62'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Clinton
+  - 3885328
+  - !!python/object/apply:decimal.Decimal
+    - '4075.37'
+  - !!python/object/apply:decimal.Decimal
+    - '-2266.72'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Highland Park
+  - 6552741
+  - !!python/object/apply:decimal.Decimal
+    - '3937.79'
+  - !!python/object/apply:decimal.Decimal
+    - '-10076.19'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Highland Park
+  - 7634649
+  - !!python/object/apply:decimal.Decimal
+    - '574.84'
+  - !!python/object/apply:decimal.Decimal
+    - '-13326.40'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Lakeside
+  - 11387706
+  - !!python/object/apply:decimal.Decimal
+    - '1270.50'
+  - !!python/object/apply:decimal.Decimal
+    - '-5720.85'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Little River
+  - 9105231
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-726.52'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Oakdale
+  - 22584753
+  - !!python/object/apply:decimal.Decimal
+    - '1992.44'
+  - !!python/object/apply:decimal.Decimal
+    - '-2410.60'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Pinhook
+  - 16886806
+  - !!python/object/apply:decimal.Decimal
+    - '453.41'
+  - !!python/object/apply:decimal.Decimal
+    - '-3744.82'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Pleasant Hill
+  - 3899721
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-4834.46'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Summerville
+  - 18058688
+  - !!python/object/apply:decimal.Decimal
+    - '900.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-4288.26'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Summit
+  - 14997188
+  - !!python/object/apply:decimal.Decimal
+    - '4798.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-11576.47'
+- !!python/tuple
+  - ''
+  - ''
+  - Ashland
+  - Union
+  - 20586461
+  - !!python/object/apply:decimal.Decimal
+    - '5880.65'
+  - !!python/object/apply:decimal.Decimal
+    - '-20505.60'
+- !!python/tuple
+  - ''
+  - ''
+  - Bath
+  - Jamestown
+  - 6643365
+  - !!python/object/apply:decimal.Decimal
+    - '4384.17'
+  - !!python/object/apply:decimal.Decimal
+    - '-6867.65'
+- !!python/tuple
+  - ''
+  - ''
+  - Belmont
+  - Clinton
+  - 21210529
+  - !!python/object/apply:decimal.Decimal
+    - '60.52'
+  - !!python/object/apply:decimal.Decimal
+    - '-11883.91'
+- !!python/tuple
+  - ''
+  - ''
+  - Belmont
+  - Concord
+  - 14466936
+  - !!python/object/apply:decimal.Decimal
+    - '406.75'
+  - !!python/object/apply:decimal.Decimal
+    - '-5426.95'
+- !!python/tuple
+  - ''
+  - ''
+  - Belmont
+  - Kingston
+  - 9138349
+  - !!python/object/apply:decimal.Decimal
+    - '912.47'
+  - !!python/object/apply:decimal.Decimal
+    - '-3793.81'
+- !!python/tuple
+  - ''
+  - ''
+  - Belmont
+  - Kingston
+  - 21702743
+  - !!python/object/apply:decimal.Decimal
+    - '2407.66'
+  - !!python/object/apply:decimal.Decimal
+    - '-6496.56'
+- !!python/tuple
+  - ''
+  - ''
+  - Belmont
+  - Riverside
+  - 19573543
+  - !!python/object/apply:decimal.Decimal
+    - '2801.09'
+  - !!python/object/apply:decimal.Decimal
+    - '-3818.58'
+- !!python/tuple
+  - ''
+  - ''
+  - Belmont
+  - Union Hill
+  - 20964937
+  - !!python/object/apply:decimal.Decimal
+    - '2.85'
+  - !!python/object/apply:decimal.Decimal
+    - '-5015.07'
+- !!python/tuple
+  - ''
+  - ''
+  - Benton
+  - Summit
+  - 17193763
+  - !!python/object/apply:decimal.Decimal
+    - '2917.58'
+  - !!python/object/apply:decimal.Decimal
+    - '-5798.87'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Ashland
+  - 9175229
+  - !!python/object/apply:decimal.Decimal
+    - '4574.57'
+  - !!python/object/apply:decimal.Decimal
+    - '-20542.61'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Centerville
+  - 13662733
+  - !!python/object/apply:decimal.Decimal
+    - '325.02'
+  - !!python/object/apply:decimal.Decimal
+    - '-7665.69'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Crossroads
+  - 8525999
+  - !!python/object/apply:decimal.Decimal
+    - '2067.78'
+  - !!python/object/apply:decimal.Decimal
+    - '-24188.04'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Greenville
+  - 14575891
+  - !!python/object/apply:decimal.Decimal
+    - '253.18'
+  - !!python/object/apply:decimal.Decimal
+    - '-14591.16'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Greenwood
+  - 21039920
+  - !!python/object/apply:decimal.Decimal
+    - '970.95'
+  - !!python/object/apply:decimal.Decimal
+    - '-4558.87'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Harmony
+  - 3490209
+  - !!python/object/apply:decimal.Decimal
+    - '204.97'
+  - !!python/object/apply:decimal.Decimal
+    - '-5724.82'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Harmony
+  - 14313868
+  - !!python/object/apply:decimal.Decimal
+    - '375.35'
+  - !!python/object/apply:decimal.Decimal
+    - '-7707.74'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Highland
+  - 5077093
+  - !!python/object/apply:decimal.Decimal
+    - '3657.34'
+  - !!python/object/apply:decimal.Decimal
+    - '-18706.93'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Mountain View
+  - 18152635
+  - !!python/object/apply:decimal.Decimal
+    - '3812.89'
+  - !!python/object/apply:decimal.Decimal
+    - '-3135.50'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Oak Ridge
+  - 10252246
+  - !!python/object/apply:decimal.Decimal
+    - '526.41'
+  - !!python/object/apply:decimal.Decimal
+    - '-8923.26'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Plainview
+  - 16998793
+  - !!python/object/apply:decimal.Decimal
+    - '524.01'
+  - !!python/object/apply:decimal.Decimal
+    - '-6357.85'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Red Hill
+  - 22882467
+  - !!python/object/apply:decimal.Decimal
+    - '12.61'
+  - !!python/object/apply:decimal.Decimal
+    - '-3082.01'
+- !!python/tuple
+  - ''
+  - ''
+  - Bethel
+  - Walnut Grove
+  - 13908857
+  - !!python/object/apply:decimal.Decimal
+    - '54.49'
+  - !!python/object/apply:decimal.Decimal
+    - '-471.09'
+- !!python/tuple
+  - ''
+  - ''
+  - Blanchard
+  - Maple Grove
+  - 21741383
+  - !!python/object/apply:decimal.Decimal
+    - '1310.84'
+  - !!python/object/apply:decimal.Decimal
+    - '-16775.10'
+- !!python/tuple
+  - ''
+  - ''
+  - Brentwood
+  - Sulphur Springs
+  - 7264370
+  - !!python/object/apply:decimal.Decimal
+    - '227.83'
+  - !!python/object/apply:decimal.Decimal
+    - '-8361.76'
+- !!python/tuple
+  - ''
+  - ''
+  - Bridgeport
+  - Belmont
+  - 7343812
+  - !!python/object/apply:decimal.Decimal
+    - '883.54'
+  - !!python/object/apply:decimal.Decimal
+    - '-15811.47'
+- !!python/tuple
+  - ''
+  - ''
+  - Bridgeport
+  - Brownsville
+  - 6624825
+  - !!python/object/apply:decimal.Decimal
+    - '1388.15'
+  - !!python/object/apply:decimal.Decimal
+    - '-8986.14'
+- !!python/tuple
+  - ''
+  - ''
+  - Bridgeport
+  - Cedar Grove
+  - 16719356
+  - !!python/object/apply:decimal.Decimal
+    - '5082.91'
+  - !!python/object/apply:decimal.Decimal
+    - '-16146.20'
+- !!python/tuple
+  - ''
+  - ''
+  - Bridgeport
+  - Centerville
+  - 17833333
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-8496.63'
+- !!python/tuple
+  - ''
+  - ''
+  - Bridgeport
+  - Five Forks
+  - 20521206
+  - !!python/object/apply:decimal.Decimal
+    - '1456.53'
+  - !!python/object/apply:decimal.Decimal
+    - '-10025.47'
+- !!python/tuple
+  - ''
+  - ''
+  - Bridgeport
+  - Martinsville
+  - 4356983
+  - !!python/object/apply:decimal.Decimal
+    - '5182.89'
+  - !!python/object/apply:decimal.Decimal
+    - '-15696.17'
+- !!python/tuple
+  - ''
+  - ''
+  - Bridgeport
+  - Stewart
+  - 1154204
+  - !!python/object/apply:decimal.Decimal
+    - '324.40'
+  - !!python/object/apply:decimal.Decimal
+    - '-12011.39'
+- !!python/tuple
+  - ''
+  - ''
+  - Brookfield
+  - Sulphur Springs
+  - 4654589
+  - !!python/object/apply:decimal.Decimal
+    - '766.34'
+  - !!python/object/apply:decimal.Decimal
+    - '-2624.92'
+- !!python/tuple
+  - ''
+  - ''
+  - Brookwood
+  - Pleasant Grove
+  - 15014004
+  - !!python/object/apply:decimal.Decimal
+    - '189.60'
+  - !!python/object/apply:decimal.Decimal
+    - '-3550.79'
+- !!python/tuple
+  - ''
+  - ''
+  - Brownsville
+  - ''
+  - 12075233
+  - !!python/object/apply:decimal.Decimal
+    - '2041.59'
+  - !!python/object/apply:decimal.Decimal
+    - '-3722.23'
+- !!python/tuple
+  - ''
+  - ''
+  - Brownsville
+  - Farmington
+  - 13965347
+  - !!python/object/apply:decimal.Decimal
+    - '8954.44'
+  - !!python/object/apply:decimal.Decimal
+    - '-20307.26'
+- !!python/tuple
+  - ''
+  - ''
+  - Brownsville
+  - Franklin
+  - 2606822
+  - !!python/object/apply:decimal.Decimal
+    - '305.22'
+  - !!python/object/apply:decimal.Decimal
+    - '-1126.38'
+- !!python/tuple
+  - ''
+  - ''
+  - Brownsville
+  - Friendship
+  - 4125419
+  - !!python/object/apply:decimal.Decimal
+    - '1134.33'
+  - !!python/object/apply:decimal.Decimal
+    - '2015.01'
+- !!python/tuple
+  - ''
+  - ''
+  - Brownsville
+  - Green Acres
+  - 2178645
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-8182.39'
+- !!python/tuple
+  - ''
+  - ''
+  - Brownsville
+  - Harmony
+  - 20038555
+  - !!python/object/apply:decimal.Decimal
+    - '158.46'
+  - !!python/object/apply:decimal.Decimal
+    - '-4820.52'
+- !!python/tuple
+  - ''
+  - ''
+  - Brownsville
+  - Liberty
+  - 7474577
+  - !!python/object/apply:decimal.Decimal
+    - '1030.34'
+  - !!python/object/apply:decimal.Decimal
+    - '-9891.13'

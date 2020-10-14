@@ -1,0 +1,1900 @@
+- !!python/tuple
+  - AAAAAAAAAADIFAAA
+  - Sir
+  - Chad
+  - Villegas
+  - '223'
+  - 'Ninth '
+  - Drive
+  - Suite T
+  - Sunnyside
+  - Rutland County
+  - VT
+  - '02552'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '6646.08'
+- !!python/tuple
+  - AAAAAAAAACLHEAAA
+  - Dr.
+  - David
+  - Webster
+  - '852'
+  - '14th '
+  - RD
+  - Suite P
+  - Plainview
+  - Grand Isle County
+  - VT
+  - 04283
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '1729.87'
+- !!python/tuple
+  - AAAAAAAAACNBCAAA
+  - Dr.
+  - Millard
+  - Olive
+  - '582'
+  - 'Lee '
+  - Lane
+  - Suite 50
+  - New Hope
+  - Grand Isle County
+  - VT
+  - 09431
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '2612.48'
+- !!python/tuple
+  - AAAAAAAAAEDJFAAA
+  - Dr.
+  - Bernard
+  - Boyce
+  - '147'
+  - 'Church '
+  - Cir.
+  - Suite 130
+  - Lakeview
+  - Addison County
+  - VT
+  - 09179
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '6040.67'
+- !!python/tuple
+  - AAAAAAAAAFJGAAAA
+  - Mrs.
+  - Betty
+  - Campos
+  - '8'
+  - 'Walnut '
+  - Ct.
+  - Suite P
+  - Williamsville
+  - Washington County
+  - VT
+  - 09354
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '4212.43'
+- !!python/tuple
+  - AAAAAAAAAFOHEAAA
+  - ''
+  - Bonnie
+  - Hall
+  - '340'
+  - Fourteenth Miller
+  - Wy
+  - Suite 200
+  - Florence
+  - Rutland County
+  - VT
+  - 03994
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '2859.11'
+- !!python/tuple
+  - AAAAAAAAAGDKAAAA
+  - Sir
+  - Julius
+  - Ellis
+  - '861'
+  - 11th Eigth
+  - Court
+  - Suite 340
+  - Winslow
+  - Grand Isle County
+  - VT
+  - 09125
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '4541.86'
+- !!python/tuple
+  - AAAAAAAAAHHKDAAA
+  - Mr.
+  - Matthew
+  - Ferrell
+  - '978'
+  - 4th Hill
+  - RD
+  - Suite C
+  - Granite
+  - Addison County
+  - VT
+  - 06884
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '2298.22'
+- !!python/tuple
+  - AAAAAAAAAHKIAAAA
+  - Ms.
+  - Cynthia
+  - Dennis
+  - '876'
+  - Forest Jackson
+  - Street
+  - Suite 470
+  - Marion
+  - Grand Isle County
+  - VT
+  - 00999
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '5626.50'
+- !!python/tuple
+  - AAAAAAAAAIBJGAAA
+  - Miss
+  - Angela
+  - Chatman
+  - '205'
+  - '12th '
+  - Cir.
+  - Suite L
+  - Arlington
+  - Windsor County
+  - VT
+  - '07157'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '5753.61'
+- !!python/tuple
+  - AAAAAAAAAJAECAAA
+  - Ms.
+  - Maureen
+  - Harris
+  - '250'
+  - 'Lincoln '
+  - RD
+  - Suite 480
+  - Pleasant Valley
+  - Orleans County
+  - VT
+  - '03077'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '1849.64'
+- !!python/tuple
+  - AAAAAAAAAJHDHAAA
+  - Mrs.
+  - Katherine
+  - Humphrey
+  - '593'
+  - 'Ash '
+  - Wy
+  - Suite 110
+  - Woodlawn
+  - Lamoille County
+  - VT
+  - 04698
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '2147.89'
+- !!python/tuple
+  - AAAAAAAAAJKBCAAA
+  - Mr.
+  - Michael
+  - Landry
+  - '216'
+  - Mill Smith
+  - Ct.
+  - Suite 380
+  - Clinton
+  - Essex County
+  - VT
+  - 08822
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '2205.63'
+- !!python/tuple
+  - AAAAAAAAAJNFHAAA
+  - Ms.
+  - Katherine
+  - Picard
+  - '66'
+  - Center Cedar
+  - Drive
+  - Suite G
+  - Edgewood
+  - Lamoille County
+  - VT
+  - 00669
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '6244.09'
+- !!python/tuple
+  - AAAAAAAAAKEEBAAA
+  - Mr.
+  - Dale
+  - Parris
+  - '72'
+  - 'Park '
+  - Pkwy
+  - Suite 70
+  - Macedonia
+  - Windsor County
+  - VT
+  - 01687
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '4920.51'
+- !!python/tuple
+  - AAAAAAAAAKPHHAAA
+  - Mr.
+  - Byron
+  - Lambert
+  - '278'
+  - 'Central '
+  - Avenue
+  - Suite 400
+  - Glenwood
+  - Chittenden County
+  - VT
+  - '04111'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '4825.67'
+- !!python/tuple
+  - AAAAAAAAALJPFAAA
+  - Miss
+  - Theresa
+  - Garrett
+  - '253'
+  - 'Jefferson '
+  - Ave
+  - Suite W
+  - Ashland
+  - Grand Isle County
+  - VT
+  - 04844
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '5741.82'
+- !!python/tuple
+  - AAAAAAAAALKJDAAA
+  - Mr.
+  - Tony
+  - Jackson
+  - '528'
+  - 'Lincoln '
+  - Avenue
+  - Suite K
+  - Lincoln
+  - Washington County
+  - VT
+  - 01889
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '6325.91'
+- !!python/tuple
+  - AAAAAAAAALLDHAAA
+  - Mr.
+  - Ray
+  - Duffy
+  - '228'
+  - Davis 6th
+  - Court
+  - Suite J
+  - Kingston
+  - Franklin County
+  - VT
+  - '05575'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '2574.99'
+- !!python/tuple
+  - AAAAAAAAAPCKDAAA
+  - Mrs.
+  - Katherine
+  - Montes
+  - '692'
+  - 'Main '
+  - Street
+  - Suite 270
+  - Harmony
+  - Orleans County
+  - VT
+  - '06404'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '3221.68'
+- !!python/tuple
+  - AAAAAAAAAPKHBAAA
+  - Miss
+  - Germaine
+  - Hyde
+  - '995'
+  - '14th '
+  - Dr.
+  - Suite M
+  - Unionville
+  - Bennington County
+  - VT
+  - '02311'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '3346.72'
+- !!python/tuple
+  - AAAAAAAAAPKKDAAA
+  - Ms.
+  - Wanda
+  - Craig
+  - '917'
+  - 11th Center
+  - Road
+  - Suite 320
+  - Valley View
+  - Windsor County
+  - VT
+  - '05724'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '14087.29'
+- !!python/tuple
+  - AAAAAAAABBCDFAAA
+  - Dr.
+  - Jane
+  - ''
+  - '16'
+  - 'Railroad '
+  - Dr.
+  - Suite S
+  - Lincoln
+  - Windsor County
+  - VT
+  - 01889
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '1901.12'
+- !!python/tuple
+  - AAAAAAAABBNEAAAA
+  - Miss
+  - Clara
+  - Lipscomb
+  - '640'
+  - Washington Green
+  - Cir.
+  - Suite 380
+  - Riverview
+  - Caledonia County
+  - VT
+  - 09603
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '8364.93'
+- !!python/tuple
+  - AAAAAAAABCHPGAAA
+  - Dr.
+  - John
+  - Glover
+  - '464'
+  - 11th 8th
+  - Boulevard
+  - Suite 200
+  - Cedar Grove
+  - Washington County
+  - VT
+  - '01011'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '4427.58'
+- !!python/tuple
+  - AAAAAAAABDANCAAA
+  - ''
+  - ''
+  - Carter
+  - '921'
+  - North Ridge
+  - ST
+  - Suite K
+  - Smith
+  - Essex County
+  - VT
+  - 07917
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '6937.74'
+- !!python/tuple
+  - AAAAAAAABDKAHAAA
+  - Dr.
+  - Christopher
+  - Ohara
+  - '588'
+  - Williams 4th
+  - Cir.
+  - Suite 290
+  - Bath
+  - Orange County
+  - VT
+  - '01173'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '2014.26'
+- !!python/tuple
+  - AAAAAAAABEACCAAA
+  - Miss
+  - Lavelle
+  - Farmer
+  - '199'
+  - 7th Park
+  - Ave
+  - Suite N
+  - Oakdale
+  - Lamoille County
+  - VT
+  - 09584
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '1749.97'
+- !!python/tuple
+  - AAAAAAAABECGDAAA
+  - Sir
+  - Larry
+  - Ford
+  - '279'
+  - Hill Forest
+  - Ct.
+  - Suite 40
+  - Woodlawn
+  - Windsor County
+  - VT
+  - 04698
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '4867.57'
+- !!python/tuple
+  - AAAAAAAABEJBAAAA
+  - Ms.
+  - Neva
+  - Chen
+  - '888'
+  - 'Chestnut '
+  - Road
+  - Suite C
+  - Wilson
+  - Grand Isle County
+  - VT
+  - '07571'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '6029.41'
+- !!python/tuple
+  - AAAAAAAABFJDEAAA
+  - Sir
+  - Daniel
+  - Cooper
+  - '670'
+  - '2nd '
+  - Ct.
+  - Suite I
+  - Mountain View
+  - Grand Isle County
+  - VT
+  - '05066'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '4268.30'
+- !!python/tuple
+  - AAAAAAAABGDODAAA
+  - Sir
+  - Kyle
+  - Price
+  - '116'
+  - 'Highland '
+  - Court
+  - Suite P
+  - Morton
+  - Franklin County
+  - VT
+  - 07349
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '2558.95'
+- !!python/tuple
+  - AAAAAAAABHAPDAAA
+  - Sir
+  - Ralph
+  - Stone
+  - '962'
+  - 'Sunset '
+  - Way
+  - Suite V
+  - Hamilton
+  - Orleans County
+  - VT
+  - 03408
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '2769.36'
+- !!python/tuple
+  - AAAAAAAABHDLGAAA
+  - Mrs.
+  - Norma
+  - Smith
+  - '320'
+  - '3rd '
+  - Street
+  - Suite V
+  - Arlington
+  - Caledonia County
+  - VT
+  - '07157'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '6593.62'
+- !!python/tuple
+  - AAAAAAAABIPLGAAA
+  - Sir
+  - Donald
+  - Anderson
+  - '521'
+  - 'Railroad '
+  - Lane
+  - Suite W
+  - Harmony
+  - Addison County
+  - VT
+  - '06404'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '1866.50'
+- !!python/tuple
+  - AAAAAAAABIPLGAAA
+  - Sir
+  - Donald
+  - Anderson
+  - '521'
+  - 'Railroad '
+  - Lane
+  - Suite W
+  - Harmony
+  - Addison County
+  - VT
+  - '06404'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '2645.55'
+- !!python/tuple
+  - AAAAAAAABJBFAAAA
+  - Sir
+  - Christopher
+  - Lipscomb
+  - '435'
+  - 'Wilson '
+  - Blvd
+  - Suite 0
+  - Pine Grove
+  - Windham County
+  - VT
+  - 05193
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '16390.43'
+- !!python/tuple
+  - AAAAAAAABJNACAAA
+  - Dr.
+  - Ethel
+  - ''
+  - '269'
+  - '3rd '
+  - Road
+  - Suite S
+  - Friendship
+  - Caledonia County
+  - VT
+  - '05136'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '5931.79'
+- !!python/tuple
+  - AAAAAAAABKHDFAAA
+  - Mrs.
+  - Samantha
+  - Sikes
+  - '426'
+  - Cedar Oak
+  - Ave
+  - Suite 400
+  - Farmington
+  - Caledonia County
+  - VT
+  - 09745
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '9383.54'
+- !!python/tuple
+  - AAAAAAAABKMBHAAA
+  - Dr.
+  - Lawrence
+  - Rush
+  - '266'
+  - 'Mill '
+  - Parkway
+  - Suite X
+  - Woodland
+  - Essex County
+  - VT
+  - '05454'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '3478.21'
+- !!python/tuple
+  - AAAAAAAABLECGAAA
+  - Sir
+  - William
+  - Young
+  - '882'
+  - ''
+  - ''
+  - Suite B
+  - Shady Grove
+  - ''
+  - VT
+  - ''
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '4781.57'
+- !!python/tuple
+  - AAAAAAAABNCEGAAA
+  - Dr.
+  - Robert
+  - Hynes
+  - '576'
+  - Second 9th
+  - Road
+  - Suite C
+  - Waterloo
+  - Orleans County
+  - VT
+  - '02275'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '2116.72'
+- !!python/tuple
+  - AAAAAAAABPHGGAAA
+  - Dr.
+  - Margarita
+  - Reilly
+  - '412'
+  - Pine 7th
+  - Circle
+  - Suite 470
+  - Midway
+  - Orleans County
+  - VT
+  - '02504'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '2117.49'
+- !!python/tuple
+  - AAAAAAAACBKFFAAA
+  - Dr.
+  - Julia
+  - Brooks
+  - '504'
+  - College 4th
+  - Lane
+  - Suite P
+  - Crescent
+  - Essex County
+  - VT
+  - '02003'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '2597.92'
+- !!python/tuple
+  - AAAAAAAACFAAFAAA
+  - Ms.
+  - Sarah
+  - Paris
+  - '175'
+  - Pine Seventh
+  - Ave
+  - Suite B
+  - Fowler
+  - Orleans County
+  - VT
+  - 01683
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '2038.84'
+- !!python/tuple
+  - AAAAAAAACFAAFAAA
+  - Ms.
+  - Sarah
+  - Paris
+  - '175'
+  - Pine Seventh
+  - Ave
+  - Suite B
+  - Fowler
+  - Orleans County
+  - VT
+  - 01683
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '3327.04'
+- !!python/tuple
+  - AAAAAAAACFHCDAAA
+  - Ms.
+  - Wanita
+  - Ray
+  - '900'
+  - Mill Ash
+  - ST
+  - Suite Q
+  - Crossroads
+  - Windsor County
+  - VT
+  - '01134'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '1780.20'
+- !!python/tuple
+  - AAAAAAAACFHCDAAA
+  - Ms.
+  - Wanita
+  - Ray
+  - '900'
+  - Mill Ash
+  - ST
+  - Suite Q
+  - Crossroads
+  - Windsor County
+  - VT
+  - '01134'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '7258.20'
+- !!python/tuple
+  - AAAAAAAACHBCEAAA
+  - Mrs.
+  - Laura
+  - Mccrary
+  - '886'
+  - 'Central '
+  - ST
+  - Suite 80
+  - Stringtown
+  - Bennington County
+  - VT
+  - '00762'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '3764.12'
+- !!python/tuple
+  - AAAAAAAACHJHHAAA
+  - Mrs.
+  - Rachel
+  - Phillips
+  - '434'
+  - 'Second '
+  - Lane
+  - Suite P
+  - Evans
+  - Lamoille County
+  - VT
+  - 02884
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '3187.63'
+- !!python/tuple
+  - AAAAAAAACIFPDAAA
+  - Dr.
+  - Ben
+  - Young
+  - ''
+  - 'Hill '
+  - ''
+  - Suite 10
+  - ''
+  - Franklin County
+  - VT
+  - ''
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '1789.63'
+- !!python/tuple
+  - AAAAAAAACIFPDAAA
+  - Dr.
+  - Ben
+  - Young
+  - ''
+  - 'Hill '
+  - ''
+  - Suite 10
+  - ''
+  - Franklin County
+  - VT
+  - ''
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '2797.70'
+- !!python/tuple
+  - AAAAAAAACJLAAAAA
+  - Mrs.
+  - Angela
+  - Rogers
+  - '467'
+  - Poplar Oak
+  - Ave
+  - Suite 490
+  - Woodruff
+  - Essex County
+  - VT
+  - '04774'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '3086.86'
+- !!python/tuple
+  - AAAAAAAACJOIEAAA
+  - Ms.
+  - Rosemary
+  - Allen
+  - '180'
+  - Second 4th
+  - ST
+  - Suite 360
+  - Springfield
+  - Chittenden County
+  - VT
+  - 09903
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '7979.27'
+- !!python/tuple
+  - AAAAAAAACKHMCAAA
+  - Mrs.
+  - Heidi
+  - Caron
+  - '906'
+  - '9th '
+  - Way
+  - Suite 140
+  - Harmony
+  - Essex County
+  - VT
+  - '06404'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '1947.92'
+- !!python/tuple
+  - AAAAAAAACKIBDAAA
+  - Ms.
+  - Katie
+  - Fox
+  - '803'
+  - 'Washington '
+  - Road
+  - Suite G
+  - Riverdale
+  - Chittenden County
+  - VT
+  - 09991
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '2412.11'
+- !!python/tuple
+  - AAAAAAAACKIECAAA
+  - Sir
+  - Paul
+  - Davis
+  - '880'
+  - Cedar Lincoln
+  - Blvd
+  - Suite 310
+  - Enterprise
+  - Addison County
+  - VT
+  - '02357'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '8213.87'
+- !!python/tuple
+  - AAAAAAAACMDNBAAA
+  - Ms.
+  - Marilyn
+  - Jenkins
+  - '788'
+  - '3rd '
+  - Avenue
+  - Suite 450
+  - New Hope
+  - Bennington County
+  - VT
+  - 09431
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '7824.69'
+- !!python/tuple
+  - AAAAAAAACMEICAAA
+  - Mr.
+  - Christopher
+  - Torres
+  - '705'
+  - 1st Pine
+  - Cir.
+  - Suite 400
+  - Enterprise
+  - Bennington County
+  - VT
+  - '02357'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '4383.00'
+- !!python/tuple
+  - AAAAAAAACMEICAAA
+  - Mr.
+  - Christopher
+  - Torres
+  - '705'
+  - 1st Pine
+  - Cir.
+  - Suite 400
+  - Enterprise
+  - Bennington County
+  - VT
+  - '02357'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '6206.35'
+- !!python/tuple
+  - AAAAAAAACNKDHAAA
+  - Mr.
+  - Warren
+  - Baer
+  - '199'
+  - 'Spruce '
+  - Lane
+  - Suite 370
+  - Shiloh
+  - Orleans County
+  - VT
+  - 09875
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '1911.77'
+- !!python/tuple
+  - AAAAAAAACNLGAAAA
+  - Dr.
+  - John
+  - Durham
+  - '294'
+  - '3rd '
+  - Court
+  - Suite X
+  - Union
+  - Windsor County
+  - VT
+  - 09321
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '6161.24'
+- !!python/tuple
+  - AAAAAAAACPAOGAAA
+  - Dr.
+  - Nathan
+  - Robinson
+  - '702'
+  - 'Mill '
+  - Cir.
+  - Suite N
+  - Waterloo
+  - Chittenden County
+  - VT
+  - '02275'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '5254.93'
+- !!python/tuple
+  - AAAAAAAADBDGFAAA
+  - Sir
+  - Chad
+  - Barnett
+  - '379'
+  - Hill 13th
+  - Ct.
+  - Suite 110
+  - Highland Park
+  - Rutland County
+  - VT
+  - '07134'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '3522.18'
+- !!python/tuple
+  - AAAAAAAADBPJBAAA
+  - Mrs.
+  - Teresa
+  - Thompson
+  - '73'
+  - North Cedar
+  - Wy
+  - Suite J
+  - Jackson
+  - Chittenden County
+  - VT
+  - 09583
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '8105.01'
+- !!python/tuple
+  - AAAAAAAADDBBFAAA
+  - Mrs.
+  - Viola
+  - Mortensen
+  - '294'
+  - '3rd '
+  - Court
+  - Suite X
+  - Union
+  - Windsor County
+  - VT
+  - 09321
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '8649.04'
+- !!python/tuple
+  - AAAAAAAADDJHHAAA
+  - Sir
+  - David
+  - Maestas
+  - '573'
+  - 'Ridge '
+  - Ct.
+  - Suite X
+  - White Oak
+  - Rutland County
+  - VT
+  - 07268
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '4563.37'
+- !!python/tuple
+  - AAAAAAAADDMIDAAA
+  - Mr.
+  - Dylan
+  - Jackson
+  - '800'
+  - 'Jefferson '
+  - Way
+  - Suite 200
+  - Hamilton
+  - Windham County
+  - VT
+  - 03408
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '2848.50'
+- !!python/tuple
+  - AAAAAAAADDNIFAAA
+  - Ms.
+  - Elizabeth
+  - Graham
+  - '956'
+  - 'Maple '
+  - Ct.
+  - Suite S
+  - Harmony
+  - Rutland County
+  - VT
+  - '06404'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '8952.24'
+- !!python/tuple
+  - AAAAAAAADFGKFAAA
+  - Dr.
+  - Richard
+  - Crist
+  - '415'
+  - 13th Hickory
+  - Road
+  - Suite Y
+  - Point Pleasant
+  - Bennington County
+  - VT
+  - 05349
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '7819.41'
+- !!python/tuple
+  - AAAAAAAADFLKDAAA
+  - Dr.
+  - Meghan
+  - Marks
+  - '694'
+  - Hillcrest View
+  - Way
+  - Suite E
+  - Crossroads
+  - Washington County
+  - VT
+  - '01134'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '3814.66'
+- !!python/tuple
+  - AAAAAAAADHBKEAAA
+  - ''
+  - Dave
+  - Pantoja
+  - '108'
+  - Third Elm
+  - Blvd
+  - Suite 430
+  - Riverside
+  - Addison County
+  - VT
+  - 09831
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '2802.30'
+- !!python/tuple
+  - AAAAAAAADJCCCAAA
+  - Mrs.
+  - Betty
+  - Souza
+  - '945'
+  - '4th '
+  - Boulevard
+  - Suite 150
+  - Waterloo
+  - Orleans County
+  - VT
+  - '02275'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '2829.41'
+- !!python/tuple
+  - AAAAAAAADKNEAAAA
+  - Miss
+  - Katherine
+  - Middleton
+  - '427'
+  - 'Center '
+  - Ln
+  - Suite J
+  - Crossroads
+  - Orange County
+  - VT
+  - '01134'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '8200.71'
+- !!python/tuple
+  - AAAAAAAADLAHAAAA
+  - Dr.
+  - Domingo
+  - Oconnell
+  - '69'
+  - 'Seventh '
+  - Ln
+  - Suite V
+  - King
+  - Lamoille County
+  - VT
+  - 00608
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '2152.40'
+- !!python/tuple
+  - AAAAAAAADLAHAAAA
+  - Dr.
+  - Domingo
+  - Oconnell
+  - '69'
+  - 'Seventh '
+  - Ln
+  - Suite V
+  - King
+  - Lamoille County
+  - VT
+  - 00608
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '5465.15'
+- !!python/tuple
+  - AAAAAAAADLECBAAA
+  - Ms.
+  - Meredith
+  - Duffy
+  - '211'
+  - 'Smith '
+  - Street
+  - Suite 260
+  - Pine Grove
+  - Essex County
+  - VT
+  - 05193
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '3013.49'
+- !!python/tuple
+  - AAAAAAAADLECBAAA
+  - Ms.
+  - Meredith
+  - Duffy
+  - '211'
+  - 'Smith '
+  - Street
+  - Suite 260
+  - Pine Grove
+  - Essex County
+  - VT
+  - 05193
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '7212.17'
+- !!python/tuple
+  - AAAAAAAADLMJFAAA
+  - Sir
+  - Spencer
+  - Deal
+  - '225'
+  - 'Willow '
+  - Boulevard
+  - Suite 330
+  - Somerville
+  - Caledonia County
+  - VT
+  - 08383
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '3731.31'
+- !!python/tuple
+  - AAAAAAAADNCPDAAA
+  - Dr.
+  - Antonio
+  - Segura
+  - '624'
+  - Jackson 11th
+  - Street
+  - Suite 400
+  - Spring Hill
+  - Rutland County
+  - VT
+  - 07387
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '1964.39'
+- !!python/tuple
+  - AAAAAAAADOGLAAAA
+  - Sir
+  - Ryan
+  - Edwards
+  - '36'
+  - '7th '
+  - Cir.
+  - Suite D
+  - Bear Creek
+  - Orleans County
+  - VT
+  - '03675'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '4377.74'
+- !!python/tuple
+  - AAAAAAAADPBNBAAA
+  - Dr.
+  - ''
+  - ''
+  - '840'
+  - Maple Sixth
+  - Cir.
+  - Suite K
+  - Mount Olive
+  - Lamoille County
+  - VT
+  - 08659
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '1879.38'
+- !!python/tuple
+  - AAAAAAAADPNDBAAA
+  - Dr.
+  - William
+  - Watkins
+  - '206'
+  - '4th '
+  - Boulevard
+  - Suite C
+  - Ashland
+  - Grand Isle County
+  - VT
+  - 04844
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '3105.59'
+- !!python/tuple
+  - AAAAAAAAEAEBHAAA
+  - Sir
+  - Nicholas
+  - Jones
+  - '136'
+  - '10th '
+  - Lane
+  - Suite 260
+  - Lebanon
+  - Addison County
+  - VT
+  - 03498
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '8636.44'
+- !!python/tuple
+  - AAAAAAAAECEOCAAA
+  - Dr.
+  - Raymond
+  - Luke
+  - '559'
+  - 'Davis '
+  - Ct.
+  - Suite M
+  - Oak Ridge
+  - Franklin County
+  - VT
+  - 08971
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '9069.61'
+- !!python/tuple
+  - AAAAAAAAECHNDAAA
+  - Mr.
+  - Donald
+  - Beaulieu
+  - '295'
+  - 'Washington '
+  - Ave
+  - Suite U
+  - Concord
+  - Bennington County
+  - VT
+  - '04707'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '3855.68'
+- !!python/tuple
+  - AAAAAAAAECJHCAAA
+  - Sir
+  - Frank
+  - Moore
+  - '630'
+  - 13th 4th
+  - ST
+  - Suite 210
+  - Pleasant Hill
+  - Essex County
+  - VT
+  - '04204'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '2946.96'
+- !!python/tuple
+  - AAAAAAAAEEDGAAAA
+  - Mr.
+  - Jack
+  - Alvarado
+  - '362'
+  - Main West
+  - Drive
+  - Suite 100
+  - Waterloo
+  - Rutland County
+  - VT
+  - '02275'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '8389.50'
+- !!python/tuple
+  - AAAAAAAAEHLFFAAA
+  - Ms.
+  - Iva
+  - Wiley
+  - '851'
+  - Center 4th
+  - Drive
+  - Suite J
+  - Lone Pine
+  - Caledonia County
+  - VT
+  - 08041
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '1730.11'
+- !!python/tuple
+  - AAAAAAAAEHLHCAAA
+  - Mrs.
+  - Cynthia
+  - Moyer
+  - '920'
+  - Ridge Franklin
+  - Ct.
+  - Suite E
+  - Forest Hills
+  - Lamoille County
+  - VT
+  - 09837
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '2772.37'
+- !!python/tuple
+  - AAAAAAAAEJIMFAAA
+  - Mrs.
+  - Barbara
+  - Goodman
+  - '651'
+  - 'Fourth '
+  - Ct.
+  - Suite S
+  - Belmont
+  - Chittenden County
+  - VT
+  - 00791
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '1844.03'
+- !!python/tuple
+  - AAAAAAAAEJIODAAA
+  - Dr.
+  - Beulah
+  - Hill
+  - '961'
+  - Sycamore Forest
+  - Dr.
+  - Suite S
+  - Leesville
+  - Rutland County
+  - VT
+  - '06023'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '2159.43'
+- !!python/tuple
+  - AAAAAAAAEJLDFAAA
+  - Miss
+  - Ute
+  - Porter
+  - '781'
+  - Williams First
+  - Blvd
+  - Suite V
+  - Waterloo
+  - Orange County
+  - VT
+  - '02275'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '4728.92'
+- !!python/tuple
+  - AAAAAAAAELFHGAAA
+  - Sir
+  - Brian
+  - Starling
+  - '715'
+  - Central 5th
+  - Ave
+  - Suite P
+  - Bay View
+  - Orange County
+  - VT
+  - '07057'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '6106.92'
+- !!python/tuple
+  - AAAAAAAAELJFGAAA
+  - Dr.
+  - Monte
+  - Massey
+  - '728'
+  - 'North '
+  - Way
+  - Suite 390
+  - Waterloo
+  - Caledonia County
+  - VT
+  - '02275'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '1742.49'
+- !!python/tuple
+  - AAAAAAAAEMHBAAAA
+  - Miss
+  - Wendy
+  - Stephens
+  - '96'
+  - Oak Twelfth
+  - Dr.
+  - Suite J
+  - Sherwood Forest
+  - Orange County
+  - VT
+  - '07302'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '4959.48'
+- !!python/tuple
+  - AAAAAAAAEMJHFAAA
+  - Dr.
+  - Cherie
+  - Temple
+  - '288'
+  - 7th College
+  - Street
+  - Suite 100
+  - Brownsville
+  - Washington County
+  - VT
+  - 09910
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - condo
+  - !!python/object/apply:decimal.Decimal
+    - '5952.88'
+- !!python/tuple
+  - AAAAAAAAENLGEAAA
+  - Mr.
+  - Ronnie
+  - Day
+  - '494'
+  - 'Meadow '
+  - Wy
+  - Suite 110
+  - Florence
+  - Washington County
+  - VT
+  - 03994
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - single family
+  - !!python/object/apply:decimal.Decimal
+    - '2209.66'
+- !!python/tuple
+  - AAAAAAAAEOAJFAAA
+  - Ms.
+  - Jacqueline
+  - Brewer
+  - '630'
+  - Broadway Elevnth
+  - Drive
+  - Suite E
+  - Wilson
+  - Rutland County
+  - VT
+  - '07571'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '4282.56'
+- !!python/tuple
+  - AAAAAAAAEPDMDAAA
+  - Dr.
+  - Gloria
+  - Martinez
+  - '245'
+  - 'Cedar '
+  - Road
+  - Suite 220
+  - Arlington
+  - Grand Isle County
+  - VT
+  - '07157'
+  - United States
+  - !!python/object/apply:decimal.Decimal
+    - '-5.00'
+  - apartment
+  - !!python/object/apply:decimal.Decimal
+    - '3441.85'

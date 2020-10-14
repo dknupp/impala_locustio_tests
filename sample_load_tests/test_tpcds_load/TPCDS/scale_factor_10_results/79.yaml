@@ -1,0 +1,900 @@
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 281963
+  - !!python/object/apply:decimal.Decimal
+    - '12436.17'
+  - !!python/object/apply:decimal.Decimal
+    - '-37124.92'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1061963
+  - !!python/object/apply:decimal.Decimal
+    - '4336.77'
+  - !!python/object/apply:decimal.Decimal
+    - '-29856.93'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1526556
+  - !!python/object/apply:decimal.Decimal
+    - '12953.07'
+  - !!python/object/apply:decimal.Decimal
+    - '-26938.67'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1906624
+  - !!python/object/apply:decimal.Decimal
+    - '10628.76'
+  - !!python/object/apply:decimal.Decimal
+    - '-25909.25'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 216592
+  - !!python/object/apply:decimal.Decimal
+    - '165.14'
+  - !!python/object/apply:decimal.Decimal
+    - '-25618.90'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 281061
+  - !!python/object/apply:decimal.Decimal
+    - '4949.35'
+  - !!python/object/apply:decimal.Decimal
+    - '-24874.06'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1090412
+  - !!python/object/apply:decimal.Decimal
+    - '8231.22'
+  - !!python/object/apply:decimal.Decimal
+    - '-24829.64'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 808437
+  - !!python/object/apply:decimal.Decimal
+    - '1492.69'
+  - !!python/object/apply:decimal.Decimal
+    - '-24793.60'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2184148
+  - !!python/object/apply:decimal.Decimal
+    - '2658.50'
+  - !!python/object/apply:decimal.Decimal
+    - '-24663.93'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1039448
+  - !!python/object/apply:decimal.Decimal
+    - '7841.25'
+  - !!python/object/apply:decimal.Decimal
+    - '-24319.19'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1148501
+  - !!python/object/apply:decimal.Decimal
+    - '2961.78'
+  - !!python/object/apply:decimal.Decimal
+    - '-23940.19'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2368307
+  - !!python/object/apply:decimal.Decimal
+    - '3787.01'
+  - !!python/object/apply:decimal.Decimal
+    - '-23255.19'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1171035
+  - !!python/object/apply:decimal.Decimal
+    - '519.37'
+  - !!python/object/apply:decimal.Decimal
+    - '-22496.69'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 9966
+  - !!python/object/apply:decimal.Decimal
+    - '4707.65'
+  - !!python/object/apply:decimal.Decimal
+    - '-22119.71'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 102958
+  - !!python/object/apply:decimal.Decimal
+    - '447.87'
+  - !!python/object/apply:decimal.Decimal
+    - '-21890.42'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1266082
+  - !!python/object/apply:decimal.Decimal
+    - '8536.52'
+  - !!python/object/apply:decimal.Decimal
+    - '-21558.83'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 122732
+  - !!python/object/apply:decimal.Decimal
+    - '8490.39'
+  - !!python/object/apply:decimal.Decimal
+    - '-21279.11'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1820418
+  - !!python/object/apply:decimal.Decimal
+    - '611.33'
+  - !!python/object/apply:decimal.Decimal
+    - '-21031.21'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1086565
+  - !!python/object/apply:decimal.Decimal
+    - '3034.11'
+  - !!python/object/apply:decimal.Decimal
+    - '-20540.97'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1076353
+  - !!python/object/apply:decimal.Decimal
+    - '1563.65'
+  - !!python/object/apply:decimal.Decimal
+    - '-20312.73'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1726108
+  - !!python/object/apply:decimal.Decimal
+    - '2832.62'
+  - !!python/object/apply:decimal.Decimal
+    - '-20276.70'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1403165
+  - !!python/object/apply:decimal.Decimal
+    - '9832.01'
+  - !!python/object/apply:decimal.Decimal
+    - '-20155.91'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1159434
+  - !!python/object/apply:decimal.Decimal
+    - '7551.52'
+  - !!python/object/apply:decimal.Decimal
+    - '-19960.21'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1473474
+  - !!python/object/apply:decimal.Decimal
+    - '4012.29'
+  - !!python/object/apply:decimal.Decimal
+    - '-19758.13'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 397095
+  - !!python/object/apply:decimal.Decimal
+    - '3014.67'
+  - !!python/object/apply:decimal.Decimal
+    - '-19522.60'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1275196
+  - !!python/object/apply:decimal.Decimal
+    - '1806.31'
+  - !!python/object/apply:decimal.Decimal
+    - '-19022.97'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 589965
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-19017.61'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2287723
+  - !!python/object/apply:decimal.Decimal
+    - '2680.29'
+  - !!python/object/apply:decimal.Decimal
+    - '-18895.12'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 757234
+  - !!python/object/apply:decimal.Decimal
+    - '6942.88'
+  - !!python/object/apply:decimal.Decimal
+    - '-18243.29'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2294842
+  - !!python/object/apply:decimal.Decimal
+    - '9392.31'
+  - !!python/object/apply:decimal.Decimal
+    - '-18234.30'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2367226
+  - !!python/object/apply:decimal.Decimal
+    - '27.09'
+  - !!python/object/apply:decimal.Decimal
+    - '-18161.04'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1512066
+  - !!python/object/apply:decimal.Decimal
+    - '2121.24'
+  - !!python/object/apply:decimal.Decimal
+    - '-18153.16'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1222185
+  - !!python/object/apply:decimal.Decimal
+    - '1270.54'
+  - !!python/object/apply:decimal.Decimal
+    - '-18085.61'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 546515
+  - !!python/object/apply:decimal.Decimal
+    - '2339.66'
+  - !!python/object/apply:decimal.Decimal
+    - '-18080.58'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 24368
+  - !!python/object/apply:decimal.Decimal
+    - '2218.18'
+  - !!python/object/apply:decimal.Decimal
+    - '-18027.77'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1780425
+  - !!python/object/apply:decimal.Decimal
+    - '5271.31'
+  - !!python/object/apply:decimal.Decimal
+    - '-17955.86'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1539116
+  - !!python/object/apply:decimal.Decimal
+    - '3916.64'
+  - !!python/object/apply:decimal.Decimal
+    - '-17945.43'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 602191
+  - !!python/object/apply:decimal.Decimal
+    - '4945.90'
+  - !!python/object/apply:decimal.Decimal
+    - '-17885.39'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1439863
+  - !!python/object/apply:decimal.Decimal
+    - '7778.54'
+  - !!python/object/apply:decimal.Decimal
+    - '-17798.51'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 832458
+  - !!python/object/apply:decimal.Decimal
+    - '1861.62'
+  - !!python/object/apply:decimal.Decimal
+    - '-17760.44'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1460926
+  - !!python/object/apply:decimal.Decimal
+    - '5821.64'
+  - !!python/object/apply:decimal.Decimal
+    - '-17503.25'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 514083
+  - !!python/object/apply:decimal.Decimal
+    - '7762.24'
+  - !!python/object/apply:decimal.Decimal
+    - '-17339.46'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2208159
+  - !!python/object/apply:decimal.Decimal
+    - '7516.90'
+  - !!python/object/apply:decimal.Decimal
+    - '-17094.77'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1808086
+  - !!python/object/apply:decimal.Decimal
+    - '1711.88'
+  - !!python/object/apply:decimal.Decimal
+    - '-16898.32'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1562892
+  - !!python/object/apply:decimal.Decimal
+    - '11287.39'
+  - !!python/object/apply:decimal.Decimal
+    - '-16791.47'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1617223
+  - !!python/object/apply:decimal.Decimal
+    - '10741.84'
+  - !!python/object/apply:decimal.Decimal
+    - '-16727.44'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 675893
+  - !!python/object/apply:decimal.Decimal
+    - '4515.46'
+  - !!python/object/apply:decimal.Decimal
+    - '-16710.61'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1844195
+  - !!python/object/apply:decimal.Decimal
+    - '986.42'
+  - !!python/object/apply:decimal.Decimal
+    - '-16674.00'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2276486
+  - !!python/object/apply:decimal.Decimal
+    - '3762.13'
+  - !!python/object/apply:decimal.Decimal
+    - '-16429.54'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 230726
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-16300.53'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 944193
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-16236.52'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1489994
+  - !!python/object/apply:decimal.Decimal
+    - '3998.65'
+  - !!python/object/apply:decimal.Decimal
+    - '-16167.42'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 31707
+  - !!python/object/apply:decimal.Decimal
+    - '1597.12'
+  - !!python/object/apply:decimal.Decimal
+    - '-16165.15'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 841150
+  - !!python/object/apply:decimal.Decimal
+    - '5332.50'
+  - !!python/object/apply:decimal.Decimal
+    - '-16153.34'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1521283
+  - !!python/object/apply:decimal.Decimal
+    - '533.78'
+  - !!python/object/apply:decimal.Decimal
+    - '-16100.87'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1998976
+  - !!python/object/apply:decimal.Decimal
+    - '544.34'
+  - !!python/object/apply:decimal.Decimal
+    - '-16019.85'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 892772
+  - !!python/object/apply:decimal.Decimal
+    - '2047.83'
+  - !!python/object/apply:decimal.Decimal
+    - '-15912.04'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 706828
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-15865.96'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 244479
+  - !!python/object/apply:decimal.Decimal
+    - '3927.88'
+  - !!python/object/apply:decimal.Decimal
+    - '-15862.55'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 807926
+  - !!python/object/apply:decimal.Decimal
+    - '767.93'
+  - !!python/object/apply:decimal.Decimal
+    - '-15815.31'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1374892
+  - !!python/object/apply:decimal.Decimal
+    - '2356.50'
+  - !!python/object/apply:decimal.Decimal
+    - '-15713.36'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 894248
+  - !!python/object/apply:decimal.Decimal
+    - '6309.43'
+  - !!python/object/apply:decimal.Decimal
+    - '-15423.65'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2345363
+  - !!python/object/apply:decimal.Decimal
+    - '267.43'
+  - !!python/object/apply:decimal.Decimal
+    - '-15260.23'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 914219
+  - !!python/object/apply:decimal.Decimal
+    - '9137.65'
+  - !!python/object/apply:decimal.Decimal
+    - '-15227.09'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1147915
+  - !!python/object/apply:decimal.Decimal
+    - '969.69'
+  - !!python/object/apply:decimal.Decimal
+    - '-15198.22'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1405810
+  - !!python/object/apply:decimal.Decimal
+    - '3855.15'
+  - !!python/object/apply:decimal.Decimal
+    - '-14962.73'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1188549
+  - !!python/object/apply:decimal.Decimal
+    - '58.50'
+  - !!python/object/apply:decimal.Decimal
+    - '-14957.42'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 344244
+  - !!python/object/apply:decimal.Decimal
+    - '3074.22'
+  - !!python/object/apply:decimal.Decimal
+    - '-14917.21'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 211112
+  - !!python/object/apply:decimal.Decimal
+    - '4859.43'
+  - !!python/object/apply:decimal.Decimal
+    - '-14894.44'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 199451
+  - !!python/object/apply:decimal.Decimal
+    - '2066.53'
+  - !!python/object/apply:decimal.Decimal
+    - '-14851.64'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 740091
+  - !!python/object/apply:decimal.Decimal
+    - '4082.93'
+  - !!python/object/apply:decimal.Decimal
+    - '-14738.37'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2203070
+  - !!python/object/apply:decimal.Decimal
+    - '992.63'
+  - !!python/object/apply:decimal.Decimal
+    - '-14693.37'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 34019
+  - !!python/object/apply:decimal.Decimal
+    - '2806.95'
+  - !!python/object/apply:decimal.Decimal
+    - '-14676.35'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2097581
+  - !!python/object/apply:decimal.Decimal
+    - '1071.93'
+  - !!python/object/apply:decimal.Decimal
+    - '-14665.42'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1541956
+  - !!python/object/apply:decimal.Decimal
+    - '197.48'
+  - !!python/object/apply:decimal.Decimal
+    - '-14594.26'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1252053
+  - !!python/object/apply:decimal.Decimal
+    - '8880.76'
+  - !!python/object/apply:decimal.Decimal
+    - '-14588.06'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1990044
+  - !!python/object/apply:decimal.Decimal
+    - '89.69'
+  - !!python/object/apply:decimal.Decimal
+    - '-14497.63'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 36982
+  - !!python/object/apply:decimal.Decimal
+    - '3814.46'
+  - !!python/object/apply:decimal.Decimal
+    - '-14482.31'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1943822
+  - !!python/object/apply:decimal.Decimal
+    - '4761.59'
+  - !!python/object/apply:decimal.Decimal
+    - '-14421.18'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 92078
+  - !!python/object/apply:decimal.Decimal
+    - '163.66'
+  - !!python/object/apply:decimal.Decimal
+    - '-14346.93'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 355138
+  - !!python/object/apply:decimal.Decimal
+    - '4366.76'
+  - !!python/object/apply:decimal.Decimal
+    - '-14337.07'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1341154
+  - !!python/object/apply:decimal.Decimal
+    - '2716.35'
+  - !!python/object/apply:decimal.Decimal
+    - '-14308.15'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 7142
+  - !!python/object/apply:decimal.Decimal
+    - '7853.50'
+  - !!python/object/apply:decimal.Decimal
+    - '-14304.00'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1045460
+  - !!python/object/apply:decimal.Decimal
+    - '3869.35'
+  - !!python/object/apply:decimal.Decimal
+    - '-14248.57'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 60848
+  - !!python/object/apply:decimal.Decimal
+    - '3088.13'
+  - !!python/object/apply:decimal.Decimal
+    - '-14189.66'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2331309
+  - !!python/object/apply:decimal.Decimal
+    - '2710.91'
+  - !!python/object/apply:decimal.Decimal
+    - '-14137.28'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1508272
+  - !!python/object/apply:decimal.Decimal
+    - '4970.57'
+  - !!python/object/apply:decimal.Decimal
+    - '-14123.34'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1580764
+  - !!python/object/apply:decimal.Decimal
+    - '3694.70'
+  - !!python/object/apply:decimal.Decimal
+    - '-14115.14'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 77368
+  - !!python/object/apply:decimal.Decimal
+    - '6332.15'
+  - !!python/object/apply:decimal.Decimal
+    - '-13973.11'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2014405
+  - !!python/object/apply:decimal.Decimal
+    - '1441.37'
+  - !!python/object/apply:decimal.Decimal
+    - '-13967.10'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1820130
+  - !!python/object/apply:decimal.Decimal
+    - '2253.51'
+  - !!python/object/apply:decimal.Decimal
+    - '-13940.17'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1577051
+  - !!python/object/apply:decimal.Decimal
+    - '1979.30'
+  - !!python/object/apply:decimal.Decimal
+    - '-13899.61'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 793713
+  - !!python/object/apply:decimal.Decimal
+    - '3173.58'
+  - !!python/object/apply:decimal.Decimal
+    - '-13891.95'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1588338
+  - !!python/object/apply:decimal.Decimal
+    - '6490.70'
+  - !!python/object/apply:decimal.Decimal
+    - '-13870.75'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2319087
+  - !!python/object/apply:decimal.Decimal
+    - '4966.46'
+  - !!python/object/apply:decimal.Decimal
+    - '-13835.79'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1508526
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-13804.18'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1860800
+  - !!python/object/apply:decimal.Decimal
+    - '4825.70'
+  - !!python/object/apply:decimal.Decimal
+    - '-13755.09'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 2242897
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '-13697.64'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 1487195
+  - !!python/object/apply:decimal.Decimal
+    - '11398.85'
+  - !!python/object/apply:decimal.Decimal
+    - '-13606.16'
+- !!python/tuple
+  - ''
+  - ''
+  - Fairview
+  - 292264
+  - !!python/object/apply:decimal.Decimal
+    - '305.63'
+  - !!python/object/apply:decimal.Decimal
+    - '-13545.94'

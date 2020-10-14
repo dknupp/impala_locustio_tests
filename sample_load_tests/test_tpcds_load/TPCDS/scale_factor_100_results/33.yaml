@@ -1,0 +1,400 @@
+- !!python/tuple
+  - 701
+  - !!python/object/apply:decimal.Decimal
+    - '540136.96'
+- !!python/tuple
+  - 901
+  - !!python/object/apply:decimal.Decimal
+    - '625263.90'
+- !!python/tuple
+  - 806
+  - !!python/object/apply:decimal.Decimal
+    - '653750.18'
+- !!python/tuple
+  - 971
+  - !!python/object/apply:decimal.Decimal
+    - '670874.24'
+- !!python/tuple
+  - 943
+  - !!python/object/apply:decimal.Decimal
+    - '680776.14'
+- !!python/tuple
+  - 680
+  - !!python/object/apply:decimal.Decimal
+    - '681121.06'
+- !!python/tuple
+  - 789
+  - !!python/object/apply:decimal.Decimal
+    - '682117.92'
+- !!python/tuple
+  - 950
+  - !!python/object/apply:decimal.Decimal
+    - '687832.37'
+- !!python/tuple
+  - 998
+  - !!python/object/apply:decimal.Decimal
+    - '697432.66'
+- !!python/tuple
+  - 888
+  - !!python/object/apply:decimal.Decimal
+    - '698448.36'
+- !!python/tuple
+  - 678
+  - !!python/object/apply:decimal.Decimal
+    - '700949.45'
+- !!python/tuple
+  - 831
+  - !!python/object/apply:decimal.Decimal
+    - '704792.06'
+- !!python/tuple
+  - 983
+  - !!python/object/apply:decimal.Decimal
+    - '708670.79'
+- !!python/tuple
+  - 773
+  - !!python/object/apply:decimal.Decimal
+    - '710257.91'
+- !!python/tuple
+  - 927
+  - !!python/object/apply:decimal.Decimal
+    - '713253.42'
+- !!python/tuple
+  - 960
+  - !!python/object/apply:decimal.Decimal
+    - '716686.06'
+- !!python/tuple
+  - 685
+  - !!python/object/apply:decimal.Decimal
+    - '738681.75'
+- !!python/tuple
+  - 848
+  - !!python/object/apply:decimal.Decimal
+    - '741455.45'
+- !!python/tuple
+  - 837
+  - !!python/object/apply:decimal.Decimal
+    - '771538.02'
+- !!python/tuple
+  - 915
+  - !!python/object/apply:decimal.Decimal
+    - '774018.08'
+- !!python/tuple
+  - 797
+  - !!python/object/apply:decimal.Decimal
+    - '778474.22'
+- !!python/tuple
+  - 836
+  - !!python/object/apply:decimal.Decimal
+    - '782809.50'
+- !!python/tuple
+  - 876
+  - !!python/object/apply:decimal.Decimal
+    - '784185.04'
+- !!python/tuple
+  - 918
+  - !!python/object/apply:decimal.Decimal
+    - '785313.24'
+- !!python/tuple
+  - 731
+  - !!python/object/apply:decimal.Decimal
+    - '791909.59'
+- !!python/tuple
+  - 786
+  - !!python/object/apply:decimal.Decimal
+    - '792024.94'
+- !!python/tuple
+  - 875
+  - !!python/object/apply:decimal.Decimal
+    - '798724.19'
+- !!python/tuple
+  - 705
+  - !!python/object/apply:decimal.Decimal
+    - '799489.67'
+- !!python/tuple
+  - 969
+  - !!python/object/apply:decimal.Decimal
+    - '800137.48'
+- !!python/tuple
+  - 868
+  - !!python/object/apply:decimal.Decimal
+    - '808482.64'
+- !!python/tuple
+  - 791
+  - !!python/object/apply:decimal.Decimal
+    - '809876.85'
+- !!python/tuple
+  - 914
+  - !!python/object/apply:decimal.Decimal
+    - '810029.31'
+- !!python/tuple
+  - 735
+  - !!python/object/apply:decimal.Decimal
+    - '814054.97'
+- !!python/tuple
+  - 820
+  - !!python/object/apply:decimal.Decimal
+    - '814941.16'
+- !!python/tuple
+  - 804
+  - !!python/object/apply:decimal.Decimal
+    - '816629.81'
+- !!python/tuple
+  - 913
+  - !!python/object/apply:decimal.Decimal
+    - '823779.43'
+- !!python/tuple
+  - 886
+  - !!python/object/apply:decimal.Decimal
+    - '825208.06'
+- !!python/tuple
+  - 785
+  - !!python/object/apply:decimal.Decimal
+    - '827269.61'
+- !!python/tuple
+  - 767
+  - !!python/object/apply:decimal.Decimal
+    - '832842.31'
+- !!python/tuple
+  - 741
+  - !!python/object/apply:decimal.Decimal
+    - '834415.83'
+- !!python/tuple
+  - 672
+  - !!python/object/apply:decimal.Decimal
+    - '839295.01'
+- !!python/tuple
+  - 975
+  - !!python/object/apply:decimal.Decimal
+    - '845034.30'
+- !!python/tuple
+  - 765
+  - !!python/object/apply:decimal.Decimal
+    - '852072.56'
+- !!python/tuple
+  - 738
+  - !!python/object/apply:decimal.Decimal
+    - '853648.44'
+- !!python/tuple
+  - 932
+  - !!python/object/apply:decimal.Decimal
+    - '853985.09'
+- !!python/tuple
+  - 674
+  - !!python/object/apply:decimal.Decimal
+    - '856525.00'
+- !!python/tuple
+  - 683
+  - !!python/object/apply:decimal.Decimal
+    - '860567.45'
+- !!python/tuple
+  - 736
+  - !!python/object/apply:decimal.Decimal
+    - '862265.20'
+- !!python/tuple
+  - 992
+  - !!python/object/apply:decimal.Decimal
+    - '862307.68'
+- !!python/tuple
+  - 737
+  - !!python/object/apply:decimal.Decimal
+    - '865890.80'
+- !!python/tuple
+  - 881
+  - !!python/object/apply:decimal.Decimal
+    - '869174.55'
+- !!python/tuple
+  - 755
+  - !!python/object/apply:decimal.Decimal
+    - '873998.93'
+- !!python/tuple
+  - 729
+  - !!python/object/apply:decimal.Decimal
+    - '880453.06'
+- !!python/tuple
+  - 744
+  - !!python/object/apply:decimal.Decimal
+    - '882549.41'
+- !!python/tuple
+  - 715
+  - !!python/object/apply:decimal.Decimal
+    - '887382.42'
+- !!python/tuple
+  - 957
+  - !!python/object/apply:decimal.Decimal
+    - '889613.03'
+- !!python/tuple
+  - 919
+  - !!python/object/apply:decimal.Decimal
+    - '892787.01'
+- !!python/tuple
+  - 944
+  - !!python/object/apply:decimal.Decimal
+    - '893079.36'
+- !!python/tuple
+  - 861
+  - !!python/object/apply:decimal.Decimal
+    - '894274.37'
+- !!python/tuple
+  - 850
+  - !!python/object/apply:decimal.Decimal
+    - '894757.11'
+- !!python/tuple
+  - 679
+  - !!python/object/apply:decimal.Decimal
+    - '895234.20'
+- !!python/tuple
+  - 708
+  - !!python/object/apply:decimal.Decimal
+    - '897131.22'
+- !!python/tuple
+  - 830
+  - !!python/object/apply:decimal.Decimal
+    - '909345.47'
+- !!python/tuple
+  - 722
+  - !!python/object/apply:decimal.Decimal
+    - '909849.70'
+- !!python/tuple
+  - 928
+  - !!python/object/apply:decimal.Decimal
+    - '910502.35'
+- !!python/tuple
+  - 788
+  - !!python/object/apply:decimal.Decimal
+    - '917652.25'
+- !!python/tuple
+  - 945
+  - !!python/object/apply:decimal.Decimal
+    - '919062.62'
+- !!python/tuple
+  - 734
+  - !!python/object/apply:decimal.Decimal
+    - '919570.30'
+- !!python/tuple
+  - 967
+  - !!python/object/apply:decimal.Decimal
+    - '922281.37'
+- !!python/tuple
+  - 902
+  - !!python/object/apply:decimal.Decimal
+    - '925185.43'
+- !!python/tuple
+  - 874
+  - !!python/object/apply:decimal.Decimal
+    - '925826.59'
+- !!python/tuple
+  - 852
+  - !!python/object/apply:decimal.Decimal
+    - '927802.86'
+- !!python/tuple
+  - 924
+  - !!python/object/apply:decimal.Decimal
+    - '929741.43'
+- !!python/tuple
+  - 851
+  - !!python/object/apply:decimal.Decimal
+    - '929798.45'
+- !!python/tuple
+  - 925
+  - !!python/object/apply:decimal.Decimal
+    - '933724.89'
+- !!python/tuple
+  - 938
+  - !!python/object/apply:decimal.Decimal
+    - '934927.55'
+- !!python/tuple
+  - 867
+  - !!python/object/apply:decimal.Decimal
+    - '935214.48'
+- !!python/tuple
+  - 712
+  - !!python/object/apply:decimal.Decimal
+    - '940355.51'
+- !!python/tuple
+  - 963
+  - !!python/object/apply:decimal.Decimal
+    - '943878.63'
+- !!python/tuple
+  - 761
+  - !!python/object/apply:decimal.Decimal
+    - '944004.68'
+- !!python/tuple
+  - 894
+  - !!python/object/apply:decimal.Decimal
+    - '947114.91'
+- !!python/tuple
+  - 834
+  - !!python/object/apply:decimal.Decimal
+    - '949137.44'
+- !!python/tuple
+  - 934
+  - !!python/object/apply:decimal.Decimal
+    - '949250.21'
+- !!python/tuple
+  - 907
+  - !!python/object/apply:decimal.Decimal
+    - '949843.74'
+- !!python/tuple
+  - 805
+  - !!python/object/apply:decimal.Decimal
+    - '949947.18'
+- !!python/tuple
+  - 899
+  - !!python/object/apply:decimal.Decimal
+    - '950588.52'
+- !!python/tuple
+  - 857
+  - !!python/object/apply:decimal.Decimal
+    - '953266.75'
+- !!python/tuple
+  - 940
+  - !!python/object/apply:decimal.Decimal
+    - '954815.62'
+- !!python/tuple
+  - 725
+  - !!python/object/apply:decimal.Decimal
+    - '955197.93'
+- !!python/tuple
+  - 676
+  - !!python/object/apply:decimal.Decimal
+    - '956956.54'
+- !!python/tuple
+  - 833
+  - !!python/object/apply:decimal.Decimal
+    - '959048.06'
+- !!python/tuple
+  - 811
+  - !!python/object/apply:decimal.Decimal
+    - '959358.55'
+- !!python/tuple
+  - 958
+  - !!python/object/apply:decimal.Decimal
+    - '965636.69'
+- !!python/tuple
+  - 873
+  - !!python/object/apply:decimal.Decimal
+    - '967322.08'
+- !!python/tuple
+  - 757
+  - !!python/object/apply:decimal.Decimal
+    - '968158.58'
+- !!python/tuple
+  - 984
+  - !!python/object/apply:decimal.Decimal
+    - '970754.37'
+- !!python/tuple
+  - 999
+  - !!python/object/apply:decimal.Decimal
+    - '973539.12'
+- !!python/tuple
+  - 700
+  - !!python/object/apply:decimal.Decimal
+    - '974628.16'
+- !!python/tuple
+  - 739
+  - !!python/object/apply:decimal.Decimal
+    - '979624.59'
+- !!python/tuple
+  - 695
+  - !!python/object/apply:decimal.Decimal
+    - '982223.29'

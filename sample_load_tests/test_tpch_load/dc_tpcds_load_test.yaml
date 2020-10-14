@@ -1,0 +1,10 @@
+coordinator: quasar-zovuci-4.vpc.cloudera.com
+client_type: 'ImpylaClient'
+auth_type: null
+ssl: False
+thrift_transport: null
+user: null
+password: null
+min_wait: 2  # unit = seconds
+max_wait: 5  # unit = seconds
+target_db: tpch_10_decimal_parquet

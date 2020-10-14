@@ -1,0 +1,1400 @@
+- !!python/tuple
+  - Children
+  - 'edu packexporti #2'
+  - Pacific Northwest_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25259.968333'
+  - !!python/object/apply:decimal.Decimal
+    - '10434.50'
+  - !!python/object/apply:decimal.Decimal
+    - '16096.33'
+  - !!python/object/apply:decimal.Decimal
+    - '13484.44'
+- !!python/tuple
+  - Women
+  - 'exportiamalg #2'
+  - NY Metro
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25266.926667'
+  - !!python/object/apply:decimal.Decimal
+    - '10556.63'
+  - !!python/object/apply:decimal.Decimal
+    - '14101.64'
+  - !!python/object/apply:decimal.Decimal
+    - '14596.04'
+- !!python/tuple
+  - Children
+  - 'importoexporti #2'
+  - Hawaii/Alaska
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25123.311667'
+  - !!python/object/apply:decimal.Decimal
+    - '10829.65'
+  - !!python/object/apply:decimal.Decimal
+    - '12625.99'
+  - !!python/object/apply:decimal.Decimal
+    - '15337.63'
+- !!python/tuple
+  - Music
+  - 'amalgscholar #2'
+  - NY Metro
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25118.780000'
+  - !!python/object/apply:decimal.Decimal
+    - '10909.48'
+  - !!python/object/apply:decimal.Decimal
+    - '17620.17'
+  - !!python/object/apply:decimal.Decimal
+    - '12931.98'
+- !!python/tuple
+  - Men
+  - 'edu packimporto #2'
+  - California_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25277.883333'
+  - !!python/object/apply:decimal.Decimal
+    - '11127.66'
+  - !!python/object/apply:decimal.Decimal
+    - '16528.07'
+  - !!python/object/apply:decimal.Decimal
+    - '13900.22'
+- !!python/tuple
+  - Shoes
+  - 'exportiedu pack #2'
+  - Mid Atlantic
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25811.848333'
+  - !!python/object/apply:decimal.Decimal
+    - '11846.32'
+  - !!python/object/apply:decimal.Decimal
+    - '12927.10'
+  - !!python/object/apply:decimal.Decimal
+    - '15369.77'
+- !!python/tuple
+  - Women
+  - 'amalgamalg #2'
+  - Hawaii/Alaska_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25168.966667'
+  - !!python/object/apply:decimal.Decimal
+    - '11209.84'
+  - !!python/object/apply:decimal.Decimal
+    - '16383.61'
+  - !!python/object/apply:decimal.Decimal
+    - '14103.43'
+- !!python/tuple
+  - Women
+  - 'amalgamalg #2'
+  - NY Metro
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '25295.409167'
+  - !!python/object/apply:decimal.Decimal
+    - '11352.19'
+  - !!python/object/apply:decimal.Decimal
+    - '15895.04'
+  - !!python/object/apply:decimal.Decimal
+    - '16771.04'
+- !!python/tuple
+  - Women
+  - 'amalgamalg #2'
+  - North Midwest
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '26101.420000'
+  - !!python/object/apply:decimal.Decimal
+    - '12188.28'
+  - !!python/object/apply:decimal.Decimal
+    - '16005.68'
+  - !!python/object/apply:decimal.Decimal
+    - '14477.36'
+- !!python/tuple
+  - Children
+  - 'importoexporti #2'
+  - North Midwest
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25637.946667'
+  - !!python/object/apply:decimal.Decimal
+    - '11782.14'
+  - !!python/object/apply:decimal.Decimal
+    - '17576.24'
+  - !!python/object/apply:decimal.Decimal
+    - '16663.63'
+- !!python/tuple
+  - Women
+  - 'exportiamalg #2'
+  - North Midwest
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '26468.085000'
+  - !!python/object/apply:decimal.Decimal
+    - '12621.24'
+  - !!python/object/apply:decimal.Decimal
+    - '17134.39'
+  - !!python/object/apply:decimal.Decimal
+    - '17134.83'
+- !!python/tuple
+  - Shoes
+  - 'importoedu pack #2'
+  - NY Metro_1
+  - 2001
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '24565.318333'
+  - !!python/object/apply:decimal.Decimal
+    - '10826.63'
+  - !!python/object/apply:decimal.Decimal
+    - '12508.26'
+  - !!python/object/apply:decimal.Decimal
+    - '14486.59'
+- !!python/tuple
+  - Music
+  - 'importoscholar #2'
+  - NY Metro
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24754.520833'
+  - !!python/object/apply:decimal.Decimal
+    - '11020.46'
+  - !!python/object/apply:decimal.Decimal
+    - '14399.95'
+  - !!python/object/apply:decimal.Decimal
+    - '13956.11'
+- !!python/tuple
+  - Shoes
+  - 'exportiedu pack #2'
+  - North Midwest_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24753.030000'
+  - !!python/object/apply:decimal.Decimal
+    - '11020.75'
+  - !!python/object/apply:decimal.Decimal
+    - '14442.65'
+  - !!python/object/apply:decimal.Decimal
+    - '13147.17'
+- !!python/tuple
+  - Music
+  - 'amalgscholar #2'
+  - Mid Atlantic
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25148.926667'
+  - !!python/object/apply:decimal.Decimal
+    - '11474.23'
+  - !!python/object/apply:decimal.Decimal
+    - '13839.98'
+  - !!python/object/apply:decimal.Decimal
+    - '13575.60'
+- !!python/tuple
+  - Men
+  - 'importoimporto #2'
+  - NY Metro_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '26374.980833'
+  - !!python/object/apply:decimal.Decimal
+    - '12724.62'
+  - !!python/object/apply:decimal.Decimal
+    - '14004.87'
+  - !!python/object/apply:decimal.Decimal
+    - '13867.23'
+- !!python/tuple
+  - Men
+  - 'importoimporto #2'
+  - Hawaii/Alaska_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24980.731667'
+  - !!python/object/apply:decimal.Decimal
+    - '11374.35'
+  - !!python/object/apply:decimal.Decimal
+    - '16186.64'
+  - !!python/object/apply:decimal.Decimal
+    - '13963.43'
+- !!python/tuple
+  - Music
+  - 'edu packscholar #2'
+  - North Midwest
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '25286.962500'
+  - !!python/object/apply:decimal.Decimal
+    - '11744.59'
+  - !!python/object/apply:decimal.Decimal
+    - '15754.92'
+  - !!python/object/apply:decimal.Decimal
+    - '17107.14'
+- !!python/tuple
+  - Music
+  - 'edu packscholar #2'
+  - Mid Atlantic_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24846.571667'
+  - !!python/object/apply:decimal.Decimal
+    - '11321.21'
+  - !!python/object/apply:decimal.Decimal
+    - '15871.26'
+  - !!python/object/apply:decimal.Decimal
+    - '14731.95'
+- !!python/tuple
+  - Children
+  - 'edu packexporti #2'
+  - Pacific Northwest
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24755.715833'
+  - !!python/object/apply:decimal.Decimal
+    - '11280.12'
+  - !!python/object/apply:decimal.Decimal
+    - '13164.62'
+  - !!python/object/apply:decimal.Decimal
+    - '14156.66'
+- !!python/tuple
+  - Shoes
+  - 'edu packedu pack #2'
+  - NY Metro_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24550.950833'
+  - !!python/object/apply:decimal.Decimal
+    - '11092.88'
+  - !!python/object/apply:decimal.Decimal
+    - '14917.31'
+  - !!python/object/apply:decimal.Decimal
+    - '13357.11'
+- !!python/tuple
+  - Men
+  - 'exportiimporto #2'
+  - NY Metro
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '23563.910833'
+  - !!python/object/apply:decimal.Decimal
+    - '10139.46'
+  - !!python/object/apply:decimal.Decimal
+    - '14208.26'
+  - !!python/object/apply:decimal.Decimal
+    - '14779.11'
+- !!python/tuple
+  - Music
+  - 'amalgscholar #2'
+  - California_1
+  - 2001
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '25661.185000'
+  - !!python/object/apply:decimal.Decimal
+    - '12258.97'
+  - !!python/object/apply:decimal.Decimal
+    - '13199.20'
+  - !!python/object/apply:decimal.Decimal
+    - '14625.08'
+- !!python/tuple
+  - Men
+  - 'importoimporto #2'
+  - Pacific Northwest
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '26631.878333'
+  - !!python/object/apply:decimal.Decimal
+    - '13239.91'
+  - !!python/object/apply:decimal.Decimal
+    - '16317.93'
+  - !!python/object/apply:decimal.Decimal
+    - '16609.20'
+- !!python/tuple
+  - Music
+  - 'edu packscholar #2'
+  - Pacific Northwest_1
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '25297.326667'
+  - !!python/object/apply:decimal.Decimal
+    - '11922.56'
+  - !!python/object/apply:decimal.Decimal
+    - '15324.03'
+  - !!python/object/apply:decimal.Decimal
+    - '14358.27'
+- !!python/tuple
+  - Music
+  - 'amalgscholar #2'
+  - Mid Atlantic_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25327.693333'
+  - !!python/object/apply:decimal.Decimal
+    - '11953.89'
+  - !!python/object/apply:decimal.Decimal
+    - '16237.52'
+  - !!python/object/apply:decimal.Decimal
+    - '15731.09'
+- !!python/tuple
+  - Women
+  - 'exportiamalg #2'
+  - Mid Atlantic_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24564.762500'
+  - !!python/object/apply:decimal.Decimal
+    - '11219.21'
+  - !!python/object/apply:decimal.Decimal
+    - '13942.18'
+  - !!python/object/apply:decimal.Decimal
+    - '13930.22'
+- !!python/tuple
+  - Children
+  - 'edu packexporti #2'
+  - California
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25633.475000'
+  - !!python/object/apply:decimal.Decimal
+    - '12312.24'
+  - !!python/object/apply:decimal.Decimal
+    - '15035.51'
+  - !!python/object/apply:decimal.Decimal
+    - '12746.82'
+- !!python/tuple
+  - Shoes
+  - 'edu packedu pack #2'
+  - Mid Atlantic
+  - 2001
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '24983.802500'
+  - !!python/object/apply:decimal.Decimal
+    - '11685.54'
+  - !!python/object/apply:decimal.Decimal
+    - '17070.15'
+  - !!python/object/apply:decimal.Decimal
+    - '37567.84'
+- !!python/tuple
+  - Shoes
+  - 'exportiedu pack #2'
+  - California_1
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '25572.938333'
+  - !!python/object/apply:decimal.Decimal
+    - '12278.96'
+  - !!python/object/apply:decimal.Decimal
+    - '16098.53'
+  - !!python/object/apply:decimal.Decimal
+    - '14409.12'
+- !!python/tuple
+  - Men
+  - 'amalgimporto #2'
+  - Mid Atlantic_1
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '25308.709167'
+  - !!python/object/apply:decimal.Decimal
+    - '12023.47'
+  - !!python/object/apply:decimal.Decimal
+    - '14915.23'
+  - !!python/object/apply:decimal.Decimal
+    - '13056.00'
+- !!python/tuple
+  - Children
+  - 'edu packexporti #2'
+  - NY Metro
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '25243.475000'
+  - !!python/object/apply:decimal.Decimal
+    - '11994.37'
+  - !!python/object/apply:decimal.Decimal
+    - '17136.25'
+  - !!python/object/apply:decimal.Decimal
+    - '16677.02'
+- !!python/tuple
+  - Women
+  - 'amalgamalg #2'
+  - North Midwest_1
+  - 2001
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '27014.762500'
+  - !!python/object/apply:decimal.Decimal
+    - '13781.48'
+  - !!python/object/apply:decimal.Decimal
+    - '34928.97'
+  - !!python/object/apply:decimal.Decimal
+    - '14086.65'
+- !!python/tuple
+  - Music
+  - 'edu packscholar #2'
+  - California
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '24500.503333'
+  - !!python/object/apply:decimal.Decimal
+    - '11268.99'
+  - !!python/object/apply:decimal.Decimal
+    - '14699.36'
+  - !!python/object/apply:decimal.Decimal
+    - '13756.08'
+- !!python/tuple
+  - Music
+  - 'edu packscholar #2'
+  - NY Metro
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25889.228333'
+  - !!python/object/apply:decimal.Decimal
+    - '12710.15'
+  - !!python/object/apply:decimal.Decimal
+    - '15027.47'
+  - !!python/object/apply:decimal.Decimal
+    - '15299.23'
+- !!python/tuple
+  - Men
+  - 'edu packimporto #2'
+  - Pacific Northwest
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '24410.050000'
+  - !!python/object/apply:decimal.Decimal
+    - '11248.94'
+  - !!python/object/apply:decimal.Decimal
+    - '15671.63'
+  - !!python/object/apply:decimal.Decimal
+    - '14184.93'
+- !!python/tuple
+  - Music
+  - 'importoscholar #2'
+  - North Midwest_1
+  - 2001
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '25118.926667'
+  - !!python/object/apply:decimal.Decimal
+    - '11974.67'
+  - !!python/object/apply:decimal.Decimal
+    - '33176.42'
+  - !!python/object/apply:decimal.Decimal
+    - '13812.78'
+- !!python/tuple
+  - Shoes
+  - 'importoedu pack #2'
+  - North Midwest
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '26113.603333'
+  - !!python/object/apply:decimal.Decimal
+    - '12997.89'
+  - !!python/object/apply:decimal.Decimal
+    - '15933.09'
+  - !!python/object/apply:decimal.Decimal
+    - '14145.34'
+- !!python/tuple
+  - Music
+  - 'importoscholar #2'
+  - California
+  - 2001
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '24944.041667'
+  - !!python/object/apply:decimal.Decimal
+    - '11845.83'
+  - !!python/object/apply:decimal.Decimal
+    - '13831.11'
+  - !!python/object/apply:decimal.Decimal
+    - '14579.02'
+- !!python/tuple
+  - Men
+  - 'amalgimporto #2'
+  - NY Metro
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '24682.941667'
+  - !!python/object/apply:decimal.Decimal
+    - '11597.88'
+  - !!python/object/apply:decimal.Decimal
+    - '16286.98'
+  - !!python/object/apply:decimal.Decimal
+    - '18041.77'
+- !!python/tuple
+  - Music
+  - 'edu packscholar #2'
+  - North Midwest_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '26276.585000'
+  - !!python/object/apply:decimal.Decimal
+    - '13195.41'
+  - !!python/object/apply:decimal.Decimal
+    - '15333.11'
+  - !!python/object/apply:decimal.Decimal
+    - '17264.06'
+- !!python/tuple
+  - Shoes
+  - 'amalgedu pack #2'
+  - Pacific Northwest_1
+  - 2001
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '25048.757500'
+  - !!python/object/apply:decimal.Decimal
+    - '11974.05'
+  - !!python/object/apply:decimal.Decimal
+    - '14324.28'
+  - !!python/object/apply:decimal.Decimal
+    - '35120.20'
+- !!python/tuple
+  - Women
+  - 'exportiamalg #2'
+  - North Midwest
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '26468.085000'
+  - !!python/object/apply:decimal.Decimal
+    - '13395.64'
+  - !!python/object/apply:decimal.Decimal
+    - '16413.55'
+  - !!python/object/apply:decimal.Decimal
+    - '17872.96'
+- !!python/tuple
+  - Women
+  - 'importoamalg #2'
+  - Pacific Northwest
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '24758.750833'
+  - !!python/object/apply:decimal.Decimal
+    - '11694.13'
+  - !!python/object/apply:decimal.Decimal
+    - '13751.71'
+  - !!python/object/apply:decimal.Decimal
+    - '15670.02'
+- !!python/tuple
+  - Men
+  - 'importoimporto #2'
+  - California
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '25807.888333'
+  - !!python/object/apply:decimal.Decimal
+    - '12752.40'
+  - !!python/object/apply:decimal.Decimal
+    - '16574.12'
+  - !!python/object/apply:decimal.Decimal
+    - '13528.98'
+- !!python/tuple
+  - Music
+  - 'exportischolar #2'
+  - North Midwest_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24859.152500'
+  - !!python/object/apply:decimal.Decimal
+    - '11803.70'
+  - !!python/object/apply:decimal.Decimal
+    - '15007.00'
+  - !!python/object/apply:decimal.Decimal
+    - '14324.69'
+- !!python/tuple
+  - Music
+  - 'amalgscholar #2'
+  - Hawaii/Alaska
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '24747.305000'
+  - !!python/object/apply:decimal.Decimal
+    - '11692.78'
+  - !!python/object/apply:decimal.Decimal
+    - '14583.95'
+  - !!python/object/apply:decimal.Decimal
+    - '17443.90'
+- !!python/tuple
+  - Shoes
+  - 'exportiedu pack #2'
+  - NY Metro
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24483.592500'
+  - !!python/object/apply:decimal.Decimal
+    - '11447.91'
+  - !!python/object/apply:decimal.Decimal
+    - '15031.87'
+  - !!python/object/apply:decimal.Decimal
+    - '15272.31'
+- !!python/tuple
+  - Children
+  - 'edu packexporti #2'
+  - North Midwest
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '25409.070833'
+  - !!python/object/apply:decimal.Decimal
+    - '12390.05'
+  - !!python/object/apply:decimal.Decimal
+    - '16010.89'
+  - !!python/object/apply:decimal.Decimal
+    - '16382.64'
+- !!python/tuple
+  - Children
+  - 'importoexporti #2'
+  - Mid Atlantic
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25647.836667'
+  - !!python/object/apply:decimal.Decimal
+    - '12651.18'
+  - !!python/object/apply:decimal.Decimal
+    - '16507.79'
+  - !!python/object/apply:decimal.Decimal
+    - '16222.51'
+- !!python/tuple
+  - Children
+  - 'edu packexporti #2'
+  - North Midwest
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '25409.070833'
+  - !!python/object/apply:decimal.Decimal
+    - '12431.75'
+  - !!python/object/apply:decimal.Decimal
+    - '13725.71'
+  - !!python/object/apply:decimal.Decimal
+    - '16010.89'
+- !!python/tuple
+  - Children
+  - 'exportiexporti #2'
+  - Mid Atlantic
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '24966.787500'
+  - !!python/object/apply:decimal.Decimal
+    - '11997.46'
+  - !!python/object/apply:decimal.Decimal
+    - '15597.11'
+  - !!python/object/apply:decimal.Decimal
+    - '14788.92'
+- !!python/tuple
+  - Shoes
+  - 'importoedu pack #2'
+  - Mid Atlantic
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24842.095000'
+  - !!python/object/apply:decimal.Decimal
+    - '11894.42'
+  - !!python/object/apply:decimal.Decimal
+    - '14527.69'
+  - !!python/object/apply:decimal.Decimal
+    - '13592.09'
+- !!python/tuple
+  - Children
+  - 'edu packexporti #2'
+  - Mid Atlantic_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24409.310833'
+  - !!python/object/apply:decimal.Decimal
+    - '11465.53'
+  - !!python/object/apply:decimal.Decimal
+    - '14181.43'
+  - !!python/object/apply:decimal.Decimal
+    - '17578.37'
+- !!python/tuple
+  - Women
+  - 'amalgamalg #2'
+  - North Midwest_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '27014.762500'
+  - !!python/object/apply:decimal.Decimal
+    - '14086.65'
+  - !!python/object/apply:decimal.Decimal
+    - '13781.48'
+  - !!python/object/apply:decimal.Decimal
+    - '17122.45'
+- !!python/tuple
+  - Men
+  - 'amalgimporto #2'
+  - Pacific Northwest
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '26104.378333'
+  - !!python/object/apply:decimal.Decimal
+    - '13204.98'
+  - !!python/object/apply:decimal.Decimal
+    - '16400.88'
+  - !!python/object/apply:decimal.Decimal
+    - '14598.81'
+- !!python/tuple
+  - Shoes
+  - 'amalgedu pack #2'
+  - California_1
+  - 2001
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '24937.830000'
+  - !!python/object/apply:decimal.Decimal
+    - '12040.69'
+  - !!python/object/apply:decimal.Decimal
+    - '13375.39'
+  - !!python/object/apply:decimal.Decimal
+    - '14837.21'
+- !!python/tuple
+  - Children
+  - 'edu packexporti #2'
+  - California
+  - 2001
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '25633.475000'
+  - !!python/object/apply:decimal.Decimal
+    - '12746.82'
+  - !!python/object/apply:decimal.Decimal
+    - '12312.24'
+  - !!python/object/apply:decimal.Decimal
+    - '16622.34'
+- !!python/tuple
+  - Shoes
+  - 'exportiedu pack #2'
+  - Mid Atlantic
+  - 2001
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '25811.848333'
+  - !!python/object/apply:decimal.Decimal
+    - '12927.10'
+  - !!python/object/apply:decimal.Decimal
+    - '36499.97'
+  - !!python/object/apply:decimal.Decimal
+    - '11846.32'
+- !!python/tuple
+  - Shoes
+  - 'importoedu pack #2'
+  - Hawaii/Alaska_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25356.609167'
+  - !!python/object/apply:decimal.Decimal
+    - '12484.17'
+  - !!python/object/apply:decimal.Decimal
+    - '13234.44'
+  - !!python/object/apply:decimal.Decimal
+    - '15072.82'
+- !!python/tuple
+  - Music
+  - 'importoscholar #2'
+  - NY Metro
+  - 2001
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '24754.520833'
+  - !!python/object/apply:decimal.Decimal
+    - '11883.57'
+  - !!python/object/apply:decimal.Decimal
+    - '15006.95'
+  - !!python/object/apply:decimal.Decimal
+    - '15533.92'
+- !!python/tuple
+  - Shoes
+  - 'exportiedu pack #2'
+  - California
+  - 2001
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '26147.645833'
+  - !!python/object/apply:decimal.Decimal
+    - '13283.68'
+  - !!python/object/apply:decimal.Decimal
+    - '34226.68'
+  - !!python/object/apply:decimal.Decimal
+    - '13507.18'
+- !!python/tuple
+  - Men
+  - 'amalgimporto #2'
+  - NY Metro_1
+  - 2001
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '26068.693333'
+  - !!python/object/apply:decimal.Decimal
+    - '13223.56'
+  - !!python/object/apply:decimal.Decimal
+    - '15584.00'
+  - !!python/object/apply:decimal.Decimal
+    - '14587.63'
+- !!python/tuple
+  - Men
+  - 'amalgimporto #2'
+  - North Midwest_1
+  - 2001
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '25423.054167'
+  - !!python/object/apply:decimal.Decimal
+    - '12630.39'
+  - !!python/object/apply:decimal.Decimal
+    - '14931.50'
+  - !!python/object/apply:decimal.Decimal
+    - '13711.98'
+- !!python/tuple
+  - Shoes
+  - 'amalgedu pack #2'
+  - NY Metro
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '26292.949167'
+  - !!python/object/apply:decimal.Decimal
+    - '13519.34'
+  - !!python/object/apply:decimal.Decimal
+    - '16249.33'
+  - !!python/object/apply:decimal.Decimal
+    - '13525.43'
+- !!python/tuple
+  - Men
+  - 'edu packimporto #2'
+  - California
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25033.376667'
+  - !!python/object/apply:decimal.Decimal
+    - '12264.61'
+  - !!python/object/apply:decimal.Decimal
+    - '15798.49'
+  - !!python/object/apply:decimal.Decimal
+    - '14667.84'
+- !!python/tuple
+  - Shoes
+  - 'amalgedu pack #2'
+  - NY Metro
+  - 2001
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '26292.949167'
+  - !!python/object/apply:decimal.Decimal
+    - '13525.43'
+  - !!python/object/apply:decimal.Decimal
+    - '13519.34'
+  - !!python/object/apply:decimal.Decimal
+    - '13780.59'
+- !!python/tuple
+  - Music
+  - 'amalgscholar #2'
+  - North Midwest_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '26235.860000'
+  - !!python/object/apply:decimal.Decimal
+    - '13470.31'
+  - !!python/object/apply:decimal.Decimal
+    - '16080.00'
+  - !!python/object/apply:decimal.Decimal
+    - '16335.30'
+- !!python/tuple
+  - Women
+  - 'exportiamalg #2'
+  - NY Metro_1
+  - 2001
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '25887.767500'
+  - !!python/object/apply:decimal.Decimal
+    - '13140.54'
+  - !!python/object/apply:decimal.Decimal
+    - '14200.65'
+  - !!python/object/apply:decimal.Decimal
+    - '13687.89'
+- !!python/tuple
+  - Music
+  - 'importoscholar #2'
+  - Hawaii/Alaska
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24551.839167'
+  - !!python/object/apply:decimal.Decimal
+    - '11807.68'
+  - !!python/object/apply:decimal.Decimal
+    - '13523.39'
+  - !!python/object/apply:decimal.Decimal
+    - '16859.30'
+- !!python/tuple
+  - Children
+  - 'importoexporti #2'
+  - Hawaii/Alaska_1
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '25365.983333'
+  - !!python/object/apply:decimal.Decimal
+    - '12622.30'
+  - !!python/object/apply:decimal.Decimal
+    - '15073.23'
+  - !!python/object/apply:decimal.Decimal
+    - '14462.87'
+- !!python/tuple
+  - Men
+  - 'edu packimporto #2'
+  - NY Metro_1
+  - 2001
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '25315.245833'
+  - !!python/object/apply:decimal.Decimal
+    - '12572.54'
+  - !!python/object/apply:decimal.Decimal
+    - '14713.13'
+  - !!python/object/apply:decimal.Decimal
+    - '13801.63'
+- !!python/tuple
+  - Men
+  - 'edu packimporto #2'
+  - Pacific Northwest
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24410.050000'
+  - !!python/object/apply:decimal.Decimal
+    - '11674.68'
+  - !!python/object/apply:decimal.Decimal
+    - '13193.26'
+  - !!python/object/apply:decimal.Decimal
+    - '14494.65'
+- !!python/tuple
+  - Music
+  - 'importoscholar #2'
+  - Mid Atlantic_1
+  - 2001
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '24909.595000'
+  - !!python/object/apply:decimal.Decimal
+    - '12180.81'
+  - !!python/object/apply:decimal.Decimal
+    - '32975.27'
+  - !!python/object/apply:decimal.Decimal
+    - '12521.38'
+- !!python/tuple
+  - Men
+  - 'edu packimporto #2'
+  - Hawaii/Alaska_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25285.346667'
+  - !!python/object/apply:decimal.Decimal
+    - '12581.40'
+  - !!python/object/apply:decimal.Decimal
+    - '15184.01'
+  - !!python/object/apply:decimal.Decimal
+    - '13671.35'
+- !!python/tuple
+  - Children
+  - 'exportiexporti #2'
+  - Mid Atlantic_1
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '24875.110833'
+  - !!python/object/apply:decimal.Decimal
+    - '12174.00'
+  - !!python/object/apply:decimal.Decimal
+    - '12654.32'
+  - !!python/object/apply:decimal.Decimal
+    - '15147.15'
+- !!python/tuple
+  - Men
+  - 'edu packimporto #2'
+  - Hawaii/Alaska
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '24550.260000'
+  - !!python/object/apply:decimal.Decimal
+    - '11860.47'
+  - !!python/object/apply:decimal.Decimal
+    - '14352.78'
+  - !!python/object/apply:decimal.Decimal
+    - '14723.26'
+- !!python/tuple
+  - Children
+  - 'importoexporti #2'
+  - North Midwest
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '25637.946667'
+  - !!python/object/apply:decimal.Decimal
+    - '12959.38'
+  - !!python/object/apply:decimal.Decimal
+    - '16663.63'
+  - !!python/object/apply:decimal.Decimal
+    - '15872.97'
+- !!python/tuple
+  - Women
+  - 'amalgamalg #2'
+  - Pacific Northwest_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24584.817500'
+  - !!python/object/apply:decimal.Decimal
+    - '11913.06'
+  - !!python/object/apply:decimal.Decimal
+    - '16624.88'
+  - !!python/object/apply:decimal.Decimal
+    - '14582.66'
+- !!python/tuple
+  - Shoes
+  - 'exportiedu pack #2'
+  - NY Metro_1
+  - 2001
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '24733.535000'
+  - !!python/object/apply:decimal.Decimal
+    - '12075.51'
+  - !!python/object/apply:decimal.Decimal
+    - '13514.45'
+  - !!python/object/apply:decimal.Decimal
+    - '15308.31'
+- !!python/tuple
+  - Music
+  - 'importoscholar #2'
+  - NY Metro_1
+  - 2001
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '25508.310833'
+  - !!python/object/apply:decimal.Decimal
+    - '12850.84'
+  - !!python/object/apply:decimal.Decimal
+    - '13842.91'
+  - !!python/object/apply:decimal.Decimal
+    - '16742.35'
+- !!python/tuple
+  - Women
+  - 'edu packamalg #2'
+  - NY Metro_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24638.175000'
+  - !!python/object/apply:decimal.Decimal
+    - '11984.97'
+  - !!python/object/apply:decimal.Decimal
+    - '14191.13'
+  - !!python/object/apply:decimal.Decimal
+    - '13020.38'
+- !!python/tuple
+  - Shoes
+  - 'exportiedu pack #2'
+  - California_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25572.938333'
+  - !!python/object/apply:decimal.Decimal
+    - '12921.06'
+  - !!python/object/apply:decimal.Decimal
+    - '13420.21'
+  - !!python/object/apply:decimal.Decimal
+    - '16098.53'
+- !!python/tuple
+  - Music
+  - 'amalgscholar #2'
+  - NY Metro_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '26202.157500'
+  - !!python/object/apply:decimal.Decimal
+    - '13557.19'
+  - !!python/object/apply:decimal.Decimal
+    - '13890.45'
+  - !!python/object/apply:decimal.Decimal
+    - '13873.96'
+- !!python/tuple
+  - Shoes
+  - 'exportiedu pack #2'
+  - California
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '26147.645833'
+  - !!python/object/apply:decimal.Decimal
+    - '13507.18'
+  - !!python/object/apply:decimal.Decimal
+    - '13283.68'
+  - !!python/object/apply:decimal.Decimal
+    - '13599.87'
+- !!python/tuple
+  - Shoes
+  - 'importoedu pack #2'
+  - California
+  - 2001
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '25857.295833'
+  - !!python/object/apply:decimal.Decimal
+    - '13229.80'
+  - !!python/object/apply:decimal.Decimal
+    - '19098.00'
+  - !!python/object/apply:decimal.Decimal
+    - '34472.17'
+- !!python/tuple
+  - Music
+  - 'amalgscholar #2'
+  - Hawaii/Alaska_1
+  - 2001
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '25629.365000'
+  - !!python/object/apply:decimal.Decimal
+    - '13005.63'
+  - !!python/object/apply:decimal.Decimal
+    - '14856.26'
+  - !!python/object/apply:decimal.Decimal
+    - '34883.30'
+- !!python/tuple
+  - Women
+  - 'exportiamalg #2'
+  - North Midwest
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '26468.085000'
+  - !!python/object/apply:decimal.Decimal
+    - '13849.47'
+  - !!python/object/apply:decimal.Decimal
+    - '17872.96'
+  - !!python/object/apply:decimal.Decimal
+    - '17134.39'
+- !!python/tuple
+  - Shoes
+  - 'edu packedu pack #2'
+  - North Midwest
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '24395.346667'
+  - !!python/object/apply:decimal.Decimal
+    - '11781.10'
+  - !!python/object/apply:decimal.Decimal
+    - '14409.72'
+  - !!python/object/apply:decimal.Decimal
+    - '15994.93'
+- !!python/tuple
+  - Shoes
+  - 'edu packedu pack #2'
+  - North Midwest
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24395.346667'
+  - !!python/object/apply:decimal.Decimal
+    - '11782.53'
+  - !!python/object/apply:decimal.Decimal
+    - '12399.62'
+  - !!python/object/apply:decimal.Decimal
+    - '14409.72'
+- !!python/tuple
+  - Children
+  - 'edu packexporti #2'
+  - Pacific Northwest
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '24755.715833'
+  - !!python/object/apply:decimal.Decimal
+    - '12148.21'
+  - !!python/object/apply:decimal.Decimal
+    - '14156.66'
+  - !!python/object/apply:decimal.Decimal
+    - '15271.78'
+- !!python/tuple
+  - Children
+  - 'edu packexporti #2'
+  - Hawaii/Alaska
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25300.655000'
+  - !!python/object/apply:decimal.Decimal
+    - '12697.41'
+  - !!python/object/apply:decimal.Decimal
+    - '14103.44'
+  - !!python/object/apply:decimal.Decimal
+    - '15886.15'
+- !!python/tuple
+  - Women
+  - 'edu packamalg #2'
+  - North Midwest_1
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '24243.440833'
+  - !!python/object/apply:decimal.Decimal
+    - '11641.95'
+  - !!python/object/apply:decimal.Decimal
+    - '14259.78'
+  - !!python/object/apply:decimal.Decimal
+    - '15402.48'
+- !!python/tuple
+  - Men
+  - 'amalgimporto #2'
+  - Mid Atlantic_1
+  - 2001
+  - 6
+  - !!python/object/apply:decimal.Decimal
+    - '25308.709167'
+  - !!python/object/apply:decimal.Decimal
+    - '12713.62'
+  - !!python/object/apply:decimal.Decimal
+    - '13056.00'
+  - !!python/object/apply:decimal.Decimal
+    - '12854.65'
+- !!python/tuple
+  - Children
+  - 'importoexporti #2'
+  - California_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25191.679167'
+  - !!python/object/apply:decimal.Decimal
+    - '12597.76'
+  - !!python/object/apply:decimal.Decimal
+    - '14523.28'
+  - !!python/object/apply:decimal.Decimal
+    - '12922.62'
+- !!python/tuple
+  - Music
+  - 'amalgscholar #2'
+  - Pacific Northwest
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '24756.851667'
+  - !!python/object/apply:decimal.Decimal
+    - '12163.00'
+  - !!python/object/apply:decimal.Decimal
+    - '14860.65'
+  - !!python/object/apply:decimal.Decimal
+    - '13654.50'
+- !!python/tuple
+  - Women
+  - 'edu packamalg #2'
+  - California
+  - 2001
+  - 7
+  - !!python/object/apply:decimal.Decimal
+    - '24633.816667'
+  - !!python/object/apply:decimal.Decimal
+    - '12041.88'
+  - !!python/object/apply:decimal.Decimal
+    - '14923.53'
+  - !!python/object/apply:decimal.Decimal
+    - '30233.99'
+- !!python/tuple
+  - Men
+  - 'amalgimporto #2'
+  - North Midwest
+  - 2001
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '26340.857500'
+  - !!python/object/apply:decimal.Decimal
+    - '13755.67'
+  - !!python/object/apply:decimal.Decimal
+    - '16551.47'
+  - !!python/object/apply:decimal.Decimal
+    - '16714.82'
+- !!python/tuple
+  - Men
+  - 'importoimporto #2'
+  - California_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '25025.195000'
+  - !!python/object/apply:decimal.Decimal
+    - '12443.68'
+  - !!python/object/apply:decimal.Decimal
+    - '15902.35'
+  - !!python/object/apply:decimal.Decimal
+    - '15903.01'
+- !!python/tuple
+  - Women
+  - 'edu packamalg #2'
+  - North Midwest_1
+  - 2001
+  - 2
+  - !!python/object/apply:decimal.Decimal
+    - '24243.440833'
+  - !!python/object/apply:decimal.Decimal
+    - '11664.61'
+  - !!python/object/apply:decimal.Decimal
+    - '12400.99'
+  - !!python/object/apply:decimal.Decimal
+    - '13720.08'

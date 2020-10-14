@@ -1,0 +1,12 @@
+# This is a sample config file
+coordinator: coordinator-dknupp-impala-v10.env-gzlc4m.dwx-dev-public.cloudera.com
+client_type: 'OdbcClient'
+auth_type: null
+ssl: True
+thrift_transport: 'http'
+user: null
+password: null
+min_wait: 2  # unit = seconds
+max_wait: 5  # unit = seconds
+target_db: tpcds_10_decimal_parquet
+expected_results: scale_factor_10_results

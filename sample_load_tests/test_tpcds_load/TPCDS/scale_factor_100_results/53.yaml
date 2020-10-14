@@ -1,0 +1,600 @@
+- !!python/tuple
+  - 745
+  - !!python/object/apply:decimal.Decimal
+    - '2598.74'
+  - !!python/object/apply:decimal.Decimal
+    - '4280.167500'
+- !!python/tuple
+  - 745
+  - !!python/object/apply:decimal.Decimal
+    - '2735.22'
+  - !!python/object/apply:decimal.Decimal
+    - '4280.167500'
+- !!python/tuple
+  - 745
+  - !!python/object/apply:decimal.Decimal
+    - '7545.96'
+  - !!python/object/apply:decimal.Decimal
+    - '4280.167500'
+- !!python/tuple
+  - 708
+  - !!python/object/apply:decimal.Decimal
+    - '2113.15'
+  - !!python/object/apply:decimal.Decimal
+    - '4289.552500'
+- !!python/tuple
+  - 708
+  - !!python/object/apply:decimal.Decimal
+    - '2449.69'
+  - !!python/object/apply:decimal.Decimal
+    - '4289.552500'
+- !!python/tuple
+  - 708
+  - !!python/object/apply:decimal.Decimal
+    - '8016.24'
+  - !!python/object/apply:decimal.Decimal
+    - '4289.552500'
+- !!python/tuple
+  - 835
+  - !!python/object/apply:decimal.Decimal
+    - '2097.20'
+  - !!python/object/apply:decimal.Decimal
+    - '4303.645000'
+- !!python/tuple
+  - 835
+  - !!python/object/apply:decimal.Decimal
+    - '2276.65'
+  - !!python/object/apply:decimal.Decimal
+    - '4303.645000'
+- !!python/tuple
+  - 835
+  - !!python/object/apply:decimal.Decimal
+    - '5386.03'
+  - !!python/object/apply:decimal.Decimal
+    - '4303.645000'
+- !!python/tuple
+  - 835
+  - !!python/object/apply:decimal.Decimal
+    - '7454.70'
+  - !!python/object/apply:decimal.Decimal
+    - '4303.645000'
+- !!python/tuple
+  - 847
+  - !!python/object/apply:decimal.Decimal
+    - '1792.12'
+  - !!python/object/apply:decimal.Decimal
+    - '4336.880000'
+- !!python/tuple
+  - 847
+  - !!python/object/apply:decimal.Decimal
+    - '2937.36'
+  - !!python/object/apply:decimal.Decimal
+    - '4336.880000'
+- !!python/tuple
+  - 847
+  - !!python/object/apply:decimal.Decimal
+    - '8542.75'
+  - !!python/object/apply:decimal.Decimal
+    - '4336.880000'
+- !!python/tuple
+  - 842
+  - !!python/object/apply:decimal.Decimal
+    - '2668.23'
+  - !!python/object/apply:decimal.Decimal
+    - '4367.610000'
+- !!python/tuple
+  - 842
+  - !!python/object/apply:decimal.Decimal
+    - '2798.30'
+  - !!python/object/apply:decimal.Decimal
+    - '4367.610000'
+- !!python/tuple
+  - 842
+  - !!python/object/apply:decimal.Decimal
+    - '4900.48'
+  - !!python/object/apply:decimal.Decimal
+    - '4367.610000'
+- !!python/tuple
+  - 842
+  - !!python/object/apply:decimal.Decimal
+    - '7103.43'
+  - !!python/object/apply:decimal.Decimal
+    - '4367.610000'
+- !!python/tuple
+  - 727
+  - !!python/object/apply:decimal.Decimal
+    - '2201.10'
+  - !!python/object/apply:decimal.Decimal
+    - '4408.240000'
+- !!python/tuple
+  - 727
+  - !!python/object/apply:decimal.Decimal
+    - '2961.52'
+  - !!python/object/apply:decimal.Decimal
+    - '4408.240000'
+- !!python/tuple
+  - 727
+  - !!python/object/apply:decimal.Decimal
+    - '3879.10'
+  - !!python/object/apply:decimal.Decimal
+    - '4408.240000'
+- !!python/tuple
+  - 727
+  - !!python/object/apply:decimal.Decimal
+    - '8591.24'
+  - !!python/object/apply:decimal.Decimal
+    - '4408.240000'
+- !!python/tuple
+  - 881
+  - !!python/object/apply:decimal.Decimal
+    - '2321.09'
+  - !!python/object/apply:decimal.Decimal
+    - '4466.490000'
+- !!python/tuple
+  - 881
+  - !!python/object/apply:decimal.Decimal
+    - '3496.22'
+  - !!python/object/apply:decimal.Decimal
+    - '4466.490000'
+- !!python/tuple
+  - 881
+  - !!python/object/apply:decimal.Decimal
+    - '7826.19'
+  - !!python/object/apply:decimal.Decimal
+    - '4466.490000'
+- !!python/tuple
+  - 712
+  - !!python/object/apply:decimal.Decimal
+    - '2100.69'
+  - !!python/object/apply:decimal.Decimal
+    - '4480.020000'
+- !!python/tuple
+  - 712
+  - !!python/object/apply:decimal.Decimal
+    - '2831.67'
+  - !!python/object/apply:decimal.Decimal
+    - '4480.020000'
+- !!python/tuple
+  - 712
+  - !!python/object/apply:decimal.Decimal
+    - '5232.32'
+  - !!python/object/apply:decimal.Decimal
+    - '4480.020000'
+- !!python/tuple
+  - 712
+  - !!python/object/apply:decimal.Decimal
+    - '7755.40'
+  - !!python/object/apply:decimal.Decimal
+    - '4480.020000'
+- !!python/tuple
+  - 765
+  - !!python/object/apply:decimal.Decimal
+    - '2319.32'
+  - !!python/object/apply:decimal.Decimal
+    - '4495.800000'
+- !!python/tuple
+  - 765
+  - !!python/object/apply:decimal.Decimal
+    - '3249.20'
+  - !!python/object/apply:decimal.Decimal
+    - '4495.800000'
+- !!python/tuple
+  - 765
+  - !!python/object/apply:decimal.Decimal
+    - '7726.30'
+  - !!python/object/apply:decimal.Decimal
+    - '4495.800000'
+- !!python/tuple
+  - 830
+  - !!python/object/apply:decimal.Decimal
+    - '1580.58'
+  - !!python/object/apply:decimal.Decimal
+    - '4508.900000'
+- !!python/tuple
+  - 830
+  - !!python/object/apply:decimal.Decimal
+    - '3308.39'
+  - !!python/object/apply:decimal.Decimal
+    - '4508.900000'
+- !!python/tuple
+  - 830
+  - !!python/object/apply:decimal.Decimal
+    - '8827.74'
+  - !!python/object/apply:decimal.Decimal
+    - '4508.900000'
+- !!python/tuple
+  - 795
+  - !!python/object/apply:decimal.Decimal
+    - '2148.50'
+  - !!python/object/apply:decimal.Decimal
+    - '4571.695000'
+- !!python/tuple
+  - 795
+  - !!python/object/apply:decimal.Decimal
+    - '2766.38'
+  - !!python/object/apply:decimal.Decimal
+    - '4571.695000'
+- !!python/tuple
+  - 795
+  - !!python/object/apply:decimal.Decimal
+    - '5171.48'
+  - !!python/object/apply:decimal.Decimal
+    - '4571.695000'
+- !!python/tuple
+  - 795
+  - !!python/object/apply:decimal.Decimal
+    - '8200.42'
+  - !!python/object/apply:decimal.Decimal
+    - '4571.695000'
+- !!python/tuple
+  - 837
+  - !!python/object/apply:decimal.Decimal
+    - '2541.74'
+  - !!python/object/apply:decimal.Decimal
+    - '4594.665000'
+- !!python/tuple
+  - 837
+  - !!python/object/apply:decimal.Decimal
+    - '3189.81'
+  - !!python/object/apply:decimal.Decimal
+    - '4594.665000'
+- !!python/tuple
+  - 837
+  - !!python/object/apply:decimal.Decimal
+    - '7769.90'
+  - !!python/object/apply:decimal.Decimal
+    - '4594.665000'
+- !!python/tuple
+  - 891
+  - !!python/object/apply:decimal.Decimal
+    - '2665.49'
+  - !!python/object/apply:decimal.Decimal
+    - '4602.340000'
+- !!python/tuple
+  - 891
+  - !!python/object/apply:decimal.Decimal
+    - '2948.99'
+  - !!python/object/apply:decimal.Decimal
+    - '4602.340000'
+- !!python/tuple
+  - 891
+  - !!python/object/apply:decimal.Decimal
+    - '4126.25'
+  - !!python/object/apply:decimal.Decimal
+    - '4602.340000'
+- !!python/tuple
+  - 891
+  - !!python/object/apply:decimal.Decimal
+    - '8668.63'
+  - !!python/object/apply:decimal.Decimal
+    - '4602.340000'
+- !!python/tuple
+  - 705
+  - !!python/object/apply:decimal.Decimal
+    - '2531.21'
+  - !!python/object/apply:decimal.Decimal
+    - '4615.075000'
+- !!python/tuple
+  - 705
+  - !!python/object/apply:decimal.Decimal
+    - '2755.34'
+  - !!python/object/apply:decimal.Decimal
+    - '4615.075000'
+- !!python/tuple
+  - 705
+  - !!python/object/apply:decimal.Decimal
+    - '8644.78'
+  - !!python/object/apply:decimal.Decimal
+    - '4615.075000'
+- !!python/tuple
+  - 811
+  - !!python/object/apply:decimal.Decimal
+    - '2314.15'
+  - !!python/object/apply:decimal.Decimal
+    - '4631.440000'
+- !!python/tuple
+  - 811
+  - !!python/object/apply:decimal.Decimal
+    - '3118.65'
+  - !!python/object/apply:decimal.Decimal
+    - '4631.440000'
+- !!python/tuple
+  - 811
+  - !!python/object/apply:decimal.Decimal
+    - '5181.76'
+  - !!python/object/apply:decimal.Decimal
+    - '4631.440000'
+- !!python/tuple
+  - 811
+  - !!python/object/apply:decimal.Decimal
+    - '7911.20'
+  - !!python/object/apply:decimal.Decimal
+    - '4631.440000'
+- !!python/tuple
+  - 935
+  - !!python/object/apply:decimal.Decimal
+    - '2437.34'
+  - !!python/object/apply:decimal.Decimal
+    - '4657.612500'
+- !!python/tuple
+  - 935
+  - !!python/object/apply:decimal.Decimal
+    - '2850.83'
+  - !!python/object/apply:decimal.Decimal
+    - '4657.612500'
+- !!python/tuple
+  - 935
+  - !!python/object/apply:decimal.Decimal
+    - '9081.85'
+  - !!python/object/apply:decimal.Decimal
+    - '4657.612500'
+- !!python/tuple
+  - 698
+  - !!python/object/apply:decimal.Decimal
+    - '2844.81'
+  - !!python/object/apply:decimal.Decimal
+    - '4658.550000'
+- !!python/tuple
+  - 698
+  - !!python/object/apply:decimal.Decimal
+    - '3104.22'
+  - !!python/object/apply:decimal.Decimal
+    - '4658.550000'
+- !!python/tuple
+  - 698
+  - !!python/object/apply:decimal.Decimal
+    - '7747.27'
+  - !!python/object/apply:decimal.Decimal
+    - '4658.550000'
+- !!python/tuple
+  - 884
+  - !!python/object/apply:decimal.Decimal
+    - '2910.33'
+  - !!python/object/apply:decimal.Decimal
+    - '4676.327500'
+- !!python/tuple
+  - 884
+  - !!python/object/apply:decimal.Decimal
+    - '3061.61'
+  - !!python/object/apply:decimal.Decimal
+    - '4676.327500'
+- !!python/tuple
+  - 884
+  - !!python/object/apply:decimal.Decimal
+    - '8392.17'
+  - !!python/object/apply:decimal.Decimal
+    - '4676.327500'
+- !!python/tuple
+  - 953
+  - !!python/object/apply:decimal.Decimal
+    - '2418.53'
+  - !!python/object/apply:decimal.Decimal
+    - '4695.855000'
+- !!python/tuple
+  - 953
+  - !!python/object/apply:decimal.Decimal
+    - '2722.43'
+  - !!python/object/apply:decimal.Decimal
+    - '4695.855000'
+- !!python/tuple
+  - 953
+  - !!python/object/apply:decimal.Decimal
+    - '5321.43'
+  - !!python/object/apply:decimal.Decimal
+    - '4695.855000'
+- !!python/tuple
+  - 953
+  - !!python/object/apply:decimal.Decimal
+    - '8321.03'
+  - !!python/object/apply:decimal.Decimal
+    - '4695.855000'
+- !!python/tuple
+  - 917
+  - !!python/object/apply:decimal.Decimal
+    - '2825.70'
+  - !!python/object/apply:decimal.Decimal
+    - '4707.697500'
+- !!python/tuple
+  - 917
+  - !!python/object/apply:decimal.Decimal
+    - '3065.42'
+  - !!python/object/apply:decimal.Decimal
+    - '4707.697500'
+- !!python/tuple
+  - 917
+  - !!python/object/apply:decimal.Decimal
+    - '8051.12'
+  - !!python/object/apply:decimal.Decimal
+    - '4707.697500'
+- !!python/tuple
+  - 805
+  - !!python/object/apply:decimal.Decimal
+    - '2340.41'
+  - !!python/object/apply:decimal.Decimal
+    - '4708.100000'
+- !!python/tuple
+  - 805
+  - !!python/object/apply:decimal.Decimal
+    - '2546.88'
+  - !!python/object/apply:decimal.Decimal
+    - '4708.100000'
+- !!python/tuple
+  - 805
+  - !!python/object/apply:decimal.Decimal
+    - '5344.31'
+  - !!python/object/apply:decimal.Decimal
+    - '4708.100000'
+- !!python/tuple
+  - 805
+  - !!python/object/apply:decimal.Decimal
+    - '8600.80'
+  - !!python/object/apply:decimal.Decimal
+    - '4708.100000'
+- !!python/tuple
+  - 900
+  - !!python/object/apply:decimal.Decimal
+    - '2505.77'
+  - !!python/object/apply:decimal.Decimal
+    - '4716.205000'
+- !!python/tuple
+  - 900
+  - !!python/object/apply:decimal.Decimal
+    - '2789.92'
+  - !!python/object/apply:decimal.Decimal
+    - '4716.205000'
+- !!python/tuple
+  - 900
+  - !!python/object/apply:decimal.Decimal
+    - '5466.79'
+  - !!python/object/apply:decimal.Decimal
+    - '4716.205000'
+- !!python/tuple
+  - 900
+  - !!python/object/apply:decimal.Decimal
+    - '8102.34'
+  - !!python/object/apply:decimal.Decimal
+    - '4716.205000'
+- !!python/tuple
+  - 958
+  - !!python/object/apply:decimal.Decimal
+    - '2729.64'
+  - !!python/object/apply:decimal.Decimal
+    - '4717.090000'
+- !!python/tuple
+  - 958
+  - !!python/object/apply:decimal.Decimal
+    - '2914.11'
+  - !!python/object/apply:decimal.Decimal
+    - '4717.090000'
+- !!python/tuple
+  - 958
+  - !!python/object/apply:decimal.Decimal
+    - '8709.13'
+  - !!python/object/apply:decimal.Decimal
+    - '4717.090000'
+- !!python/tuple
+  - 946
+  - !!python/object/apply:decimal.Decimal
+    - '2693.19'
+  - !!python/object/apply:decimal.Decimal
+    - '4720.492500'
+- !!python/tuple
+  - 946
+  - !!python/object/apply:decimal.Decimal
+    - '2751.22'
+  - !!python/object/apply:decimal.Decimal
+    - '4720.492500'
+- !!python/tuple
+  - 946
+  - !!python/object/apply:decimal.Decimal
+    - '5646.81'
+  - !!python/object/apply:decimal.Decimal
+    - '4720.492500'
+- !!python/tuple
+  - 946
+  - !!python/object/apply:decimal.Decimal
+    - '7790.75'
+  - !!python/object/apply:decimal.Decimal
+    - '4720.492500'
+- !!python/tuple
+  - 737
+  - !!python/object/apply:decimal.Decimal
+    - '2611.45'
+  - !!python/object/apply:decimal.Decimal
+    - '4723.037500'
+- !!python/tuple
+  - 737
+  - !!python/object/apply:decimal.Decimal
+    - '3080.09'
+  - !!python/object/apply:decimal.Decimal
+    - '4723.037500'
+- !!python/tuple
+  - 737
+  - !!python/object/apply:decimal.Decimal
+    - '4133.76'
+  - !!python/object/apply:decimal.Decimal
+    - '4723.037500'
+- !!python/tuple
+  - 737
+  - !!python/object/apply:decimal.Decimal
+    - '9066.85'
+  - !!python/object/apply:decimal.Decimal
+    - '4723.037500'
+- !!python/tuple
+  - 819
+  - !!python/object/apply:decimal.Decimal
+    - '2246.43'
+  - !!python/object/apply:decimal.Decimal
+    - '4736.250000'
+- !!python/tuple
+  - 819
+  - !!python/object/apply:decimal.Decimal
+    - '2579.49'
+  - !!python/object/apply:decimal.Decimal
+    - '4736.250000'
+- !!python/tuple
+  - 819
+  - !!python/object/apply:decimal.Decimal
+    - '5858.78'
+  - !!python/object/apply:decimal.Decimal
+    - '4736.250000'
+- !!python/tuple
+  - 819
+  - !!python/object/apply:decimal.Decimal
+    - '8260.30'
+  - !!python/object/apply:decimal.Decimal
+    - '4736.250000'
+- !!python/tuple
+  - 711
+  - !!python/object/apply:decimal.Decimal
+    - '2360.00'
+  - !!python/object/apply:decimal.Decimal
+    - '4766.455000'
+- !!python/tuple
+  - 711
+  - !!python/object/apply:decimal.Decimal
+    - '2933.29'
+  - !!python/object/apply:decimal.Decimal
+    - '4766.455000'
+- !!python/tuple
+  - 711
+  - !!python/object/apply:decimal.Decimal
+    - '5274.07'
+  - !!python/object/apply:decimal.Decimal
+    - '4766.455000'
+- !!python/tuple
+  - 711
+  - !!python/object/apply:decimal.Decimal
+    - '8498.46'
+  - !!python/object/apply:decimal.Decimal
+    - '4766.455000'
+- !!python/tuple
+  - 732
+  - !!python/object/apply:decimal.Decimal
+    - '2631.85'
+  - !!python/object/apply:decimal.Decimal
+    - '4768.735000'
+- !!python/tuple
+  - 732
+  - !!python/object/apply:decimal.Decimal
+    - '3102.65'
+  - !!python/object/apply:decimal.Decimal
+    - '4768.735000'
+- !!python/tuple
+  - 732
+  - !!python/object/apply:decimal.Decimal
+    - '5637.71'
+  - !!python/object/apply:decimal.Decimal
+    - '4768.735000'
+- !!python/tuple
+  - 732
+  - !!python/object/apply:decimal.Decimal
+    - '7702.73'
+  - !!python/object/apply:decimal.Decimal
+    - '4768.735000'
+- !!python/tuple
+  - 999
+  - !!python/object/apply:decimal.Decimal
+    - '2119.33'
+  - !!python/object/apply:decimal.Decimal
+    - '4787.555000'

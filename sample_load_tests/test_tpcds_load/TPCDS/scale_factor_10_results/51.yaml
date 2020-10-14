@@ -1,0 +1,1005 @@
+- !!python/tuple
+  - 14
+  - '1998-01-11'
+  - !!python/object/apply:decimal.Decimal
+    - '98.87'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '98.87'
+  - !!python/object/apply:decimal.Decimal
+    - '3.22'
+- !!python/tuple
+  - 14
+  - '1998-01-14'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '4.24'
+  - !!python/object/apply:decimal.Decimal
+    - '98.87'
+  - !!python/object/apply:decimal.Decimal
+    - '4.24'
+- !!python/tuple
+  - 14
+  - '1998-01-18'
+  - !!python/object/apply:decimal.Decimal
+    - '299.25'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '299.25'
+  - !!python/object/apply:decimal.Decimal
+    - '4.24'
+- !!python/tuple
+  - 14
+  - '1998-01-21'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '44.91'
+  - !!python/object/apply:decimal.Decimal
+    - '299.25'
+  - !!python/object/apply:decimal.Decimal
+    - '44.91'
+- !!python/tuple
+  - 14
+  - '1998-01-26'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '46.06'
+  - !!python/object/apply:decimal.Decimal
+    - '299.25'
+  - !!python/object/apply:decimal.Decimal
+    - '46.06'
+- !!python/tuple
+  - 14
+  - '1998-01-30'
+  - !!python/object/apply:decimal.Decimal
+    - '320.08'
+  - !!python/object/apply:decimal.Decimal
+    - '48.98'
+  - !!python/object/apply:decimal.Decimal
+    - '320.08'
+  - !!python/object/apply:decimal.Decimal
+    - '48.98'
+- !!python/tuple
+  - 14
+  - '1998-02-03'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '48.98'
+  - !!python/object/apply:decimal.Decimal
+    - '320.08'
+  - !!python/object/apply:decimal.Decimal
+    - '48.98'
+- !!python/tuple
+  - 14
+  - '1998-02-05'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '59.13'
+  - !!python/object/apply:decimal.Decimal
+    - '320.08'
+  - !!python/object/apply:decimal.Decimal
+    - '59.13'
+- !!python/tuple
+  - 14
+  - '1998-02-06'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '118.37'
+  - !!python/object/apply:decimal.Decimal
+    - '320.08'
+  - !!python/object/apply:decimal.Decimal
+    - '118.37'
+- !!python/tuple
+  - 14
+  - '1998-02-12'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '166.77'
+  - !!python/object/apply:decimal.Decimal
+    - '320.08'
+  - !!python/object/apply:decimal.Decimal
+    - '166.77'
+- !!python/tuple
+  - 14
+  - '1998-02-13'
+  - !!python/object/apply:decimal.Decimal
+    - '327.33'
+  - !!python/object/apply:decimal.Decimal
+    - '167.98'
+  - !!python/object/apply:decimal.Decimal
+    - '327.33'
+  - !!python/object/apply:decimal.Decimal
+    - '167.98'
+- !!python/tuple
+  - 14
+  - '1998-03-08'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '193.60'
+  - !!python/object/apply:decimal.Decimal
+    - '327.33'
+  - !!python/object/apply:decimal.Decimal
+    - '193.60'
+- !!python/tuple
+  - 14
+  - '1998-03-11'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '212.68'
+  - !!python/object/apply:decimal.Decimal
+    - '327.33'
+  - !!python/object/apply:decimal.Decimal
+    - '212.68'
+- !!python/tuple
+  - 14
+  - '1998-03-18'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '275.84'
+  - !!python/object/apply:decimal.Decimal
+    - '327.33'
+  - !!python/object/apply:decimal.Decimal
+    - '275.84'
+- !!python/tuple
+  - 14
+  - '1998-03-26'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '282.96'
+  - !!python/object/apply:decimal.Decimal
+    - '327.33'
+  - !!python/object/apply:decimal.Decimal
+    - '282.96'
+- !!python/tuple
+  - 14
+  - '1998-03-29'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '286.48'
+  - !!python/object/apply:decimal.Decimal
+    - '327.33'
+  - !!python/object/apply:decimal.Decimal
+    - '286.48'
+- !!python/tuple
+  - 14
+  - '1998-04-05'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '288.94'
+  - !!python/object/apply:decimal.Decimal
+    - '327.33'
+  - !!python/object/apply:decimal.Decimal
+    - '288.94'
+- !!python/tuple
+  - 20
+  - '1998-01-20'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '11.04'
+  - !!python/object/apply:decimal.Decimal
+    - '56.14'
+  - !!python/object/apply:decimal.Decimal
+    - '11.04'
+- !!python/tuple
+  - 20
+  - '1998-01-24'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '22.53'
+  - !!python/object/apply:decimal.Decimal
+    - '56.14'
+  - !!python/object/apply:decimal.Decimal
+    - '22.53'
+- !!python/tuple
+  - 20
+  - '1998-01-25'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '23.52'
+  - !!python/object/apply:decimal.Decimal
+    - '56.14'
+  - !!python/object/apply:decimal.Decimal
+    - '23.52'
+- !!python/tuple
+  - 20
+  - '1998-01-27'
+  - !!python/object/apply:decimal.Decimal
+    - '168.70'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '168.70'
+  - !!python/object/apply:decimal.Decimal
+    - '23.52'
+- !!python/tuple
+  - 20
+  - '1998-01-28'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '36.24'
+  - !!python/object/apply:decimal.Decimal
+    - '168.70'
+  - !!python/object/apply:decimal.Decimal
+    - '36.24'
+- !!python/tuple
+  - 20
+  - '1998-02-08'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '138.14'
+  - !!python/object/apply:decimal.Decimal
+    - '168.70'
+  - !!python/object/apply:decimal.Decimal
+    - '138.14'
+- !!python/tuple
+  - 22
+  - '1998-01-08'
+  - !!python/object/apply:decimal.Decimal
+    - '53.91'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '53.91'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 22
+  - '1998-01-09'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '10.11'
+  - !!python/object/apply:decimal.Decimal
+    - '53.91'
+  - !!python/object/apply:decimal.Decimal
+    - '10.11'
+- !!python/tuple
+  - 22
+  - '1998-01-11'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '11.92'
+  - !!python/object/apply:decimal.Decimal
+    - '53.91'
+  - !!python/object/apply:decimal.Decimal
+    - '11.92'
+- !!python/tuple
+  - 22
+  - '1998-01-13'
+  - !!python/object/apply:decimal.Decimal
+    - '169.43'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '169.43'
+  - !!python/object/apply:decimal.Decimal
+    - '11.92'
+- !!python/tuple
+  - 22
+  - '1998-01-14'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '39.65'
+  - !!python/object/apply:decimal.Decimal
+    - '169.43'
+  - !!python/object/apply:decimal.Decimal
+    - '39.65'
+- !!python/tuple
+  - 22
+  - '1998-01-16'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '159.00'
+  - !!python/object/apply:decimal.Decimal
+    - '169.43'
+  - !!python/object/apply:decimal.Decimal
+    - '159.00'
+- !!python/tuple
+  - 22
+  - '1998-01-18'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '162.18'
+  - !!python/object/apply:decimal.Decimal
+    - '169.43'
+  - !!python/object/apply:decimal.Decimal
+    - '162.18'
+- !!python/tuple
+  - 22
+  - '1998-01-19'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '163.45'
+  - !!python/object/apply:decimal.Decimal
+    - '169.43'
+  - !!python/object/apply:decimal.Decimal
+    - '163.45'
+- !!python/tuple
+  - 22
+  - '1998-02-07'
+  - !!python/object/apply:decimal.Decimal
+    - '289.73'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '289.73'
+  - !!python/object/apply:decimal.Decimal
+    - '163.45'
+- !!python/tuple
+  - 22
+  - '1998-02-17'
+  - !!python/object/apply:decimal.Decimal
+    - '357.70'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '357.70'
+  - !!python/object/apply:decimal.Decimal
+    - '163.45'
+- !!python/tuple
+  - 22
+  - '1998-02-27'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '174.47'
+  - !!python/object/apply:decimal.Decimal
+    - '357.70'
+  - !!python/object/apply:decimal.Decimal
+    - '174.47'
+- !!python/tuple
+  - 22
+  - '1998-03-26'
+  - !!python/object/apply:decimal.Decimal
+    - '372.61'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '372.61'
+  - !!python/object/apply:decimal.Decimal
+    - '174.47'
+- !!python/tuple
+  - 22
+  - '1998-04-06'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '186.24'
+  - !!python/object/apply:decimal.Decimal
+    - '372.61'
+  - !!python/object/apply:decimal.Decimal
+    - '186.24'
+- !!python/tuple
+  - 22
+  - '1998-04-23'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '202.58'
+  - !!python/object/apply:decimal.Decimal
+    - '372.61'
+  - !!python/object/apply:decimal.Decimal
+    - '202.58'
+- !!python/tuple
+  - 22
+  - '1998-04-27'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '232.75'
+  - !!python/object/apply:decimal.Decimal
+    - '372.61'
+  - !!python/object/apply:decimal.Decimal
+    - '232.75'
+- !!python/tuple
+  - 22
+  - '1998-05-01'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '252.61'
+  - !!python/object/apply:decimal.Decimal
+    - '372.61'
+  - !!python/object/apply:decimal.Decimal
+    - '252.61'
+- !!python/tuple
+  - 22
+  - '1998-05-04'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '332.87'
+  - !!python/object/apply:decimal.Decimal
+    - '372.61'
+  - !!python/object/apply:decimal.Decimal
+    - '332.87'
+- !!python/tuple
+  - 22
+  - '1998-05-05'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '354.25'
+  - !!python/object/apply:decimal.Decimal
+    - '372.61'
+  - !!python/object/apply:decimal.Decimal
+    - '354.25'
+- !!python/tuple
+  - 22
+  - '1998-05-14'
+  - !!python/object/apply:decimal.Decimal
+    - '384.57'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '384.57'
+  - !!python/object/apply:decimal.Decimal
+    - '354.25'
+- !!python/tuple
+  - 22
+  - '1998-05-17'
+  - !!python/object/apply:decimal.Decimal
+    - '623.39'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '623.39'
+  - !!python/object/apply:decimal.Decimal
+    - '354.25'
+- !!python/tuple
+  - 22
+  - '1998-05-28'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '419.06'
+  - !!python/object/apply:decimal.Decimal
+    - '623.39'
+  - !!python/object/apply:decimal.Decimal
+    - '419.06'
+- !!python/tuple
+  - 22
+  - '1998-06-03'
+  - !!python/object/apply:decimal.Decimal
+    - '625.79'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '625.79'
+  - !!python/object/apply:decimal.Decimal
+    - '419.06'
+- !!python/tuple
+  - 22
+  - '1998-06-05'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '447.83'
+  - !!python/object/apply:decimal.Decimal
+    - '625.79'
+  - !!python/object/apply:decimal.Decimal
+    - '447.83'
+- !!python/tuple
+  - 22
+  - '1998-06-09'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '456.92'
+  - !!python/object/apply:decimal.Decimal
+    - '625.79'
+  - !!python/object/apply:decimal.Decimal
+    - '456.92'
+- !!python/tuple
+  - 22
+  - '1998-06-18'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '460.37'
+  - !!python/object/apply:decimal.Decimal
+    - '625.79'
+  - !!python/object/apply:decimal.Decimal
+    - '460.37'
+- !!python/tuple
+  - 22
+  - '1998-07-01'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '524.40'
+  - !!python/object/apply:decimal.Decimal
+    - '625.79'
+  - !!python/object/apply:decimal.Decimal
+    - '524.40'
+- !!python/tuple
+  - 22
+  - '1998-07-06'
+  - !!python/object/apply:decimal.Decimal
+    - '679.09'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '679.09'
+  - !!python/object/apply:decimal.Decimal
+    - '524.40'
+- !!python/tuple
+  - 22
+  - '1998-07-07'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '528.68'
+  - !!python/object/apply:decimal.Decimal
+    - '679.09'
+  - !!python/object/apply:decimal.Decimal
+    - '528.68'
+- !!python/tuple
+  - 22
+  - '1998-07-10'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '598.46'
+  - !!python/object/apply:decimal.Decimal
+    - '679.09'
+  - !!python/object/apply:decimal.Decimal
+    - '598.46'
+- !!python/tuple
+  - 22
+  - '1998-07-21'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '623.31'
+  - !!python/object/apply:decimal.Decimal
+    - '679.09'
+  - !!python/object/apply:decimal.Decimal
+    - '623.31'
+- !!python/tuple
+  - 22
+  - '1998-07-22'
+  - !!python/object/apply:decimal.Decimal
+    - '713.63'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '713.63'
+  - !!python/object/apply:decimal.Decimal
+    - '623.31'
+- !!python/tuple
+  - 22
+  - '1998-07-24'
+  - !!python/object/apply:decimal.Decimal
+    - '801.83'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '801.83'
+  - !!python/object/apply:decimal.Decimal
+    - '623.31'
+- !!python/tuple
+  - 22
+  - '1998-07-29'
+  - !!python/object/apply:decimal.Decimal
+    - '863.21'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '863.21'
+  - !!python/object/apply:decimal.Decimal
+    - '623.31'
+- !!python/tuple
+  - 22
+  - '1998-07-31'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '658.04'
+  - !!python/object/apply:decimal.Decimal
+    - '863.21'
+  - !!python/object/apply:decimal.Decimal
+    - '658.04'
+- !!python/tuple
+  - 22
+  - '1998-08-01'
+  - !!python/object/apply:decimal.Decimal
+    - '963.01'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '963.01'
+  - !!python/object/apply:decimal.Decimal
+    - '658.04'
+- !!python/tuple
+  - 22
+  - '1998-08-04'
+  - !!python/object/apply:decimal.Decimal
+    - '1020.29'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1020.29'
+  - !!python/object/apply:decimal.Decimal
+    - '658.04'
+- !!python/tuple
+  - 22
+  - '1998-08-07'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '680.10'
+  - !!python/object/apply:decimal.Decimal
+    - '1020.29'
+  - !!python/object/apply:decimal.Decimal
+    - '680.10'
+- !!python/tuple
+  - 22
+  - '1998-08-09'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '686.42'
+  - !!python/object/apply:decimal.Decimal
+    - '1020.29'
+  - !!python/object/apply:decimal.Decimal
+    - '686.42'
+- !!python/tuple
+  - 22
+  - '1998-08-11'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '790.94'
+  - !!python/object/apply:decimal.Decimal
+    - '1020.29'
+  - !!python/object/apply:decimal.Decimal
+    - '790.94'
+- !!python/tuple
+  - 22
+  - '1998-08-14'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '803.81'
+  - !!python/object/apply:decimal.Decimal
+    - '1020.29'
+  - !!python/object/apply:decimal.Decimal
+    - '803.81'
+- !!python/tuple
+  - 22
+  - '1998-08-16'
+  - !!python/object/apply:decimal.Decimal
+    - '1064.59'
+  - !!python/object/apply:decimal.Decimal
+    - '811.99'
+  - !!python/object/apply:decimal.Decimal
+    - '1064.59'
+  - !!python/object/apply:decimal.Decimal
+    - '811.99'
+- !!python/tuple
+  - 22
+  - '1998-08-19'
+  - !!python/object/apply:decimal.Decimal
+    - '1069.51'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1069.51'
+  - !!python/object/apply:decimal.Decimal
+    - '811.99'
+- !!python/tuple
+  - 22
+  - '1998-08-21'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '856.53'
+  - !!python/object/apply:decimal.Decimal
+    - '1069.51'
+  - !!python/object/apply:decimal.Decimal
+    - '856.53'
+- !!python/tuple
+  - 22
+  - '1998-08-22'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '902.40'
+  - !!python/object/apply:decimal.Decimal
+    - '1069.51'
+  - !!python/object/apply:decimal.Decimal
+    - '902.40'
+- !!python/tuple
+  - 22
+  - '1998-08-23'
+  - !!python/object/apply:decimal.Decimal
+    - '1180.81'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1180.81'
+  - !!python/object/apply:decimal.Decimal
+    - '902.40'
+- !!python/tuple
+  - 22
+  - '1998-08-24'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '921.25'
+  - !!python/object/apply:decimal.Decimal
+    - '1180.81'
+  - !!python/object/apply:decimal.Decimal
+    - '921.25'
+- !!python/tuple
+  - 22
+  - '1998-08-25'
+  - !!python/object/apply:decimal.Decimal
+    - '1223.47'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1223.47'
+  - !!python/object/apply:decimal.Decimal
+    - '921.25'
+- !!python/tuple
+  - 22
+  - '1998-08-26'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '986.73'
+  - !!python/object/apply:decimal.Decimal
+    - '1223.47'
+  - !!python/object/apply:decimal.Decimal
+    - '986.73'
+- !!python/tuple
+  - 22
+  - '1998-09-03'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1002.45'
+  - !!python/object/apply:decimal.Decimal
+    - '1223.47'
+  - !!python/object/apply:decimal.Decimal
+    - '1002.45'
+- !!python/tuple
+  - 22
+  - '1998-09-04'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1144.74'
+  - !!python/object/apply:decimal.Decimal
+    - '1223.47'
+  - !!python/object/apply:decimal.Decimal
+    - '1144.74'
+- !!python/tuple
+  - 22
+  - '1998-09-07'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1144.74'
+  - !!python/object/apply:decimal.Decimal
+    - '1223.47'
+  - !!python/object/apply:decimal.Decimal
+    - '1144.74'
+- !!python/tuple
+  - 22
+  - '1998-09-08'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1159.90'
+  - !!python/object/apply:decimal.Decimal
+    - '1223.47'
+  - !!python/object/apply:decimal.Decimal
+    - '1159.90'
+- !!python/tuple
+  - 22
+  - '1998-09-11'
+  - !!python/object/apply:decimal.Decimal
+    - '1223.86'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1223.86'
+  - !!python/object/apply:decimal.Decimal
+    - '1159.90'
+- !!python/tuple
+  - 22
+  - '1998-09-14'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1203.47'
+  - !!python/object/apply:decimal.Decimal
+    - '1223.86'
+  - !!python/object/apply:decimal.Decimal
+    - '1203.47'
+- !!python/tuple
+  - 25
+  - '1998-03-05'
+  - !!python/object/apply:decimal.Decimal
+    - '155.69'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '155.69'
+  - !!python/object/apply:decimal.Decimal
+    - '154.65'
+- !!python/tuple
+  - 25
+  - '1998-03-09'
+  - !!python/object/apply:decimal.Decimal
+    - '163.82'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '163.82'
+  - !!python/object/apply:decimal.Decimal
+    - '154.65'
+- !!python/tuple
+  - 25
+  - '1998-03-22'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '162.29'
+  - !!python/object/apply:decimal.Decimal
+    - '163.82'
+  - !!python/object/apply:decimal.Decimal
+    - '162.29'
+- !!python/tuple
+  - 25
+  - '1998-04-04'
+  - !!python/object/apply:decimal.Decimal
+    - '210.93'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '210.93'
+  - !!python/object/apply:decimal.Decimal
+    - '177.33'
+- !!python/tuple
+  - 26
+  - '1998-02-06'
+  - !!python/object/apply:decimal.Decimal
+    - '320.39'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '320.39'
+  - !!python/object/apply:decimal.Decimal
+    - '220.01'
+- !!python/tuple
+  - 26
+  - '1998-02-23'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '234.98'
+  - !!python/object/apply:decimal.Decimal
+    - '320.39'
+  - !!python/object/apply:decimal.Decimal
+    - '234.98'
+- !!python/tuple
+  - 26
+  - '1998-02-25'
+  - !!python/object/apply:decimal.Decimal
+    - '421.68'
+  - !!python/object/apply:decimal.Decimal
+    - '241.33'
+  - !!python/object/apply:decimal.Decimal
+    - '421.68'
+  - !!python/object/apply:decimal.Decimal
+    - '241.33'
+- !!python/tuple
+  - 26
+  - '1998-02-26'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '245.27'
+  - !!python/object/apply:decimal.Decimal
+    - '421.68'
+  - !!python/object/apply:decimal.Decimal
+    - '245.27'
+- !!python/tuple
+  - 26
+  - '1998-03-03'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '247.03'
+  - !!python/object/apply:decimal.Decimal
+    - '421.68'
+  - !!python/object/apply:decimal.Decimal
+    - '247.03'
+- !!python/tuple
+  - 26
+  - '1998-03-04'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '278.91'
+  - !!python/object/apply:decimal.Decimal
+    - '421.68'
+  - !!python/object/apply:decimal.Decimal
+    - '278.91'
+- !!python/tuple
+  - 26
+  - '1998-03-07'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '365.22'
+  - !!python/object/apply:decimal.Decimal
+    - '421.68'
+  - !!python/object/apply:decimal.Decimal
+    - '365.22'
+- !!python/tuple
+  - 26
+  - '1998-04-13'
+  - !!python/object/apply:decimal.Decimal
+    - '630.88'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '630.88'
+  - !!python/object/apply:decimal.Decimal
+    - '626.60'
+- !!python/tuple
+  - 28
+  - '1998-01-28'
+  - !!python/object/apply:decimal.Decimal
+    - '69.26'
+  - !!python/object/apply:decimal.Decimal
+    - '48.93'
+  - !!python/object/apply:decimal.Decimal
+    - '69.26'
+  - !!python/object/apply:decimal.Decimal
+    - '48.93'
+- !!python/tuple
+  - 28
+  - '1998-02-06'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '59.50'
+  - !!python/object/apply:decimal.Decimal
+    - '69.26'
+  - !!python/object/apply:decimal.Decimal
+    - '59.50'
+- !!python/tuple
+  - 28
+  - '1998-02-08'
+  - !!python/object/apply:decimal.Decimal
+    - '117.26'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '117.26'
+  - !!python/object/apply:decimal.Decimal
+    - '59.50'
+- !!python/tuple
+  - 28
+  - '1998-02-10'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '82.35'
+  - !!python/object/apply:decimal.Decimal
+    - '117.26'
+  - !!python/object/apply:decimal.Decimal
+    - '82.35'
+- !!python/tuple
+  - 28
+  - '1998-02-13'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '90.03'
+  - !!python/object/apply:decimal.Decimal
+    - '117.26'
+  - !!python/object/apply:decimal.Decimal
+    - '90.03'
+- !!python/tuple
+  - 28
+  - '1998-02-23'
+  - !!python/object/apply:decimal.Decimal
+    - '154.33'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '154.33'
+  - !!python/object/apply:decimal.Decimal
+    - '125.95'
+- !!python/tuple
+  - 37
+  - '1998-02-27'
+  - !!python/object/apply:decimal.Decimal
+    - '434.94'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '434.94'
+  - !!python/object/apply:decimal.Decimal
+    - '408.22'
+- !!python/tuple
+  - 37
+  - '1998-02-28'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '426.30'
+  - !!python/object/apply:decimal.Decimal
+    - '434.94'
+  - !!python/object/apply:decimal.Decimal
+    - '426.30'
+- !!python/tuple
+  - 37
+  - '1998-03-09'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '428.40'
+  - !!python/object/apply:decimal.Decimal
+    - '434.94'
+  - !!python/object/apply:decimal.Decimal
+    - '428.40'
+- !!python/tuple
+  - 40
+  - '1998-04-19'
+  - !!python/object/apply:decimal.Decimal
+    - '580.64'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '580.64'
+  - !!python/object/apply:decimal.Decimal
+    - '441.37'
+- !!python/tuple
+  - 40
+  - '1998-04-23'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '455.40'
+  - !!python/object/apply:decimal.Decimal
+    - '580.64'
+  - !!python/object/apply:decimal.Decimal
+    - '455.40'

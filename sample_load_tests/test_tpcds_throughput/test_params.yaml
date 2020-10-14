@@ -1,0 +1,11 @@
+client_type: ImpylaClient
+auth_type: kerberos
+ssl: True
+thrift_transport: null  # http if DWX, else leave as null
+user: null  # for LDAP protected clusters (e.g., DWX)
+password: null  # for LDAP protected clusters (e.g., DWX)
+min_wait: 0.1  # unit = seconds, must be > 0
+max_wait: 0.1  # unit = seconds, must be > 0
+target_db: tpcds_10_decimal_parquet  # name of target databases
+warmup: True  # whether to run each query once before starting test
+num_iterations: 3  # number of queries to execute to get average perf

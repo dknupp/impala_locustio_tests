@@ -1,0 +1,18 @@
+client_type: 'ImpylaClient'
+auth_type: null
+ssl: False
+thrift_transport: null
+user: null
+password: null
+min_wait: 0.5  # unit = seconds
+max_wait: 0.5  # unit = seconds
+target_db: tpcds_10_decimal_parquet
+workload: TPCDS
+scale: 10
+task_weights:
+  run_basic_query: 3
+  cancel_query: 1
+query_timeout:
+  # timeouts expressed as percentages of median query execution time
+  lower_bound: 0.01
+  upper_bound: 0.85

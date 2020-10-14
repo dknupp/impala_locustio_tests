@@ -7,52 +7,80 @@
   * easier to write load tests with complex programming logic
   * easier to debug tests
 * It's just Python
-  * doesn't require juggling various file types and contexts (e.g., JMeter automation often combines XML, BeanShell, CSV, plus a Python wrapper)
+  * doesn't require juggling various file types and contexts (e.g., JMeter automation
+    often combines XML, BeanShell, CSV, plus a Python wrapper)
   * easily incorporated into existing Python-based test automation frameworks
   * deloyable with nothing more than virtualenv and pip
-* Based on async coroutines, rather than OS threads, so might be less resource intensive on the host generating the load
+* Based on async coroutines, rather than OS threads, so might be less resource intensive
+  on the worker being used to generate the load
 
-## Repo Contents
+## Sample Load Tests
 
 The most basic example of a Locust test file defines a worker class, and a
 taskset containing one or more tasks that each worker instance will execute.
 More exotic tests might define multiple types of workers, nested tasksets,
 or run in a distrbuted master/slave configuration.
 
-Both of the sample tests in this repo follow the basic model of a single type
-of worker that knows how to execute tasks from a single taskset. At this stage,
-the tests simply generate load, without asserting passing or failing conditions.
+The sample tests in this repo follow the basic model of a single type of
+worker that knows how to execute tasks from a single taskset.
 
-* _test_tpcds_queries_
+* _test_tpcds_load_
 
-  This test concurrently executes randomly-selected queries from a directory of
-  SQL files. The queries are distributed evenly among the nodes of a CM
-  controlled cluster. It assumes that the database already exists, and that the
-  table names are hard-coded in the SQL files. In the given example, we're
-  using the ```tpcds``` database, and well-known TPCDS queries. The test will
-  run until manually stopped, or for the given number of query executions
-  if specified.
+  The directory contains the locust file, two sample YAML config files, and a
+  directory of query files along with expected results for different scale sizes.
+  It's assumed that the data is already loaded. The test will run until manually
+  stopped, or for the given length of time specified if running in batch mode.
 
-  The directory contains the test file, YAML config file, and SQL query files.
+  [Note: it's been found that some of the queries seem to return non-deterministic
+  results, so these query files have been moved to another directory.]
 
-* _test_add_partition_drop_database_
+  The taskset concurrently contains three tasks:
 
-  This slightly more complex test sets up a test database and a test table,
-  than runs some number of concurrent workers to add partitions to the table.
-  When the number of partitions reaches the limit specified in the test config
-  file, the database is dropped. We expect to see some number of exceptions
-  occur at that point.
+  * Execute randomly-selected queries from a directory of TPC-DS queries.
 
-  The directory contains the test file, and a YAML config file.
+  * In addition to simply running queries, the test will periodically validate
+    the results received from the query.
+
+  * Occasionally, each worker will disconnect and reconnect.
+
+* _test_dwx_basic_
+
+  The taskset concurrently consists of a single task that arbitrarily runs
+  a query against the default airline dataset on a DWX warehouse.
+
+  The directory contains the locust file, and a sample YAML config file.
+
+
+* _test_tpch_load_
+
+  Like the TPCDS tests, except there's no task for validating query results.
+
+
+* _test_dwx_basic_
+
+  The taskset concurrently consists of a single task that arbitrarily runs
+  a query against the default airline dataset on a DWX warehouse.
+
+  The directory contains the locust file, and a sample YAML config file.
+
+
+* _test_tpcds_throughput_
+
+  Simimlar to _test_tpcds_load_ test, but concurrent workers are coordinated
+  the same query at the same time. As a group, they traverse the TPCDS suite
+  in order.
+
+
+## Common Code
 
 * _impala_loadtest_
 
-  Contains the common code in a single module, ```common.py```, including
+  Contains the necessary shared code in a python library, such as
 
+  * DbApiLocustClient, a Locust wrapper around the DBAPI client
   * TestConfig
-  * ImpylaLocustClient, a Locust wrapper around the Impyla client
-  * the ImpylaLocust base class (worker)
   * several helper funtions
+  * etc.
 
 ## Installation
 
@@ -90,16 +118,12 @@ With your virtualenv active, you can install it directly from the directory
 using ```pip install -e```. External dependencies will be installed as well.
 
 ```
-(locust_env) $ cd impala_locustio_tests
-(locust_env) $ pip install -e impala_loadtest/
-[...]
-Successfully installed Flask-0.12 Jinja2-2.9.5 MarkupSafe-1.0 PyYAML-3.12 Werkzeug-0.12.1 bitarray-0.8.1 click-6.7 cm-api-14.0.0 gevent-1.1.1 greenlet-0.4.12 impala-loadtest impyla-0.14.0 itsdangerous-0.24 locustio-0.7.5 msgpack-python-0.4.8 pyzmq-16.0.2 readline-6.2.4.1 requests-2.13.0 sqlparse-0.2.3 thrift-0.9.3
+(locust_env) $ pip install -e impala_locustio_tests/
 ```
 
-## Running tests
+You will also need to install the QE Client Library: https://github.infra.cloudera.com/dknupp/qe-client-lib
 
-You will need a CM-managed cluster. Before running any test, change the
-```cm_host``` in the YAML config file to point to your cluster's CM.
+## Running tests
 
 Locust tests can be run in two modes: either with a web UI or without. Running
 with the UI is probably the easiest for getting started, whereas ```no-web```
@@ -107,10 +131,10 @@ mode would be the best for automated test runs.
 
 ### Running tests with the web UI
 
-For example, to run the test_tpcds_queries test with the web UI, invoke
+For example, to run the test_tpcds_queries test with the web UI:
 
 ```
-(locust_env) $ locust -f test_tpcds_queries/test_tpcds_queries.py
+(locust_env) $ CONFIG=<path to config file> locust -f test_tpcds_queries/test_tpcds_queries.py
 ```
 
 Open a web browser to http://localhost:8089. In the form, you can specify the
@@ -118,10 +142,10 @@ number of concurrent workers, and the rate at which to spawn new workers until
 the desired count is acheived. Then click the __Start Swarming__ button. Once
 the number of workers have fully ramped up, the stats get zeroed out, and the
 test can be considered running. You should be able to confirm this in the CM UI,
-or the Impala Debug UI.
+the Impala Debug UI, the Grafana stats page for a DWX warehouse.
 
-The Locust web UI will show basic stats, and provides some links for
-downloading basic stats as a CSV file.
+The Locust web UI will show basic stats, a few charts showing running traffic,
+and provides some links for downloading basic stats as a CSV file.
 
 ### Running tests in ```no-web``` mode
 
@@ -130,16 +154,18 @@ When running in ```no-web``` mode, the most important parameters (aside from
 
 * ```-c```: the number or workers (or "locusts")
 * ```-r```: the rate at which to spawn workers per second
-* ```-n```: the maximum number of queries to execute
+* ```--run-time```: the length of time to run the test, e.g., 1h30m
+* ```--csv```: a base name for the .csv files that will be saved.
+  If not specified, no csv output will be produced.
 
 ```
-(locust_env) $ locust --no-web -f test_tpcds_queries/test_tpcds_queries.py -c 50 -r 1 -n 5000 --print-stats
+(locust_env) $ CONFIG=dwx3_tpcds_load_test.yaml locust -f test_tpcds_load.py -c 5 -r 2 --no-web --run-time 5m --csv dwx_load_test
 ```
 
 To see the full list of Locust command line options
 
 ```
-(locust_env) $ locust -h
+(locust_env) $ locust --help
 ```
 
 ### Deactivate the virtualenv

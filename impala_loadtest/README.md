@@ -1,1 +1,0 @@
-Common code for Impala load tests using Locust.

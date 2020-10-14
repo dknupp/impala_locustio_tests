@@ -1,0 +1,6 @@
+- !!python/tuple
+  - 333
+  - !!python/object/apply:decimal.Decimal
+    - '605615.99'
+  - !!python/object/apply:decimal.Decimal
+    - '-62652.52'

@@ -1,0 +1,900 @@
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - California
+  - 1429
+  - 1146
+  - 943
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - California_1
+  - 1392
+  - 1217
+  - 913
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - Hawaii/Alaska
+  - 1418
+  - 1223
+  - 1008
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - Hawaii/Alaska_1
+  - 1383
+  - 1155
+  - 975
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - Mid Atlantic
+  - 1402
+  - 1170
+  - 945
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - Mid Atlantic_1
+  - 1402
+  - 1260
+  - 1009
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - NY Metro
+  - 1367
+  - 1188
+  - 957
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - NY Metro_1
+  - 1391
+  - 1222
+  - 964
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - North Midwest
+  - 1400
+  - 1181
+  - 942
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - North Midwest_1
+  - 1366
+  - 1221
+  - 931
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - Pacific Northwest
+  - 1441
+  - 1206
+  - 1010
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - Pacific Northwest_1
+  - 1488
+  - 1177
+  - 919
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - California
+  - 1029
+  - 912
+  - 732
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - California_1
+  - 1024
+  - 873
+  - 698
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - Hawaii/Alaska
+  - 1090
+  - 918
+  - 787
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - Hawaii/Alaska_1
+  - 1081
+  - 915
+  - 761
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - Mid Atlantic
+  - 1047
+  - 921
+  - 696
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - Mid Atlantic_1
+  - 1047
+  - 895
+  - 723
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - NY Metro
+  - 1099
+  - 850
+  - 794
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - NY Metro_1
+  - 1089
+  - 900
+  - 720
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - North Midwest
+  - 1051
+  - 969
+  - 708
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - North Midwest_1
+  - 1053
+  - 850
+  - 770
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - Pacific Northwest
+  - 1052
+  - 929
+  - 767
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - Pacific Northwest_1
+  - 1059
+  - 928
+  - 743
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - California
+  - 1474
+  - 1178
+  - 954
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - California_1
+  - 1403
+  - 1170
+  - 907
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - Hawaii/Alaska
+  - 1398
+  - 1223
+  - 963
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - Hawaii/Alaska_1
+  - 1428
+  - 1186
+  - 993
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - Mid Atlantic
+  - 1463
+  - 1198
+  - 959
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - Mid Atlantic_1
+  - 1366
+  - 1187
+  - 960
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - NY Metro
+  - 1391
+  - 1235
+  - 978
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - NY Metro_1
+  - 1424
+  - 1155
+  - 965
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - North Midwest
+  - 1367
+  - 1155
+  - 943
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - North Midwest_1
+  - 1423
+  - 1227
+  - 934
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - Pacific Northwest
+  - 1389
+  - 1217
+  - 985
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - Pacific Northwest_1
+  - 1385
+  - 1157
+  - 972
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - California
+  - 1046
+  - 897
+  - 704
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - California_1
+  - 1053
+  - 936
+  - 733
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - Hawaii/Alaska
+  - 1084
+  - 892
+  - 734
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - Hawaii/Alaska_1
+  - 1043
+  - 896
+  - 724
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - Mid Atlantic
+  - 1033
+  - 888
+  - 742
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - Mid Atlantic_1
+  - 1037
+  - 822
+  - 733
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - NY Metro
+  - 1022
+  - 909
+  - 828
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - NY Metro_1
+  - 1085
+  - 891
+  - 767
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - North Midwest
+  - 1076
+  - 903
+  - 705
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - North Midwest_1
+  - 1077
+  - 914
+  - 750
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - Pacific Northwest
+  - 1073
+  - 921
+  - 777
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - Pacific Northwest_1
+  - 1078
+  - 849
+  - 700
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - California
+  - 997
+  - 916
+  - 746
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - California_1
+  - 1028
+  - 973
+  - 723
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - Hawaii/Alaska
+  - 1073
+  - 860
+  - 705
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - Hawaii/Alaska_1
+  - 1089
+  - 853
+  - 748
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - Mid Atlantic
+  - 1118
+  - 866
+  - 708
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - Mid Atlantic_1
+  - 1058
+  - 912
+  - 750
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - NY Metro
+  - 1073
+  - 903
+  - 715
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - NY Metro_1
+  - 1022
+  - 877
+  - 718
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - North Midwest
+  - 1017
+  - 910
+  - 768
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - North Midwest_1
+  - 1046
+  - 861
+  - 704
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - Pacific Northwest
+  - 1126
+  - 944
+  - 733
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - Pacific Northwest_1
+  - 1056
+  - 882
+  - 755
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - California
+  - 1047
+  - 868
+  - 735
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - California_1
+  - 1109
+  - 937
+  - 700
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - Hawaii/Alaska
+  - 1084
+  - 910
+  - 742
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - Hawaii/Alaska_1
+  - 1045
+  - 972
+  - 730
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - Mid Atlantic
+  - 1076
+  - 904
+  - 711
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - Mid Atlantic_1
+  - 1002
+  - 934
+  - 777
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - NY Metro
+  - 1068
+  - 879
+  - 766
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - NY Metro_1
+  - 1000
+  - 921
+  - 730
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - North Midwest
+  - 1030
+  - 870
+  - 706
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - North Midwest_1
+  - 1066
+  - 868
+  - 707
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - Pacific Northwest
+  - 1054
+  - 928
+  - 744
+  - 0
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - Pacific Northwest_1
+  - 1040
+  - 919
+  - 797
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - California
+  - 1457
+  - 1245
+  - 947
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - California_1
+  - 1373
+  - 1179
+  - 982
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - Hawaii/Alaska
+  - 1412
+  - 1170
+  - 941
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - Hawaii/Alaska_1
+  - 1370
+  - 1206
+  - 997
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - Mid Atlantic
+  - 1338
+  - 1211
+  - 1030
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - Mid Atlantic_1
+  - 1392
+  - 1181
+  - 1002
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - NY Metro
+  - 1427
+  - 1141
+  - 994
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - NY Metro_1
+  - 1367
+  - 1226
+  - 954
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - North Midwest
+  - 1444
+  - 1153
+  - 1027
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - North Midwest_1
+  - 1466
+  - 1227
+  - 953
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - Pacific Northwest
+  - 1394
+  - 1239
+  - 1029
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - Pacific Northwest_1
+  - 1384
+  - 1178
+  - 955
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - California
+  - 1017
+  - 874
+  - 754
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - California_1
+  - 1079
+  - 864
+  - 770
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - Hawaii/Alaska
+  - 1049
+  - 922
+  - 739
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - Hawaii/Alaska_1
+  - 1051
+  - 896
+  - 658
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - Mid Atlantic
+  - 1035
+  - 831
+  - 764
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - Mid Atlantic_1
+  - 1012
+  - 887
+  - 784
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - NY Metro
+  - 979
+  - 890
+  - 782
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - NY Metro_1
+  - 1011
+  - 971
+  - 697
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - North Midwest
+  - 1018
+  - 865
+  - 737
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - North Midwest_1
+  - 1042
+  - 887
+  - 777
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - Pacific Northwest
+  - 1094
+  - 847
+  - 706
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - Pacific Northwest_1
+  - 1055
+  - 938
+  - 714
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - California
+  - 1376
+  - 1222
+  - 931
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - California_1
+  - 1347
+  - 1228
+  - 1006
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - Hawaii/Alaska
+  - 1344
+  - 1148
+  - 997
+  - 0
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - Hawaii/Alaska_1
+  - 1403
+  - 1201
+  - 973
+  - 0
+  - 0

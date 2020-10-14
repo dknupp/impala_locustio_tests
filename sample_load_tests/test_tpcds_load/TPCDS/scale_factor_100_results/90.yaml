@@ -1,0 +1,3 @@
+- !!python/tuple
+  - !!python/object/apply:decimal.Decimal
+    - '0.52689372789875302438'

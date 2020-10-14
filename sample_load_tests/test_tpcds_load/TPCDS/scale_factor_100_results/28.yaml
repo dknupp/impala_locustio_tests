@@ -1,0 +1,25 @@
+- !!python/tuple
+  - !!python/object/apply:decimal.Decimal
+    - '28.372057'
+  - 2752645
+  - 5514
+  - !!python/object/apply:decimal.Decimal
+    - '50.871948'
+  - 3352026
+  - 6678
+  - !!python/object/apply:decimal.Decimal
+    - '69.455215'
+  - 2841633
+  - 8101
+  - !!python/object/apply:decimal.Decimal
+    - '60.921107'
+  - 3540214
+  - 7712
+  - !!python/object/apply:decimal.Decimal
+    - '69.995213'
+  - 3621263
+  - 9879
+  - !!python/object/apply:decimal.Decimal
+    - '79.943508'
+  - 3479906
+  - 15814

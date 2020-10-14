@@ -1,0 +1,900 @@
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_0
+  - 902
+  - 746
+  - 609
+  - 483
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_1
+  - 951
+  - 787
+  - 651
+  - 536
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_2
+  - 926
+  - 807
+  - 620
+  - 520
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_3
+  - 938
+  - 744
+  - 616
+  - 515
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_4
+  - 938
+  - 747
+  - 621
+  - 519
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_5
+  - 929
+  - 768
+  - 629
+  - 502
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_6
+  - 923
+  - 731
+  - 590
+  - 479
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_0
+  - 708
+  - 556
+  - 473
+  - 376
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_1
+  - 701
+  - 581
+  - 463
+  - 413
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_2
+  - 709
+  - 540
+  - 454
+  - 395
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_3
+  - 717
+  - 573
+  - 487
+  - 368
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_4
+  - 740
+  - 518
+  - 499
+  - 354
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_5
+  - 737
+  - 570
+  - 450
+  - 376
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_6
+  - 734
+  - 592
+  - 495
+  - 411
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_0
+  - 899
+  - 765
+  - 614
+  - 542
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_1
+  - 912
+  - 757
+  - 605
+  - 471
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_2
+  - 950
+  - 762
+  - 633
+  - 516
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_3
+  - 919
+  - 725
+  - 631
+  - 512
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_4
+  - 906
+  - 810
+  - 623
+  - 506
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_5
+  - 925
+  - 742
+  - 571
+  - 532
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_6
+  - 897
+  - 807
+  - 589
+  - 488
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_0
+  - 655
+  - 570
+  - 485
+  - 417
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_1
+  - 694
+  - 529
+  - 468
+  - 369
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_2
+  - 700
+  - 537
+  - 457
+  - 377
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_3
+  - 688
+  - 578
+  - 486
+  - 388
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_4
+  - 682
+  - 590
+  - 482
+  - 405
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_5
+  - 670
+  - 608
+  - 502
+  - 376
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_6
+  - 720
+  - 576
+  - 491
+  - 369
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_0
+  - 699
+  - 541
+  - 464
+  - 394
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_1
+  - 652
+  - 528
+  - 478
+  - 390
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_2
+  - 721
+  - 596
+  - 455
+  - 364
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_3
+  - 724
+  - 572
+  - 477
+  - 398
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_4
+  - 662
+  - 545
+  - 483
+  - 411
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_5
+  - 676
+  - 605
+  - 475
+  - 405
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_6
+  - 683
+  - 582
+  - 440
+  - 358
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_0
+  - 681
+  - 578
+  - 467
+  - 360
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_1
+  - 678
+  - 513
+  - 455
+  - 376
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_2
+  - 688
+  - 628
+  - 468
+  - 425
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_3
+  - 695
+  - 528
+  - 470
+  - 417
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_4
+  - 712
+  - 600
+  - 460
+  - 379
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_5
+  - 673
+  - 478
+  - 450
+  - 397
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_6
+  - 718
+  - 558
+  - 452
+  - 365
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_0
+  - 931
+  - 739
+  - 630
+  - 538
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_1
+  - 900
+  - 689
+  - 625
+  - 470
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_2
+  - 914
+  - 797
+  - 601
+  - 477
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_3
+  - 951
+  - 707
+  - 660
+  - 518
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_4
+  - 942
+  - 754
+  - 612
+  - 531
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_5
+  - 908
+  - 706
+  - 597
+  - 531
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_6
+  - 974
+  - 758
+  - 618
+  - 517
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_0
+  - 702
+  - 527
+  - 473
+  - 355
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_1
+  - 712
+  - 563
+  - 424
+  - 398
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_2
+  - 656
+  - 548
+  - 444
+  - 388
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_3
+  - 729
+  - 533
+  - 494
+  - 395
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_4
+  - 665
+  - 524
+  - 435
+  - 397
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_5
+  - 678
+  - 561
+  - 507
+  - 390
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_6
+  - 710
+  - 585
+  - 492
+  - 397
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_0
+  - 966
+  - 783
+  - 611
+  - 516
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_1
+  - 884
+  - 778
+  - 604
+  - 526
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_2
+  - 904
+  - 793
+  - 658
+  - 476
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_3
+  - 880
+  - 820
+  - 639
+  - 509
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_4
+  - 938
+  - 746
+  - 596
+  - 518
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_5
+  - 918
+  - 754
+  - 594
+  - 511
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_6
+  - 868
+  - 783
+  - 621
+  - 531
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_0
+  - 682
+  - 583
+  - 432
+  - 362
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_1
+  - 679
+  - 558
+  - 498
+  - 386
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_2
+  - 666
+  - 516
+  - 496
+  - 385
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_3
+  - 692
+  - 531
+  - 480
+  - 395
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_4
+  - 677
+  - 624
+  - 477
+  - 362
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_5
+  - 672
+  - 585
+  - 491
+  - 382
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_6
+  - 690
+  - 499
+  - 503
+  - 393
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_0
+  - 701
+  - 581
+  - 487
+  - 364
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_1
+  - 708
+  - 585
+  - 492
+  - 360
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_2
+  - 686
+  - 558
+  - 414
+  - 388
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_3
+  - 698
+  - 574
+  - 479
+  - 405
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_4
+  - 720
+  - 588
+  - 496
+  - 399
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_5
+  - 679
+  - 580
+  - 490
+  - 344
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_6
+  - 683
+  - 599
+  - 483
+  - 376
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_0
+  - 738
+  - 562
+  - 490
+  - 419
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_1
+  - 699
+  - 574
+  - 442
+  - 356
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_2
+  - 741
+  - 564
+  - 479
+  - 392
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_3
+  - 687
+  - 542
+  - 434
+  - 425
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_4
+  - 694
+  - 561
+  - 461
+  - 379
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_5
+  - 720
+  - 570
+  - 438
+  - 378
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_6
+  - 709
+  - 526
+  - 456
+  - 407
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_0
+  - 923
+  - 782
+  - 683
+  - 502
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_1
+  - 898
+  - 744
+  - 586
+  - 529
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_2
+  - 984
+  - 796
+  - 599
+  - 548
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_3
+  - 955
+  - 716
+  - 581
+  - 506
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_4
+  - 898
+  - 722
+  - 617
+  - 497
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_5
+  - 896
+  - 774
+  - 587
+  - 506
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_6
+  - 966
+  - 782
+  - 610
+  - 511
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_0
+  - 663
+  - 589
+  - 493
+  - 394
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_1
+  - 682
+  - 610
+  - 465
+  - 380
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_2
+  - 657
+  - 544
+  - 489
+  - 425
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_3
+  - 645
+  - 558
+  - 501
+  - 412
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_4
+  - 669
+  - 579
+  - 463
+  - 371
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_5
+  - 673
+  - 549
+  - 452
+  - 398
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_6
+  - 720
+  - 618
+  - 468
+  - 374
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - NEXT DAY
+  - site_0
+  - 952
+  - 742
+  - 588
+  - 465
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - NEXT DAY
+  - site_1
+  - 983
+  - 752
+  - 642
+  - 525
+  - 0

@@ -1,0 +1,959 @@
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '3.10'
+  - !!python/object/apply:decimal.Decimal
+    - '6.89'
+  - null
+  - 'exportiimporto #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '6.51'
+  - null
+  - null
+  - 'univamalgamalg #12'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '2.49'
+  - null
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '4.71'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '4.13'
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '4.51'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '2.34'
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '2.03'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '0.12'
+  - 'namelessmaxi #3'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '7.35'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '4.30'
+  - 'exportiimporto #2'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '8.69'
+  - !!python/object/apply:decimal.Decimal
+    - '4.38'
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '7.65'
+  - null
+  - null
+  - 'exportinameless #7'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '3.79'
+  - null
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '5.77'
+  - !!python/object/apply:decimal.Decimal
+    - '8.06'
+  - null
+  - 'corpunivamalg #3'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.33'
+  - !!python/object/apply:decimal.Decimal
+    - '1.24'
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '5.13'
+  - !!python/object/apply:decimal.Decimal
+    - '1.26'
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '4.83'
+  - null
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '1.80'
+  - null
+  - null
+  - 'amalgmaxi #6'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.66'
+  - !!python/object/apply:decimal.Decimal
+    - '8.06'
+  - null
+  - 'corpunivamalg #3'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '7.71'
+  - !!python/object/apply:decimal.Decimal
+    - '1.24'
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '3.98'
+  - !!python/object/apply:decimal.Decimal
+    - '2.21'
+  - !!python/object/apply:decimal.Decimal
+    - '1.45'
+  - 'importoexporti #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '7.92'
+  - !!python/object/apply:decimal.Decimal
+    - '1.47'
+  - !!python/object/apply:decimal.Decimal
+    - '1.01'
+  - 'importoedu pack #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '7.07'
+  - !!python/object/apply:decimal.Decimal
+    - '3.30'
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.98'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '1.51'
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '9.62'
+  - !!python/object/apply:decimal.Decimal
+    - '7.21'
+  - 'amalgcorp #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '4.13'
+  - !!python/object/apply:decimal.Decimal
+    - '14.70'
+  - !!python/object/apply:decimal.Decimal
+    - '12.20'
+  - 'importoedu pack #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.84'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '0.25'
+  - 'amalgscholar #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '2.90'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '3.37'
+  - 'importoexporti #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '4.43'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '0.71'
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '2.23'
+  - !!python/object/apply:decimal.Decimal
+    - '4.43'
+  - null
+  - 'exportiimporto #2'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.15'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '0.34'
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '6.99'
+  - !!python/object/apply:decimal.Decimal
+    - '6.72'
+  - !!python/object/apply:decimal.Decimal
+    - '2.35'
+  - 'exportiamalg #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '2.70'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '3.37'
+  - 'importoexporti #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '4.70'
+  - null
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '2.10'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '0.12'
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.95'
+  - null
+  - null
+  - 'exporticorp #3'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '7.54'
+  - !!python/object/apply:decimal.Decimal
+    - '7.89'
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '0.15'
+  - 'importoexporti #2'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '7.76'
+  - !!python/object/apply:decimal.Decimal
+    - '5.06'
+  - !!python/object/apply:decimal.Decimal
+    - '3.39'
+  - 'edu packexporti #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '6.18'
+  - !!python/object/apply:decimal.Decimal
+    - '4.59'
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '8.51'
+  - !!python/object/apply:decimal.Decimal
+    - '3.77'
+  - null
+  - 'scholarcorp #4'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '3.23'
+  - !!python/object/apply:decimal.Decimal
+    - '1.10'
+  - null
+  - 'namelessunivamalg #10'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '3.79'
+  - !!python/object/apply:decimal.Decimal
+    - '3.37'
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '7.64'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '28.31'
+  - 'edu packcorp #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '7.12'
+  - null
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '3.15'
+  - !!python/object/apply:decimal.Decimal
+    - '9.46'
+  - !!python/object/apply:decimal.Decimal
+    - '6.52'
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '3.78'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '4.68'
+  - 'exportiexporti #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '8.58'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '0.18'
+  - 'importoedu pack #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '8.52'
+  - null
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '5.87'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '3.13'
+  - 'amalgscholar #1'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '2.72'
+  - !!python/object/apply:decimal.Decimal
+    - '6.32'
+  - null
+  - 'namelessunivamalg #10'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.59'
+  - null
+  - null
+  - 'amalgunivamalg #5'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.26'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '3.86'
+  - 'importomaxi #4'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '0.89'
+  - null
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '6.14'
+  - !!python/object/apply:decimal.Decimal
+    - '0.78'
+  - null
+  - ''
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '3.11'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '0.12'
+  - 'namelessmaxi #3'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '1.31'
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '3.15'
+  - 'scholarbrand #8'
+- !!python/tuple
+  - able
+  - ''
+  - !!python/object/apply:decimal.Decimal
+    - '2.80'
+  - null
+  - null
+  - 'univamalgamalg #12'
+- !!python/tuple
+  - able
+  - A
+  - !!python/object/apply:decimal.Decimal
+    - '3.67'
+  - !!python/object/apply:decimal.Decimal
+    - '3.59'
+  - !!python/object/apply:decimal.Decimal
+    - '1.61'
+  - 'importoexporti #1'
+- !!python/tuple
+  - able
+  - A
+  - !!python/object/apply:decimal.Decimal
+    - '6.85'
+  - !!python/object/apply:decimal.Decimal
+    - '33.36'
+  - !!python/object/apply:decimal.Decimal
+    - '27.02'
+  - 'importoimporto #1'
+- !!python/tuple
+  - able
+  - A
+  - !!python/object/apply:decimal.Decimal
+    - '0.80'
+  - !!python/object/apply:decimal.Decimal
+    - '6.73'
+  - !!python/object/apply:decimal.Decimal
+    - '4.17'
+  - 'namelessbrand #5'
+- !!python/tuple
+  - able
+  - A
+  - !!python/object/apply:decimal.Decimal
+    - '3.74'
+  - !!python/object/apply:decimal.Decimal
+    - '6.21'
+  - !!python/object/apply:decimal.Decimal
+    - '3.97'
+  - 'amalgscholar #2'
+- !!python/tuple
+  - able
+  - A
+  - !!python/object/apply:decimal.Decimal
+    - '0.40'
+  - !!python/object/apply:decimal.Decimal
+    - '3.72'
+  - !!python/object/apply:decimal.Decimal
+    - '2.26'
+  - 'edu packnameless #8'
+- !!python/tuple
+  - able
+  - A
+  - !!python/object/apply:decimal.Decimal
+    - '2.14'
+  - !!python/object/apply:decimal.Decimal
+    - '3.59'
+  - !!python/object/apply:decimal.Decimal
+    - '1.61'
+  - 'importoexporti #1'
+- !!python/tuple
+  - able
+  - A
+  - !!python/object/apply:decimal.Decimal
+    - '6.74'
+  - !!python/object/apply:decimal.Decimal
+    - '8.12'
+  - !!python/object/apply:decimal.Decimal
+    - '2.43'
+  - 'amalgamalg #1'
+- !!python/tuple
+  - able
+  - A
+  - !!python/object/apply:decimal.Decimal
+    - '1.45'
+  - !!python/object/apply:decimal.Decimal
+    - '9.42'
+  - !!python/object/apply:decimal.Decimal
+    - '7.06'
+  - 'exportischolar #2'
+- !!python/tuple
+  - able
+  - A
+  - !!python/object/apply:decimal.Decimal
+    - '6.05'
+  - !!python/object/apply:decimal.Decimal
+    - '8.39'
+  - !!python/object/apply:decimal.Decimal
+    - '6.29'
+  - 'amalgamalg #1'
+- !!python/tuple
+  - able
+  - A
+  - !!python/object/apply:decimal.Decimal
+    - '1.02'
+  - !!python/object/apply:decimal.Decimal
+    - '1.32'
+  - !!python/object/apply:decimal.Decimal
+    - '0.99'
+  - 'edu packexporti #1'
+- !!python/tuple
+  - able
+  - A bit armed levels make then foods. Just other photographs benefit particular,
+    a
+  - !!python/object/apply:decimal.Decimal
+    - '2.14'
+  - !!python/object/apply:decimal.Decimal
+    - '6.46'
+  - !!python/object/apply:decimal.Decimal
+    - '3.61'
+  - 'exportibrand #1'
+- !!python/tuple
+  - able
+  - A little compar
+  - !!python/object/apply:decimal.Decimal
+    - '3.26'
+  - !!python/object/apply:decimal.Decimal
+    - '3.36'
+  - !!python/object/apply:decimal.Decimal
+    - '2.65'
+  - 'exportinameless #7'
+- !!python/tuple
+  - able
+  - A little compar
+  - !!python/object/apply:decimal.Decimal
+    - '6.02'
+  - !!python/object/apply:decimal.Decimal
+    - '3.36'
+  - !!python/object/apply:decimal.Decimal
+    - '2.65'
+  - 'exportinameless #7'
+- !!python/tuple
+  - able
+  - A little critical lands should not consider now partners. Only other communities
+    might not survive common, special forms. Leader
+  - !!python/object/apply:decimal.Decimal
+    - '2.47'
+  - !!python/object/apply:decimal.Decimal
+    - '73.19'
+  - !!python/object/apply:decimal.Decimal
+    - '45.37'
+  - 'maxiunivamalg #9'
+- !!python/tuple
+  - able
+  - A little great workers seem just really old methods. Working, sensitive files
+    believe expressly words. Parties bring in a payments; strong windows
+  - !!python/object/apply:decimal.Decimal
+    - '0.85'
+  - !!python/object/apply:decimal.Decimal
+    - '4.15'
+  - !!python/object/apply:decimal.Decimal
+    - '1.36'
+  - 'namelessbrand #9'
+- !!python/tuple
+  - able
+  - A little simple clothes should see then much literary times. Intimately new courts
+    can need. Quiet ways could not turn that is short-term instituti
+  - !!python/object/apply:decimal.Decimal
+    - '6.07'
+  - !!python/object/apply:decimal.Decimal
+    - '6.76'
+  - !!python/object/apply:decimal.Decimal
+    - '5.40'
+  - 'scholarmaxi #10'
+- !!python/tuple
+  - able
+  - A little strict results play; widespread doors seem then necessary reasons. Communications
+    explain unfortunately. Policies produce free plants. Minutes say. Tensions retur
+  - !!python/object/apply:decimal.Decimal
+    - '3.90'
+  - !!python/object/apply:decimal.Decimal
+    - '79.33'
+  - !!python/object/apply:decimal.Decimal
+    - '28.55'
+  - 'importoamalg #1'
+- !!python/tuple
+  - able
+  - A little strict results play; widespread doors seem then necessary reasons. Communications
+    explain unfortunately. Policies produce free plants. Minutes say. Tensions retur
+  - !!python/object/apply:decimal.Decimal
+    - '6.60'
+  - !!python/object/apply:decimal.Decimal
+    - '79.33'
+  - !!python/object/apply:decimal.Decimal
+    - '28.55'
+  - 'importoamalg #1'
+- !!python/tuple
+  - able
+  - A lot certain winners give with a farmers; financial friends mo
+  - !!python/object/apply:decimal.Decimal
+    - '5.59'
+  - !!python/object/apply:decimal.Decimal
+    - '4.94'
+  - !!python/object/apply:decimal.Decimal
+    - '2.96'
+  - 'exportiamalg #1'
+- !!python/tuple
+  - able
+  - A lot certain winners give with a farmers; financial friends mo
+  - !!python/object/apply:decimal.Decimal
+    - '7.39'
+  - !!python/object/apply:decimal.Decimal
+    - '4.94'
+  - !!python/object/apply:decimal.Decimal
+    - '2.96'
+  - 'exportiamalg #1'
+- !!python/tuple
+  - able
+  - 'Abilities approach. Affairs study now remarkable funds. Policies exercise considerable,
+    recent '
+  - !!python/object/apply:decimal.Decimal
+    - '4.97'
+  - !!python/object/apply:decimal.Decimal
+    - '4.57'
+  - !!python/object/apply:decimal.Decimal
+    - '2.33'
+  - 'exportischolar #2'
+- !!python/tuple
+  - able
+  - Abilities would not require almost; local
+  - !!python/object/apply:decimal.Decimal
+    - '6.00'
+  - !!python/object/apply:decimal.Decimal
+    - '3.37'
+  - !!python/object/apply:decimal.Decimal
+    - '2.62'
+  - 'amalgamalg #1'
+- !!python/tuple
+  - able
+  - Able
+  - !!python/object/apply:decimal.Decimal
+    - '6.22'
+  - !!python/object/apply:decimal.Decimal
+    - '87.47'
+  - !!python/object/apply:decimal.Decimal
+    - '65.60'
+  - 'exportiexporti #1'
+- !!python/tuple
+  - able
+  - Able
+  - !!python/object/apply:decimal.Decimal
+    - '3.25'
+  - !!python/object/apply:decimal.Decimal
+    - '1.53'
+  - !!python/object/apply:decimal.Decimal
+    - '0.58'
+  - 'scholarbrand #1'
+- !!python/tuple
+  - able
+  - Able animals win even from the events; mass standards write both sm
+  - !!python/object/apply:decimal.Decimal
+    - '2.79'
+  - !!python/object/apply:decimal.Decimal
+    - '7.40'
+  - !!python/object/apply:decimal.Decimal
+    - '3.47'
+  - 'exportiamalg #2'
+- !!python/tuple
+  - able
+  - Able bound
+  - !!python/object/apply:decimal.Decimal
+    - '2.92'
+  - !!python/object/apply:decimal.Decimal
+    - '6.13'
+  - !!python/object/apply:decimal.Decimal
+    - '2.26'
+  - 'exportiunivamalg #9'
+- !!python/tuple
+  - able
+  - Able bound
+  - !!python/object/apply:decimal.Decimal
+    - '7.06'
+  - !!python/object/apply:decimal.Decimal
+    - '6.13'
+  - !!python/object/apply:decimal.Decimal
+    - '2.26'
+  - 'exportiunivamalg #9'
+- !!python/tuple
+  - able
+  - Able changes should comment m
+  - !!python/object/apply:decimal.Decimal
+    - '1.77'
+  - !!python/object/apply:decimal.Decimal
+    - '45.38'
+  - !!python/object/apply:decimal.Decimal
+    - '38.11'
+  - 'amalgnameless #4'
+- !!python/tuple
+  - able
+  - 'Able colours sleep small papers. Unable pairs used to play; resources start good,
+    legal enemies. Crews say inevitable, provincial items. '
+  - !!python/object/apply:decimal.Decimal
+    - '2.93'
+  - !!python/object/apply:decimal.Decimal
+    - '3.90'
+  - !!python/object/apply:decimal.Decimal
+    - '1.67'
+  - 'amalgscholar #2'
+- !!python/tuple
+  - able
+  - Able events may view technically pockets. Famous, cautious investments contribute.
+    Parts put socially throughout a services. Weapons could render only ol
+  - !!python/object/apply:decimal.Decimal
+    - '2.48'
+  - !!python/object/apply:decimal.Decimal
+    - '2.02'
+  - !!python/object/apply:decimal.Decimal
+    - '0.74'
+  - 'corpnameless #3'
+- !!python/tuple
+  - able
+  - 'Able examinations learn actually from a films. Alone lives may continue rather
+    yellow, limited elections. Seasons change however large years. Details might work
+    levels. Considerable, foreign regions '
+  - !!python/object/apply:decimal.Decimal
+    - '4.23'
+  - !!python/object/apply:decimal.Decimal
+    - '2.23'
+  - !!python/object/apply:decimal.Decimal
+    - '0.91'
+  - 'scholarnameless #2'
+- !!python/tuple
+  - able
+  - Able eyes will not reach aside like a feet; potentially agricultural months can
+    buy new, solid issues.
+  - !!python/object/apply:decimal.Decimal
+    - '1.67'
+  - !!python/object/apply:decimal.Decimal
+    - '35.36'
+  - !!python/object/apply:decimal.Decimal
+    - '23.69'
+  - 'importoexporti #1'
+- !!python/tuple
+  - able
+  - Able facilities clear thus good dete
+  - !!python/object/apply:decimal.Decimal
+    - '3.73'
+  - !!python/object/apply:decimal.Decimal
+    - '0.86'
+  - !!python/object/apply:decimal.Decimal
+    - '0.66'
+  - 'importoedu pack #1'
+- !!python/tuple
+  - able
+  - Able friends shall not question major, monthly things; new shots woul
+  - !!python/object/apply:decimal.Decimal
+    - '6.09'
+  - !!python/object/apply:decimal.Decimal
+    - '26.31'
+  - !!python/object/apply:decimal.Decimal
+    - '21.31'
+  - 'importoedu pack #1'
+- !!python/tuple
+  - able
+  - Able friends shall not question major, monthly things; new shots woul
+  - !!python/object/apply:decimal.Decimal
+    - '1.39'
+  - !!python/object/apply:decimal.Decimal
+    - '26.31'
+  - !!python/object/apply:decimal.Decimal
+    - '21.31'
+  - 'importoedu pack #1'
+- !!python/tuple
+  - able
+  - Able hands help however inevitable policemen. Far true matters will not forgive
+    never hands. Absolutely french events stop now. Well able procedures unde
+  - !!python/object/apply:decimal.Decimal
+    - '8.27'
+  - !!python/object/apply:decimal.Decimal
+    - '0.14'
+  - !!python/object/apply:decimal.Decimal
+    - '0.04'
+  - 'exportiamalg #1'
+- !!python/tuple
+  - able
+  - Able hours provide on a horses; a little
+  - !!python/object/apply:decimal.Decimal
+    - '7.28'
+  - !!python/object/apply:decimal.Decimal
+    - '0.71'
+  - !!python/object/apply:decimal.Decimal
+    - '0.56'
+  - 'exportinameless #7'
+- !!python/tuple
+  - able
+  - Able hours provide on a horses; a little
+  - !!python/object/apply:decimal.Decimal
+    - '5.93'
+  - !!python/object/apply:decimal.Decimal
+    - '0.71'
+  - !!python/object/apply:decimal.Decimal
+    - '0.56'
+  - 'exportinameless #7'
+- !!python/tuple
+  - able
+  - Able industries ought to say key emissions. Always national policies get near
+    atomic parts. Major, alive uni
+  - !!python/object/apply:decimal.Decimal
+    - '0.70'
+  - !!python/object/apply:decimal.Decimal
+    - '0.86'
+  - !!python/object/apply:decimal.Decimal
+    - '0.53'
+  - 'corpcorp #7'
+- !!python/tuple
+  - able
+  - Able industries ought to say key emissions. Always national policies get near
+    atomic parts. Major, alive uni
+  - !!python/object/apply:decimal.Decimal
+    - '8.35'
+  - !!python/object/apply:decimal.Decimal
+    - '0.86'
+  - !!python/object/apply:decimal.Decimal
+    - '0.53'
+  - 'corpcorp #7'
+- !!python/tuple
+  - able
+  - Able industries ought to say key emissions. Always national policies get near
+    atomic parts. Major, alive uni
+  - !!python/object/apply:decimal.Decimal
+    - '6.63'
+  - !!python/object/apply:decimal.Decimal
+    - '0.86'
+  - !!python/object/apply:decimal.Decimal
+    - '0.53'
+  - 'corpcorp #7'
+- !!python/tuple
+  - able
+  - Able issues welcome. Degrees begin currently
+  - !!python/object/apply:decimal.Decimal
+    - '0.22'
+  - !!python/object/apply:decimal.Decimal
+    - '1.10'
+  - !!python/object/apply:decimal.Decimal
+    - '0.57'
+  - 'exportiimporto #1'
+- !!python/tuple
+  - able
+  - Able marks agree particularly for a borders. Ready, long males shall not like
+    so hundreds; black lists overcom
+  - !!python/object/apply:decimal.Decimal
+    - '3.93'
+  - !!python/object/apply:decimal.Decimal
+    - '2.21'
+  - !!python/object/apply:decimal.Decimal
+    - '1.81'
+  - 'amalgimporto #2'
+- !!python/tuple
+  - able
+  - Able members go never practical demands. Forward white chang
+  - !!python/object/apply:decimal.Decimal
+    - '3.83'
+  - !!python/object/apply:decimal.Decimal
+    - '5.99'
+  - !!python/object/apply:decimal.Decimal
+    - '4.49'
+  - 'importoamalg #1'
+- !!python/tuple
+  - able
+  - 'Able men would not choose explicitly immediately available prices. Mediterranean
+    drinks let. New, military changes could not design with a questions; necessary
+    thanks may '
+  - !!python/object/apply:decimal.Decimal
+    - '0.99'
+  - !!python/object/apply:decimal.Decimal
+    - '9.82'
+  - !!python/object/apply:decimal.Decimal
+    - '4.51'
+  - 'importoamalg #1'

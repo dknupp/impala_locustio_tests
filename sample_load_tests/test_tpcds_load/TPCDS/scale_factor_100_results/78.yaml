@@ -1,0 +1,15 @@
+- !!python/tuple
+  - 2002
+  - 203382
+  - 759982
+  - null
+  - null
+  - !!python/object/apply:decimal.Decimal
+    - '43.95'
+  - !!python/object/apply:decimal.Decimal
+    - '4.24'
+  - 83
+  - !!python/object/apply:decimal.Decimal
+    - '136.45'
+  - !!python/object/apply:decimal.Decimal
+    - '212.50'

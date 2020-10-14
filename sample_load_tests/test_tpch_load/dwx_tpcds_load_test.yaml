@@ -1,0 +1,11 @@
+# This is a sample config file
+coordinator: coordinator-dknupp-impala-v8.env-zkg766.dwx-dev-public.cloudera.com
+client_type: 'ImpylaClient'
+auth_type: null
+ssl: True
+thrift_transport: 'http'
+user: null
+password: null
+min_wait: 2  # unit = seconds
+max_wait: 5  # unit = seconds
+target_db: tpch_10_decimal_parquet

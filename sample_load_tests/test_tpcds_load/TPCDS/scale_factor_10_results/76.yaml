@@ -1,0 +1,898 @@
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - ''
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '3196.57'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - Books
+  - 105
+  - !!python/object/apply:decimal.Decimal
+    - '217942.24'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - Children
+  - 92
+  - !!python/object/apply:decimal.Decimal
+    - '111277.98'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - Electronics
+  - 88
+  - !!python/object/apply:decimal.Decimal
+    - '130639.46'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - Home
+  - 106
+  - !!python/object/apply:decimal.Decimal
+    - '139747.54'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - Jewelry
+  - 103
+  - !!python/object/apply:decimal.Decimal
+    - '124060.10'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - Men
+  - 103
+  - !!python/object/apply:decimal.Decimal
+    - '181658.73'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - Music
+  - 112
+  - !!python/object/apply:decimal.Decimal
+    - '156296.44'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - Shoes
+  - 98
+  - !!python/object/apply:decimal.Decimal
+    - '129779.68'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - Sports
+  - 116
+  - !!python/object/apply:decimal.Decimal
+    - '140752.81'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 1
+  - Women
+  - 96
+  - !!python/object/apply:decimal.Decimal
+    - '80542.76'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - ''
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '16289.68'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - Books
+  - 96
+  - !!python/object/apply:decimal.Decimal
+    - '102878.53'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - Children
+  - 100
+  - !!python/object/apply:decimal.Decimal
+    - '96165.11'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - Electronics
+  - 89
+  - !!python/object/apply:decimal.Decimal
+    - '115439.47'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - Home
+  - 98
+  - !!python/object/apply:decimal.Decimal
+    - '146517.02'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - Jewelry
+  - 109
+  - !!python/object/apply:decimal.Decimal
+    - '134521.06'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - Men
+  - 107
+  - !!python/object/apply:decimal.Decimal
+    - '165361.40'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - Music
+  - 127
+  - !!python/object/apply:decimal.Decimal
+    - '153476.32'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - Shoes
+  - 102
+  - !!python/object/apply:decimal.Decimal
+    - '120808.10'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - Sports
+  - 110
+  - !!python/object/apply:decimal.Decimal
+    - '122392.39'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 2
+  - Women
+  - 106
+  - !!python/object/apply:decimal.Decimal
+    - '165778.78'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - ''
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '5554.65'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - Books
+  - 204
+  - !!python/object/apply:decimal.Decimal
+    - '275052.40'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - Children
+  - 187
+  - !!python/object/apply:decimal.Decimal
+    - '221517.57'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - Electronics
+  - 201
+  - !!python/object/apply:decimal.Decimal
+    - '200952.62'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - Home
+  - 218
+  - !!python/object/apply:decimal.Decimal
+    - '276381.92'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - Jewelry
+  - 202
+  - !!python/object/apply:decimal.Decimal
+    - '293890.55'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - Men
+  - 183
+  - !!python/object/apply:decimal.Decimal
+    - '201314.45'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - Music
+  - 203
+  - !!python/object/apply:decimal.Decimal
+    - '245068.53'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - Shoes
+  - 206
+  - !!python/object/apply:decimal.Decimal
+    - '262276.60'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - Sports
+  - 223
+  - !!python/object/apply:decimal.Decimal
+    - '251320.07'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 3
+  - Women
+  - 208
+  - !!python/object/apply:decimal.Decimal
+    - '292488.31'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - ''
+  - 5
+  - !!python/object/apply:decimal.Decimal
+    - '7832.70'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - Books
+  - 313
+  - !!python/object/apply:decimal.Decimal
+    - '422980.30'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - Children
+  - 301
+  - !!python/object/apply:decimal.Decimal
+    - '446222.09'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - Electronics
+  - 304
+  - !!python/object/apply:decimal.Decimal
+    - '397966.81'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - Home
+  - 344
+  - !!python/object/apply:decimal.Decimal
+    - '520050.76'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - Jewelry
+  - 324
+  - !!python/object/apply:decimal.Decimal
+    - '390084.24'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - Men
+  - 334
+  - !!python/object/apply:decimal.Decimal
+    - '492902.90'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - Music
+  - 323
+  - !!python/object/apply:decimal.Decimal
+    - '403070.75'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - Shoes
+  - 328
+  - !!python/object/apply:decimal.Decimal
+    - '498244.49'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - Sports
+  - 341
+  - !!python/object/apply:decimal.Decimal
+    - '479425.49'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1998
+  - 4
+  - Women
+  - 323
+  - !!python/object/apply:decimal.Decimal
+    - '406555.30'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - ''
+  - 2
+  - null
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - Books
+  - 95
+  - !!python/object/apply:decimal.Decimal
+    - '91952.22'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - Children
+  - 97
+  - !!python/object/apply:decimal.Decimal
+    - '95819.86'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - Electronics
+  - 99
+  - !!python/object/apply:decimal.Decimal
+    - '107472.41'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - Home
+  - 95
+  - !!python/object/apply:decimal.Decimal
+    - '84658.77'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - Jewelry
+  - 100
+  - !!python/object/apply:decimal.Decimal
+    - '92558.58'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - Men
+  - 88
+  - !!python/object/apply:decimal.Decimal
+    - '160326.25'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - Music
+  - 104
+  - !!python/object/apply:decimal.Decimal
+    - '101272.61'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - Shoes
+  - 92
+  - !!python/object/apply:decimal.Decimal
+    - '98309.17'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - Sports
+  - 100
+  - !!python/object/apply:decimal.Decimal
+    - '108800.36'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 1
+  - Women
+  - 93
+  - !!python/object/apply:decimal.Decimal
+    - '83309.21'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 2
+  - Books
+  - 98
+  - !!python/object/apply:decimal.Decimal
+    - '149010.25'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 2
+  - Children
+  - 109
+  - !!python/object/apply:decimal.Decimal
+    - '97901.17'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 2
+  - Electronics
+  - 110
+  - !!python/object/apply:decimal.Decimal
+    - '165305.10'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 2
+  - Home
+  - 99
+  - !!python/object/apply:decimal.Decimal
+    - '146392.93'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 2
+  - Jewelry
+  - 107
+  - !!python/object/apply:decimal.Decimal
+    - '147403.04'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 2
+  - Men
+  - 102
+  - !!python/object/apply:decimal.Decimal
+    - '107161.80'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 2
+  - Music
+  - 101
+  - !!python/object/apply:decimal.Decimal
+    - '120901.32'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 2
+  - Shoes
+  - 115
+  - !!python/object/apply:decimal.Decimal
+    - '138138.84'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 2
+  - Sports
+  - 96
+  - !!python/object/apply:decimal.Decimal
+    - '136648.34'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 2
+  - Women
+  - 125
+  - !!python/object/apply:decimal.Decimal
+    - '144706.80'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - ''
+  - 4
+  - null
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - Books
+  - 163
+  - !!python/object/apply:decimal.Decimal
+    - '200430.78'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - Children
+  - 189
+  - !!python/object/apply:decimal.Decimal
+    - '244226.44'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - Electronics
+  - 185
+  - !!python/object/apply:decimal.Decimal
+    - '275788.92'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - Home
+  - 201
+  - !!python/object/apply:decimal.Decimal
+    - '245578.33'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - Jewelry
+  - 189
+  - !!python/object/apply:decimal.Decimal
+    - '206263.04'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - Men
+  - 193
+  - !!python/object/apply:decimal.Decimal
+    - '265715.48'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - Music
+  - 198
+  - !!python/object/apply:decimal.Decimal
+    - '272435.12'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - Shoes
+  - 236
+  - !!python/object/apply:decimal.Decimal
+    - '223605.82'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - Sports
+  - 224
+  - !!python/object/apply:decimal.Decimal
+    - '233567.44'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 3
+  - Women
+  - 186
+  - !!python/object/apply:decimal.Decimal
+    - '265874.39'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - ''
+  - 16
+  - !!python/object/apply:decimal.Decimal
+    - '6449.76'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - Books
+  - 312
+  - !!python/object/apply:decimal.Decimal
+    - '452644.29'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - Children
+  - 319
+  - !!python/object/apply:decimal.Decimal
+    - '418593.28'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - Electronics
+  - 340
+  - !!python/object/apply:decimal.Decimal
+    - '438827.39'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - Home
+  - 299
+  - !!python/object/apply:decimal.Decimal
+    - '463198.22'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - Jewelry
+  - 326
+  - !!python/object/apply:decimal.Decimal
+    - '428522.60'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - Men
+  - 316
+  - !!python/object/apply:decimal.Decimal
+    - '498526.86'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - Music
+  - 288
+  - !!python/object/apply:decimal.Decimal
+    - '379407.61'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - Shoes
+  - 311
+  - !!python/object/apply:decimal.Decimal
+    - '391580.16'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - Sports
+  - 300
+  - !!python/object/apply:decimal.Decimal
+    - '380713.84'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 1999
+  - 4
+  - Women
+  - 313
+  - !!python/object/apply:decimal.Decimal
+    - '330479.99'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - ''
+  - 3
+  - !!python/object/apply:decimal.Decimal
+    - '1994.79'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - Books
+  - 117
+  - !!python/object/apply:decimal.Decimal
+    - '91277.45'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - Children
+  - 90
+  - !!python/object/apply:decimal.Decimal
+    - '108148.30'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - Electronics
+  - 106
+  - !!python/object/apply:decimal.Decimal
+    - '135876.19'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - Home
+  - 106
+  - !!python/object/apply:decimal.Decimal
+    - '187131.95'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - Jewelry
+  - 112
+  - !!python/object/apply:decimal.Decimal
+    - '133258.35'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - Men
+  - 104
+  - !!python/object/apply:decimal.Decimal
+    - '125501.17'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - Music
+  - 116
+  - !!python/object/apply:decimal.Decimal
+    - '179531.62'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - Shoes
+  - 95
+  - !!python/object/apply:decimal.Decimal
+    - '102487.67'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - Sports
+  - 93
+  - !!python/object/apply:decimal.Decimal
+    - '141223.12'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 1
+  - Women
+  - 104
+  - !!python/object/apply:decimal.Decimal
+    - '139198.18'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 2
+  - ''
+  - 4
+  - !!python/object/apply:decimal.Decimal
+    - '4791.29'
+- !!python/tuple
+  - catalog
+  - cs_ship_customer_sk
+  - 2000
+  - 2
+  - Books
+  - 117
+  - !!python/object/apply:decimal.Decimal
+    - '180442.40'

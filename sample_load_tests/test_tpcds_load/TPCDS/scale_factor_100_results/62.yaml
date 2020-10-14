@@ -1,0 +1,900 @@
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_0
+  - 11097
+  - 8692
+  - 7368
+  - 6046
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_1
+  - 10754
+  - 9080
+  - 7324
+  - 5964
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_2
+  - 10866
+  - 9001
+  - 7220
+  - 6111
+  - 0
+- !!python/tuple
+  - ''
+  - EXPRESS
+  - site_3
+  - 10871
+  - 8901
+  - 7314
+  - 5888
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_0
+  - 8119
+  - 6665
+  - 5536
+  - 4496
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_1
+  - 8168
+  - 6750
+  - 5509
+  - 4355
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_2
+  - 8066
+  - 6694
+  - 5513
+  - 4490
+  - 0
+- !!python/tuple
+  - ''
+  - LIBRARY
+  - site_3
+  - 8146
+  - 6676
+  - 5394
+  - 4488
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_0
+  - 10846
+  - 8887
+  - 7177
+  - 6003
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_1
+  - 10664
+  - 8830
+  - 7341
+  - 6083
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_2
+  - 10972
+  - 8962
+  - 7159
+  - 6001
+  - 0
+- !!python/tuple
+  - ''
+  - NEXT DAY
+  - site_3
+  - 10891
+  - 9087
+  - 7191
+  - 6114
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_0
+  - 8172
+  - 6640
+  - 5434
+  - 4475
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_1
+  - 8006
+  - 6728
+  - 5427
+  - 4388
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_2
+  - 8035
+  - 6749
+  - 5503
+  - 4455
+  - 0
+- !!python/tuple
+  - ''
+  - OVERNIGHT
+  - site_3
+  - 8064
+  - 6527
+  - 5454
+  - 4548
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_0
+  - 8045
+  - 6698
+  - 5494
+  - 4495
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_1
+  - 8111
+  - 6659
+  - 5448
+  - 4490
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_2
+  - 8093
+  - 6636
+  - 5510
+  - 4456
+  - 0
+- !!python/tuple
+  - ''
+  - REGULAR
+  - site_3
+  - 8196
+  - 6533
+  - 5449
+  - 4612
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_0
+  - 8138
+  - 6639
+  - 5454
+  - 4473
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_1
+  - 8183
+  - 6589
+  - 5460
+  - 4546
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_2
+  - 8108
+  - 6553
+  - 5573
+  - 4443
+  - 0
+- !!python/tuple
+  - ''
+  - TWO DAY
+  - site_3
+  - 8096
+  - 6625
+  - 5489
+  - 4480
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_0
+  - 10733
+  - 8877
+  - 7209
+  - 5958
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_1
+  - 10873
+  - 8947
+  - 7282
+  - 6163
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_2
+  - 10617
+  - 8869
+  - 7098
+  - 5910
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - EXPRESS
+  - site_3
+  - 10898
+  - 8915
+  - 7346
+  - 6018
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_0
+  - 8245
+  - 6710
+  - 5360
+  - 4336
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_1
+  - 8181
+  - 6565
+  - 5357
+  - 4390
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_2
+  - 8081
+  - 6527
+  - 5549
+  - 4499
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - LIBRARY
+  - site_3
+  - 7938
+  - 6657
+  - 5455
+  - 4398
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_0
+  - 10805
+  - 8785
+  - 7155
+  - 5886
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_1
+  - 10828
+  - 8852
+  - 7233
+  - 5933
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_2
+  - 10791
+  - 9093
+  - 7254
+  - 6100
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - NEXT DAY
+  - site_3
+  - 10729
+  - 8941
+  - 7346
+  - 6011
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_0
+  - 8333
+  - 6442
+  - 5439
+  - 4444
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_1
+  - 8161
+  - 6517
+  - 5446
+  - 4477
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_2
+  - 8147
+  - 6576
+  - 5520
+  - 4316
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - OVERNIGHT
+  - site_3
+  - 8184
+  - 6573
+  - 5478
+  - 4497
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_0
+  - 8118
+  - 6770
+  - 5466
+  - 4482
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_1
+  - 8251
+  - 6658
+  - 5450
+  - 4491
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_2
+  - 8144
+  - 6659
+  - 5550
+  - 4538
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - REGULAR
+  - site_3
+  - 8187
+  - 6643
+  - 5461
+  - 4478
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_0
+  - 8224
+  - 6455
+  - 5450
+  - 4460
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_1
+  - 8189
+  - 6725
+  - 5452
+  - 4501
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_2
+  - 8108
+  - 6627
+  - 5456
+  - 4461
+  - 0
+- !!python/tuple
+  - Bad cards must make.
+  - TWO DAY
+  - site_3
+  - 8111
+  - 6564
+  - 5559
+  - 4490
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_0
+  - 10864
+  - 8858
+  - 7237
+  - 6074
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_1
+  - 10894
+  - 8734
+  - 7314
+  - 5994
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_2
+  - 10878
+  - 8838
+  - 7374
+  - 6049
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - EXPRESS
+  - site_3
+  - 11045
+  - 8990
+  - 7264
+  - 5951
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_0
+  - 8044
+  - 6602
+  - 5475
+  - 4346
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_1
+  - 7939
+  - 6686
+  - 5315
+  - 4445
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_2
+  - 8077
+  - 6751
+  - 5453
+  - 4457
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - LIBRARY
+  - site_3
+  - 8005
+  - 6637
+  - 5517
+  - 4484
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - NEXT DAY
+  - site_0
+  - 10925
+  - 8904
+  - 7206
+  - 5848
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - NEXT DAY
+  - site_1
+  - 10829
+  - 8824
+  - 7293
+  - 5974
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - NEXT DAY
+  - site_2
+  - 11057
+  - 8895
+  - 7310
+  - 5842
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - NEXT DAY
+  - site_3
+  - 10900
+  - 8841
+  - 7316
+  - 5920
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - OVERNIGHT
+  - site_0
+  - 8148
+  - 6548
+  - 5388
+  - 4614
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - OVERNIGHT
+  - site_1
+  - 8183
+  - 6696
+  - 5336
+  - 4455
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - OVERNIGHT
+  - site_2
+  - 8078
+  - 6902
+  - 5455
+  - 4432
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - OVERNIGHT
+  - site_3
+  - 8084
+  - 6693
+  - 5477
+  - 4583
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - REGULAR
+  - site_0
+  - 8085
+  - 6550
+  - 5327
+  - 4473
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - REGULAR
+  - site_1
+  - 8362
+  - 6675
+  - 5547
+  - 4456
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - REGULAR
+  - site_2
+  - 8098
+  - 6479
+  - 5411
+  - 4469
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - REGULAR
+  - site_3
+  - 8068
+  - 6761
+  - 5483
+  - 4477
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - TWO DAY
+  - site_0
+  - 8029
+  - 6644
+  - 5565
+  - 4559
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - TWO DAY
+  - site_1
+  - 7926
+  - 6570
+  - 5315
+  - 4460
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - TWO DAY
+  - site_2
+  - 8032
+  - 6645
+  - 5441
+  - 4488
+  - 0
+- !!python/tuple
+  - Conventional childr
+  - TWO DAY
+  - site_3
+  - 8114
+  - 6590
+  - 5559
+  - 4529
+  - 0
+- !!python/tuple
+  - Doors canno
+  - EXPRESS
+  - site_0
+  - 10866
+  - 9077
+  - 7275
+  - 6091
+  - 0
+- !!python/tuple
+  - Doors canno
+  - EXPRESS
+  - site_1
+  - 10856
+  - 8934
+  - 7190
+  - 6077
+  - 0
+- !!python/tuple
+  - Doors canno
+  - EXPRESS
+  - site_2
+  - 10879
+  - 8931
+  - 7161
+  - 6142
+  - 0
+- !!python/tuple
+  - Doors canno
+  - EXPRESS
+  - site_3
+  - 10834
+  - 8860
+  - 7300
+  - 5978
+  - 0
+- !!python/tuple
+  - Doors canno
+  - LIBRARY
+  - site_0
+  - 7981
+  - 6744
+  - 5409
+  - 4437
+  - 0
+- !!python/tuple
+  - Doors canno
+  - LIBRARY
+  - site_1
+  - 8186
+  - 6652
+  - 5415
+  - 4456
+  - 0
+- !!python/tuple
+  - Doors canno
+  - LIBRARY
+  - site_2
+  - 8232
+  - 6680
+  - 5539
+  - 4477
+  - 0
+- !!python/tuple
+  - Doors canno
+  - LIBRARY
+  - site_3
+  - 8093
+  - 6730
+  - 5305
+  - 4571
+  - 0
+- !!python/tuple
+  - Doors canno
+  - NEXT DAY
+  - site_0
+  - 10846
+  - 9053
+  - 7189
+  - 6032
+  - 0
+- !!python/tuple
+  - Doors canno
+  - NEXT DAY
+  - site_1
+  - 10755
+  - 8881
+  - 7202
+  - 6129
+  - 0
+- !!python/tuple
+  - Doors canno
+  - NEXT DAY
+  - site_2
+  - 10897
+  - 8817
+  - 7272
+  - 5978
+  - 0
+- !!python/tuple
+  - Doors canno
+  - NEXT DAY
+  - site_3
+  - 11030
+  - 8914
+  - 7222
+  - 6056
+  - 0
+- !!python/tuple
+  - Doors canno
+  - OVERNIGHT
+  - site_0
+  - 8111
+  - 6685
+  - 5612
+  - 4547
+  - 0
+- !!python/tuple
+  - Doors canno
+  - OVERNIGHT
+  - site_1
+  - 8159
+  - 6496
+  - 5359
+  - 4513
+  - 0
+- !!python/tuple
+  - Doors canno
+  - OVERNIGHT
+  - site_2
+  - 8097
+  - 6558
+  - 5525
+  - 4404
+  - 0
+- !!python/tuple
+  - Doors canno
+  - OVERNIGHT
+  - site_3
+  - 8114
+  - 6634
+  - 5508
+  - 4455
+  - 0
+- !!python/tuple
+  - Doors canno
+  - REGULAR
+  - site_0
+  - 8273
+  - 6621
+  - 5333
+  - 4440
+  - 0
+- !!python/tuple
+  - Doors canno
+  - REGULAR
+  - site_1
+  - 8216
+  - 6755
+  - 5406
+  - 4584
+  - 0
+- !!python/tuple
+  - Doors canno
+  - REGULAR
+  - site_2
+  - 8279
+  - 6646
+  - 5379
+  - 4539
+  - 0
+- !!python/tuple
+  - Doors canno
+  - REGULAR
+  - site_3
+  - 8142
+  - 6727
+  - 5474
+  - 4528
+  - 0
+- !!python/tuple
+  - Doors canno
+  - TWO DAY
+  - site_0
+  - 8123
+  - 6584
+  - 5435
+  - 4571
+  - 0
+- !!python/tuple
+  - Doors canno
+  - TWO DAY
+  - site_1
+  - 8118
+  - 6710
+  - 5594
+  - 4432
+  - 0
+- !!python/tuple
+  - Doors canno
+  - TWO DAY
+  - site_2
+  - 8067
+  - 6512
+  - 5579
+  - 4449
+  - 0
+- !!python/tuple
+  - Doors canno
+  - TWO DAY
+  - site_3
+  - 8048
+  - 6652
+  - 5486
+  - 4393
+  - 0
+- !!python/tuple
+  - 'Friendly, suitable '
+  - EXPRESS
+  - site_0
+  - 10768
+  - 8743
+  - 7154
+  - 5936
+  - 0
+- !!python/tuple
+  - 'Friendly, suitable '
+  - EXPRESS
+  - site_1
+  - 10772
+  - 8817
+  - 7345
+  - 5855
+  - 0
+- !!python/tuple
+  - 'Friendly, suitable '
+  - EXPRESS
+  - site_2
+  - 10829
+  - 8890
+  - 7356
+  - 5987
+  - 0
+- !!python/tuple
+  - 'Friendly, suitable '
+  - EXPRESS
+  - site_3
+  - 10758
+  - 8917
+  - 7268
+  - 5976
+  - 0

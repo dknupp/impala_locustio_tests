@@ -1,0 +1,6 @@
+- !!python/tuple
+  - 2215
+  - !!python/object/apply:decimal.Decimal
+    - '3256135.82'
+  - !!python/object/apply:decimal.Decimal
+    - '-577002.27'

@@ -1,0 +1,3036 @@
+- !!python/tuple
+  - Poinsett County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.920777'
+  - !!python/object/apply:decimal.Decimal
+    - '0.920295'
+  - !!python/object/apply:decimal.Decimal
+    - '2.013963'
+  - !!python/object/apply:decimal.Decimal
+    - '1.993958'
+- !!python/tuple
+  - Crane County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.548198'
+  - !!python/object/apply:decimal.Decimal
+    - '1.284603'
+  - !!python/object/apply:decimal.Decimal
+    - '1.569169'
+  - !!python/object/apply:decimal.Decimal
+    - '0.736135'
+- !!python/tuple
+  - Ottawa County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.200371'
+  - !!python/object/apply:decimal.Decimal
+    - '1.058274'
+  - !!python/object/apply:decimal.Decimal
+    - '3.047759'
+  - !!python/object/apply:decimal.Decimal
+    - '1.597509'
+- !!python/tuple
+  - Garza County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.381671'
+  - !!python/object/apply:decimal.Decimal
+    - '0.621051'
+  - !!python/object/apply:decimal.Decimal
+    - '2.583729'
+  - !!python/object/apply:decimal.Decimal
+    - '1.840006'
+- !!python/tuple
+  - Ross County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.745227'
+  - !!python/object/apply:decimal.Decimal
+    - '0.766280'
+  - !!python/object/apply:decimal.Decimal
+    - '3.008015'
+  - !!python/object/apply:decimal.Decimal
+    - '1.358190'
+- !!python/tuple
+  - Power County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.363141'
+  - !!python/object/apply:decimal.Decimal
+    - '0.932109'
+  - !!python/object/apply:decimal.Decimal
+    - '1.568344'
+  - !!python/object/apply:decimal.Decimal
+    - '1.359952'
+- !!python/tuple
+  - Jerome County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.327036'
+  - !!python/object/apply:decimal.Decimal
+    - '0.883612'
+  - !!python/object/apply:decimal.Decimal
+    - '3.754734'
+  - !!python/object/apply:decimal.Decimal
+    - '1.672362'
+- !!python/tuple
+  - Menifee County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.891241'
+  - !!python/object/apply:decimal.Decimal
+    - '0.791203'
+  - !!python/object/apply:decimal.Decimal
+    - '2.305414'
+  - !!python/object/apply:decimal.Decimal
+    - '2.218734'
+- !!python/tuple
+  - Ashley County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.540785'
+  - !!python/object/apply:decimal.Decimal
+    - '0.518024'
+  - !!python/object/apply:decimal.Decimal
+    - '3.522841'
+  - !!python/object/apply:decimal.Decimal
+    - '2.416289'
+- !!python/tuple
+  - Rio Blanco County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.590715'
+  - !!python/object/apply:decimal.Decimal
+    - '0.585394'
+  - !!python/object/apply:decimal.Decimal
+    - '1.763341'
+  - !!python/object/apply:decimal.Decimal
+    - '1.642524'
+- !!python/tuple
+  - Maverick County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.120677'
+  - !!python/object/apply:decimal.Decimal
+    - '0.600630'
+  - !!python/object/apply:decimal.Decimal
+    - '1.686221'
+  - !!python/object/apply:decimal.Decimal
+    - '1.450761'
+- !!python/tuple
+  - Wake County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.866024'
+  - !!python/object/apply:decimal.Decimal
+    - '0.544358'
+  - !!python/object/apply:decimal.Decimal
+    - '3.263563'
+  - !!python/object/apply:decimal.Decimal
+    - '2.348985'
+- !!python/tuple
+  - Valencia County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.967270'
+  - !!python/object/apply:decimal.Decimal
+    - '1.837333'
+  - !!python/object/apply:decimal.Decimal
+    - '5.758977'
+  - !!python/object/apply:decimal.Decimal
+    - '1.068298'
+- !!python/tuple
+  - Nicholas County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.818009'
+  - !!python/object/apply:decimal.Decimal
+    - '1.123227'
+  - !!python/object/apply:decimal.Decimal
+    - '2.671498'
+  - !!python/object/apply:decimal.Decimal
+    - '1.907260'
+- !!python/tuple
+  - Monongalia County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.397905'
+  - !!python/object/apply:decimal.Decimal
+    - '0.903283'
+  - !!python/object/apply:decimal.Decimal
+    - '2.176486'
+  - !!python/object/apply:decimal.Decimal
+    - '1.203562'
+- !!python/tuple
+  - Box Elder County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.416497'
+  - !!python/object/apply:decimal.Decimal
+    - '0.742060'
+  - !!python/object/apply:decimal.Decimal
+    - '2.835663'
+  - !!python/object/apply:decimal.Decimal
+    - '1.618217'
+- !!python/tuple
+  - Highland County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.842751'
+  - !!python/object/apply:decimal.Decimal
+    - '0.629722'
+  - !!python/object/apply:decimal.Decimal
+    - '3.090709'
+  - !!python/object/apply:decimal.Decimal
+    - '1.930990'
+- !!python/tuple
+  - DeKalb County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.084649'
+  - !!python/object/apply:decimal.Decimal
+    - '0.952207'
+  - !!python/object/apply:decimal.Decimal
+    - '2.487517'
+  - !!python/object/apply:decimal.Decimal
+    - '1.707785'
+- !!python/tuple
+  - Bacon County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.435907'
+  - !!python/object/apply:decimal.Decimal
+    - '0.403344'
+  - !!python/object/apply:decimal.Decimal
+    - '7.021255'
+  - !!python/object/apply:decimal.Decimal
+    - '4.263553'
+- !!python/tuple
+  - Kootenai County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.253667'
+  - !!python/object/apply:decimal.Decimal
+    - '0.921158'
+  - !!python/object/apply:decimal.Decimal
+    - '3.541817'
+  - !!python/object/apply:decimal.Decimal
+    - '2.608780'
+- !!python/tuple
+  - Edmonson County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.154717'
+  - !!python/object/apply:decimal.Decimal
+    - '0.975672'
+  - !!python/object/apply:decimal.Decimal
+    - '1.790986'
+  - !!python/object/apply:decimal.Decimal
+    - '1.609399'
+- !!python/tuple
+  - Union Parish
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '4.218351'
+  - !!python/object/apply:decimal.Decimal
+    - '1.127009'
+  - !!python/object/apply:decimal.Decimal
+    - '1.695021'
+  - !!python/object/apply:decimal.Decimal
+    - '1.023965'
+- !!python/tuple
+  - Merrimack County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.021378'
+  - !!python/object/apply:decimal.Decimal
+    - '0.805609'
+  - !!python/object/apply:decimal.Decimal
+    - '2.291390'
+  - !!python/object/apply:decimal.Decimal
+    - '1.602579'
+- !!python/tuple
+  - Marin County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.671808'
+  - !!python/object/apply:decimal.Decimal
+    - '0.854724'
+  - !!python/object/apply:decimal.Decimal
+    - '2.701784'
+  - !!python/object/apply:decimal.Decimal
+    - '1.654667'
+- !!python/tuple
+  - Kerr County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.991147'
+  - !!python/object/apply:decimal.Decimal
+    - '0.854360'
+  - !!python/object/apply:decimal.Decimal
+    - '2.117330'
+  - !!python/object/apply:decimal.Decimal
+    - '1.449254'
+- !!python/tuple
+  - Galax city
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.103182'
+  - !!python/object/apply:decimal.Decimal
+    - '1.089012'
+  - !!python/object/apply:decimal.Decimal
+    - '1.521451'
+  - !!python/object/apply:decimal.Decimal
+    - '1.147818'
+- !!python/tuple
+  - Susquehanna County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.607171'
+  - !!python/object/apply:decimal.Decimal
+    - '0.803539'
+  - !!python/object/apply:decimal.Decimal
+    - '2.621796'
+  - !!python/object/apply:decimal.Decimal
+    - '1.481763'
+- !!python/tuple
+  - Butte County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.237704'
+  - !!python/object/apply:decimal.Decimal
+    - '1.123483'
+  - !!python/object/apply:decimal.Decimal
+    - '2.098971'
+  - !!python/object/apply:decimal.Decimal
+    - '1.897701'
+- !!python/tuple
+  - Pend Oreille County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.970046'
+  - !!python/object/apply:decimal.Decimal
+    - '0.814916'
+  - !!python/object/apply:decimal.Decimal
+    - '2.755394'
+  - !!python/object/apply:decimal.Decimal
+    - '1.340233'
+- !!python/tuple
+  - Alameda County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.600835'
+  - !!python/object/apply:decimal.Decimal
+    - '1.208156'
+  - !!python/object/apply:decimal.Decimal
+    - '2.053324'
+  - !!python/object/apply:decimal.Decimal
+    - '1.445263'
+- !!python/tuple
+  - Juneau Borough
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.925276'
+  - !!python/object/apply:decimal.Decimal
+    - '0.878796'
+  - !!python/object/apply:decimal.Decimal
+    - '2.875556'
+  - !!python/object/apply:decimal.Decimal
+    - '1.673929'
+- !!python/tuple
+  - Pickaway County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.930524'
+  - !!python/object/apply:decimal.Decimal
+    - '0.925505'
+  - !!python/object/apply:decimal.Decimal
+    - '3.795539'
+  - !!python/object/apply:decimal.Decimal
+    - '2.179940'
+- !!python/tuple
+  - Gwinnett County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.075369'
+  - !!python/object/apply:decimal.Decimal
+    - '0.508612'
+  - !!python/object/apply:decimal.Decimal
+    - '2.308004'
+  - !!python/object/apply:decimal.Decimal
+    - '2.127072'
+- !!python/tuple
+  - Rawlins County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.207361'
+  - !!python/object/apply:decimal.Decimal
+    - '0.787156'
+  - !!python/object/apply:decimal.Decimal
+    - '5.842366'
+  - !!python/object/apply:decimal.Decimal
+    - '2.169922'
+- !!python/tuple
+  - Gentry County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.127267'
+  - !!python/object/apply:decimal.Decimal
+    - '1.103048'
+  - !!python/object/apply:decimal.Decimal
+    - '2.885091'
+  - !!python/object/apply:decimal.Decimal
+    - '1.833283'
+- !!python/tuple
+  - Baldwin County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.772446'
+  - !!python/object/apply:decimal.Decimal
+    - '0.663870'
+  - !!python/object/apply:decimal.Decimal
+    - '2.504015'
+  - !!python/object/apply:decimal.Decimal
+    - '1.896438'
+- !!python/tuple
+  - Chowan County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.435005'
+  - !!python/object/apply:decimal.Decimal
+    - '0.598125'
+  - !!python/object/apply:decimal.Decimal
+    - '4.291870'
+  - !!python/object/apply:decimal.Decimal
+    - '1.156113'
+- !!python/tuple
+  - Arthur County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.221289'
+  - !!python/object/apply:decimal.Decimal
+    - '0.860761'
+  - !!python/object/apply:decimal.Decimal
+    - '3.029993'
+  - !!python/object/apply:decimal.Decimal
+    - '2.296888'
+- !!python/tuple
+  - Charleston County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.881264'
+  - !!python/object/apply:decimal.Decimal
+    - '0.803149'
+  - !!python/object/apply:decimal.Decimal
+    - '2.227030'
+  - !!python/object/apply:decimal.Decimal
+    - '1.872804'
+- !!python/tuple
+  - Eagle County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '3.129173'
+  - !!python/object/apply:decimal.Decimal
+    - '1.127359'
+  - !!python/object/apply:decimal.Decimal
+    - '1.720529'
+  - !!python/object/apply:decimal.Decimal
+    - '1.430011'
+- !!python/tuple
+  - Anson County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '4.321635'
+  - !!python/object/apply:decimal.Decimal
+    - '0.364707'
+  - !!python/object/apply:decimal.Decimal
+    - '6.186199'
+  - !!python/object/apply:decimal.Decimal
+    - '3.398950'
+- !!python/tuple
+  - Ouray County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.631203'
+  - !!python/object/apply:decimal.Decimal
+    - '0.919667'
+  - !!python/object/apply:decimal.Decimal
+    - '2.323878'
+  - !!python/object/apply:decimal.Decimal
+    - '2.044590'
+- !!python/tuple
+  - Santa Cruz County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.785080'
+  - !!python/object/apply:decimal.Decimal
+    - '1.697117'
+  - !!python/object/apply:decimal.Decimal
+    - '3.451177'
+  - !!python/object/apply:decimal.Decimal
+    - '1.446712'
+- !!python/tuple
+  - Tallapoosa County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.082509'
+  - !!python/object/apply:decimal.Decimal
+    - '0.764065'
+  - !!python/object/apply:decimal.Decimal
+    - '1.676336'
+  - !!python/object/apply:decimal.Decimal
+    - '1.645160'
+- !!python/tuple
+  - Cotton County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.270253'
+  - !!python/object/apply:decimal.Decimal
+    - '0.613787'
+  - !!python/object/apply:decimal.Decimal
+    - '2.679568'
+  - !!python/object/apply:decimal.Decimal
+    - '2.336633'
+- !!python/tuple
+  - Dukes County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.617373'
+  - !!python/object/apply:decimal.Decimal
+    - '0.638601'
+  - !!python/object/apply:decimal.Decimal
+    - '3.648816'
+  - !!python/object/apply:decimal.Decimal
+    - '1.404967'
+- !!python/tuple
+  - Keith County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.973525'
+  - !!python/object/apply:decimal.Decimal
+    - '0.644710'
+  - !!python/object/apply:decimal.Decimal
+    - '1.382156'
+  - !!python/object/apply:decimal.Decimal
+    - '1.229561'
+- !!python/tuple
+  - Owsley County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.616613'
+  - !!python/object/apply:decimal.Decimal
+    - '0.663521'
+  - !!python/object/apply:decimal.Decimal
+    - '2.671091'
+  - !!python/object/apply:decimal.Decimal
+    - '2.056788'
+- !!python/tuple
+  - Grady County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.339041'
+  - !!python/object/apply:decimal.Decimal
+    - '1.119556'
+  - !!python/object/apply:decimal.Decimal
+    - '1.709318'
+  - !!python/object/apply:decimal.Decimal
+    - '1.660809'
+- !!python/tuple
+  - Silver Bow County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.827656'
+  - !!python/object/apply:decimal.Decimal
+    - '0.688095'
+  - !!python/object/apply:decimal.Decimal
+    - '2.268669'
+  - !!python/object/apply:decimal.Decimal
+    - '1.576434'
+- !!python/tuple
+  - Watonwan County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.616552'
+  - !!python/object/apply:decimal.Decimal
+    - '0.890636'
+  - !!python/object/apply:decimal.Decimal
+    - '1.948418'
+  - !!python/object/apply:decimal.Decimal
+    - '1.676527'
+- !!python/tuple
+  - Gregory County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.033367'
+  - !!python/object/apply:decimal.Decimal
+    - '0.756859'
+  - !!python/object/apply:decimal.Decimal
+    - '3.134174'
+  - !!python/object/apply:decimal.Decimal
+    - '2.150341'
+- !!python/tuple
+  - Wicomico County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.155367'
+  - !!python/object/apply:decimal.Decimal
+    - '1.345588'
+  - !!python/object/apply:decimal.Decimal
+    - '1.865287'
+  - !!python/object/apply:decimal.Decimal
+    - '1.269630'
+- !!python/tuple
+  - Bradford County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.919292'
+  - !!python/object/apply:decimal.Decimal
+    - '0.648210'
+  - !!python/object/apply:decimal.Decimal
+    - '2.773541'
+  - !!python/object/apply:decimal.Decimal
+    - '2.557682'
+- !!python/tuple
+  - Piute County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.770753'
+  - !!python/object/apply:decimal.Decimal
+    - '1.488768'
+  - !!python/object/apply:decimal.Decimal
+    - '3.181744'
+  - !!python/object/apply:decimal.Decimal
+    - '1.964029'
+- !!python/tuple
+  - Southampton County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.232541'
+  - !!python/object/apply:decimal.Decimal
+    - '1.057078'
+  - !!python/object/apply:decimal.Decimal
+    - '2.354977'
+  - !!python/object/apply:decimal.Decimal
+    - '2.144680'
+- !!python/tuple
+  - Olmsted County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.351860'
+  - !!python/object/apply:decimal.Decimal
+    - '0.970018'
+  - !!python/object/apply:decimal.Decimal
+    - '3.312695'
+  - !!python/object/apply:decimal.Decimal
+    - '1.190723'
+- !!python/tuple
+  - Granville County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.936519'
+  - !!python/object/apply:decimal.Decimal
+    - '0.635608'
+  - !!python/object/apply:decimal.Decimal
+    - '1.645605'
+  - !!python/object/apply:decimal.Decimal
+    - '1.359009'
+- !!python/tuple
+  - Sandoval County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.753951'
+  - !!python/object/apply:decimal.Decimal
+    - '0.932224'
+  - !!python/object/apply:decimal.Decimal
+    - '2.100025'
+  - !!python/object/apply:decimal.Decimal
+    - '2.022138'
+- !!python/tuple
+  - Dolores County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.442118'
+  - !!python/object/apply:decimal.Decimal
+    - '0.744728'
+  - !!python/object/apply:decimal.Decimal
+    - '2.237788'
+  - !!python/object/apply:decimal.Decimal
+    - '1.595344'
+- !!python/tuple
+  - Millard County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.944878'
+  - !!python/object/apply:decimal.Decimal
+    - '0.586204'
+  - !!python/object/apply:decimal.Decimal
+    - '2.659575'
+  - !!python/object/apply:decimal.Decimal
+    - '2.445946'
+- !!python/tuple
+  - Randolph County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.062920'
+  - !!python/object/apply:decimal.Decimal
+    - '0.931993'
+  - !!python/object/apply:decimal.Decimal
+    - '2.022545'
+  - !!python/object/apply:decimal.Decimal
+    - '2.003407'
+- !!python/tuple
+  - Gratiot County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.372519'
+  - !!python/object/apply:decimal.Decimal
+    - '1.193826'
+  - !!python/object/apply:decimal.Decimal
+    - '2.359802'
+  - !!python/object/apply:decimal.Decimal
+    - '1.639167'
+- !!python/tuple
+  - Caddo Parish
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.596477'
+  - !!python/object/apply:decimal.Decimal
+    - '0.625581'
+  - !!python/object/apply:decimal.Decimal
+    - '1.375187'
+  - !!python/object/apply:decimal.Decimal
+    - '1.232768'
+- !!python/tuple
+  - Scioto County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.731230'
+  - !!python/object/apply:decimal.Decimal
+    - '0.685271'
+  - !!python/object/apply:decimal.Decimal
+    - '3.500687'
+  - !!python/object/apply:decimal.Decimal
+    - '1.636951'
+- !!python/tuple
+  - Shasta County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.559410'
+  - !!python/object/apply:decimal.Decimal
+    - '0.555779'
+  - !!python/object/apply:decimal.Decimal
+    - '3.717111'
+  - !!python/object/apply:decimal.Decimal
+    - '2.007741'
+- !!python/tuple
+  - Twin Falls County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.117999'
+  - !!python/object/apply:decimal.Decimal
+    - '0.663526'
+  - !!python/object/apply:decimal.Decimal
+    - '4.615395'
+  - !!python/object/apply:decimal.Decimal
+    - '2.029443'
+- !!python/tuple
+  - Delta County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.171164'
+  - !!python/object/apply:decimal.Decimal
+    - '0.982356'
+  - !!python/object/apply:decimal.Decimal
+    - '2.101095'
+  - !!python/object/apply:decimal.Decimal
+    - '1.733919'
+- !!python/tuple
+  - Appanoose County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.158570'
+  - !!python/object/apply:decimal.Decimal
+    - '0.732372'
+  - !!python/object/apply:decimal.Decimal
+    - '2.325790'
+  - !!python/object/apply:decimal.Decimal
+    - '1.867702'
+- !!python/tuple
+  - Dixie County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.219047'
+  - !!python/object/apply:decimal.Decimal
+    - '1.103428'
+  - !!python/object/apply:decimal.Decimal
+    - '2.686962'
+  - !!python/object/apply:decimal.Decimal
+    - '1.113561'
+- !!python/tuple
+  - Bell County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.299684'
+  - !!python/object/apply:decimal.Decimal
+    - '1.151764'
+  - !!python/object/apply:decimal.Decimal
+    - '1.883968'
+  - !!python/object/apply:decimal.Decimal
+    - '1.822917'
+- !!python/tuple
+  - McCracken County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.647297'
+  - !!python/object/apply:decimal.Decimal
+    - '1.420078'
+  - !!python/object/apply:decimal.Decimal
+    - '2.022410'
+  - !!python/object/apply:decimal.Decimal
+    - '1.485423'
+- !!python/tuple
+  - Rice County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.690245'
+  - !!python/object/apply:decimal.Decimal
+    - '0.893391'
+  - !!python/object/apply:decimal.Decimal
+    - '1.942937'
+  - !!python/object/apply:decimal.Decimal
+    - '1.884575'
+- !!python/tuple
+  - Ida County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.234707'
+  - !!python/object/apply:decimal.Decimal
+    - '0.761536'
+  - !!python/object/apply:decimal.Decimal
+    - '3.741896'
+  - !!python/object/apply:decimal.Decimal
+    - '1.866200'
+- !!python/tuple
+  - Crowley County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '3.899729'
+  - !!python/object/apply:decimal.Decimal
+    - '1.439728'
+  - !!python/object/apply:decimal.Decimal
+    - '2.407527'
+  - !!python/object/apply:decimal.Decimal
+    - '1.277512'
+- !!python/tuple
+  - Hodgeman County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.985620'
+  - !!python/object/apply:decimal.Decimal
+    - '1.213892'
+  - !!python/object/apply:decimal.Decimal
+    - '2.308307'
+  - !!python/object/apply:decimal.Decimal
+    - '1.602482'
+- !!python/tuple
+  - Collin County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.434143'
+  - !!python/object/apply:decimal.Decimal
+    - '0.761701'
+  - !!python/object/apply:decimal.Decimal
+    - '2.355873'
+  - !!python/object/apply:decimal.Decimal
+    - '2.189085'
+- !!python/tuple
+  - San Benito County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.298564'
+  - !!python/object/apply:decimal.Decimal
+    - '1.040864'
+  - !!python/object/apply:decimal.Decimal
+    - '2.218759'
+  - !!python/object/apply:decimal.Decimal
+    - '1.695685'
+- !!python/tuple
+  - Cabarrus County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.199348'
+  - !!python/object/apply:decimal.Decimal
+    - '1.135932'
+  - !!python/object/apply:decimal.Decimal
+    - '2.041027'
+  - !!python/object/apply:decimal.Decimal
+    - '1.500623'
+- !!python/tuple
+  - Hitchcock County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.965430'
+  - !!python/object/apply:decimal.Decimal
+    - '1.410941'
+  - !!python/object/apply:decimal.Decimal
+    - '1.976243'
+  - !!python/object/apply:decimal.Decimal
+    - '1.552941'
+- !!python/tuple
+  - Hopewell city
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.819531'
+  - !!python/object/apply:decimal.Decimal
+    - '0.624705'
+  - !!python/object/apply:decimal.Decimal
+    - '2.931571'
+  - !!python/object/apply:decimal.Decimal
+    - '1.894708'
+- !!python/tuple
+  - La Plata County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.090811'
+  - !!python/object/apply:decimal.Decimal
+    - '1.330902'
+  - !!python/object/apply:decimal.Decimal
+    - '2.043340'
+  - !!python/object/apply:decimal.Decimal
+    - '1.787903'
+- !!python/tuple
+  - Ripley County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.764325'
+  - !!python/object/apply:decimal.Decimal
+    - '1.016146'
+  - !!python/object/apply:decimal.Decimal
+    - '1.837809'
+  - !!python/object/apply:decimal.Decimal
+    - '1.649779'
+- !!python/tuple
+  - Ravalli County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.230354'
+  - !!python/object/apply:decimal.Decimal
+    - '0.724100'
+  - !!python/object/apply:decimal.Decimal
+    - '2.233070'
+  - !!python/object/apply:decimal.Decimal
+    - '1.599913'
+- !!python/tuple
+  - Orleans Parish
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.953603'
+  - !!python/object/apply:decimal.Decimal
+    - '0.878730'
+  - !!python/object/apply:decimal.Decimal
+    - '1.767075'
+  - !!python/object/apply:decimal.Decimal
+    - '1.585792'
+- !!python/tuple
+  - De Kalb County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.627273'
+  - !!python/object/apply:decimal.Decimal
+    - '0.902597'
+  - !!python/object/apply:decimal.Decimal
+    - '2.619767'
+  - !!python/object/apply:decimal.Decimal
+    - '1.579136'
+- !!python/tuple
+  - Chemung County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.323459'
+  - !!python/object/apply:decimal.Decimal
+    - '1.189886'
+  - !!python/object/apply:decimal.Decimal
+    - '1.406040'
+  - !!python/object/apply:decimal.Decimal
+    - '1.344877'
+- !!python/tuple
+  - Yukon-Koyukuk Census Area
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.763677'
+  - !!python/object/apply:decimal.Decimal
+    - '0.562746'
+  - !!python/object/apply:decimal.Decimal
+    - '4.109262'
+  - !!python/object/apply:decimal.Decimal
+    - '2.756178'
+- !!python/tuple
+  - Mayes County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.774768'
+  - !!python/object/apply:decimal.Decimal
+    - '0.731772'
+  - !!python/object/apply:decimal.Decimal
+    - '3.284425'
+  - !!python/object/apply:decimal.Decimal
+    - '2.123126'
+- !!python/tuple
+  - Nantucket County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.860645'
+  - !!python/object/apply:decimal.Decimal
+    - '1.418179'
+  - !!python/object/apply:decimal.Decimal
+    - '1.692213'
+  - !!python/object/apply:decimal.Decimal
+    - '1.490394'
+- !!python/tuple
+  - Huerfano County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.954317'
+  - !!python/object/apply:decimal.Decimal
+    - '0.539251'
+  - !!python/object/apply:decimal.Decimal
+    - '2.507992'
+  - !!python/object/apply:decimal.Decimal
+    - '1.784527'
+- !!python/tuple
+  - Brookings County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.191469'
+  - !!python/object/apply:decimal.Decimal
+    - '0.923060'
+  - !!python/object/apply:decimal.Decimal
+    - '1.987381'
+  - !!python/object/apply:decimal.Decimal
+    - '1.345576'
+- !!python/tuple
+  - Erath County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.097249'
+  - !!python/object/apply:decimal.Decimal
+    - '0.873149'
+  - !!python/object/apply:decimal.Decimal
+    - '1.946301'
+  - !!python/object/apply:decimal.Decimal
+    - '1.680019'
+- !!python/tuple
+  - Loudon County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.375752'
+  - !!python/object/apply:decimal.Decimal
+    - '1.292891'
+  - !!python/object/apply:decimal.Decimal
+    - '2.518146'
+  - !!python/object/apply:decimal.Decimal
+    - '0.652328'
+- !!python/tuple
+  - Nuckolls County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.478998'
+  - !!python/object/apply:decimal.Decimal
+    - '0.869316'
+  - !!python/object/apply:decimal.Decimal
+    - '2.220465'
+  - !!python/object/apply:decimal.Decimal
+    - '2.025249'
+- !!python/tuple
+  - Wapello County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.811195'
+  - !!python/object/apply:decimal.Decimal
+    - '0.593413'
+  - !!python/object/apply:decimal.Decimal
+    - '2.149939'
+  - !!python/object/apply:decimal.Decimal
+    - '1.845999'
+- !!python/tuple
+  - Calloway County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.481385'
+  - !!python/object/apply:decimal.Decimal
+    - '1.041449'
+  - !!python/object/apply:decimal.Decimal
+    - '2.089461'
+  - !!python/object/apply:decimal.Decimal
+    - '1.629259'
+- !!python/tuple
+  - Walker County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.232809'
+  - !!python/object/apply:decimal.Decimal
+    - '1.147273'
+  - !!python/object/apply:decimal.Decimal
+    - '1.740343'
+  - !!python/object/apply:decimal.Decimal
+    - '1.296504'
+- !!python/tuple
+  - Holt County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.886033'
+  - !!python/object/apply:decimal.Decimal
+    - '0.691833'
+  - !!python/object/apply:decimal.Decimal
+    - '2.766248'
+  - !!python/object/apply:decimal.Decimal
+    - '2.269629'
+- !!python/tuple
+  - Ogemaw County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.801174'
+  - !!python/object/apply:decimal.Decimal
+    - '0.649940'
+  - !!python/object/apply:decimal.Decimal
+    - '3.350232'
+  - !!python/object/apply:decimal.Decimal
+    - '1.483197'
+- !!python/tuple
+  - Elliott County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.000965'
+  - !!python/object/apply:decimal.Decimal
+    - '1.482110'
+  - !!python/object/apply:decimal.Decimal
+    - '2.262219'
+  - !!python/object/apply:decimal.Decimal
+    - '1.536733'
+- !!python/tuple
+  - Harris County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.184793'
+  - !!python/object/apply:decimal.Decimal
+    - '0.945568'
+  - !!python/object/apply:decimal.Decimal
+    - '2.570610'
+  - !!python/object/apply:decimal.Decimal
+    - '1.938477'
+- !!python/tuple
+  - Catoosa County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.585911'
+  - !!python/object/apply:decimal.Decimal
+    - '1.331841'
+  - !!python/object/apply:decimal.Decimal
+    - '4.987049'
+  - !!python/object/apply:decimal.Decimal
+    - '1.164029'
+- !!python/tuple
+  - Tift County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.242901'
+  - !!python/object/apply:decimal.Decimal
+    - '1.207537'
+  - !!python/object/apply:decimal.Decimal
+    - '2.138471'
+  - !!python/object/apply:decimal.Decimal
+    - '1.395186'
+- !!python/tuple
+  - Upson County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.547506'
+  - !!python/object/apply:decimal.Decimal
+    - '0.593375'
+  - !!python/object/apply:decimal.Decimal
+    - '2.204824'
+  - !!python/object/apply:decimal.Decimal
+    - '1.912213'
+- !!python/tuple
+  - Cheshire County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.894852'
+  - !!python/object/apply:decimal.Decimal
+    - '0.771520'
+  - !!python/object/apply:decimal.Decimal
+    - '2.345098'
+  - !!python/object/apply:decimal.Decimal
+    - '1.945091'
+- !!python/tuple
+  - Calvert County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.869815'
+  - !!python/object/apply:decimal.Decimal
+    - '0.916110'
+  - !!python/object/apply:decimal.Decimal
+    - '1.926179'
+  - !!python/object/apply:decimal.Decimal
+    - '1.193377'
+- !!python/tuple
+  - Lake of the Woods County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.293126'
+  - !!python/object/apply:decimal.Decimal
+    - '0.578517'
+  - !!python/object/apply:decimal.Decimal
+    - '3.154304'
+  - !!python/object/apply:decimal.Decimal
+    - '2.574874'
+- !!python/tuple
+  - Mahaska County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.691603'
+  - !!python/object/apply:decimal.Decimal
+    - '0.689062'
+  - !!python/object/apply:decimal.Decimal
+    - '2.730445'
+  - !!python/object/apply:decimal.Decimal
+    - '2.196582'
+- !!python/tuple
+  - McMinn County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.105635'
+  - !!python/object/apply:decimal.Decimal
+    - '0.963732'
+  - !!python/object/apply:decimal.Decimal
+    - '1.795254'
+  - !!python/object/apply:decimal.Decimal
+    - '1.578439'
+- !!python/tuple
+  - Haakon County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.053253'
+  - !!python/object/apply:decimal.Decimal
+    - '0.715619'
+  - !!python/object/apply:decimal.Decimal
+    - '3.082988'
+  - !!python/object/apply:decimal.Decimal
+    - '1.691517'
+- !!python/tuple
+  - Uvalde County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '6.937944'
+  - !!python/object/apply:decimal.Decimal
+    - '1.687994'
+  - !!python/object/apply:decimal.Decimal
+    - '1.501971'
+  - !!python/object/apply:decimal.Decimal
+    - '1.407695'
+- !!python/tuple
+  - Callahan County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.609424'
+  - !!python/object/apply:decimal.Decimal
+    - '0.653516'
+  - !!python/object/apply:decimal.Decimal
+    - '3.788854'
+  - !!python/object/apply:decimal.Decimal
+    - '1.242054'
+- !!python/tuple
+  - Contra Costa County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.910548'
+  - !!python/object/apply:decimal.Decimal
+    - '1.126604'
+  - !!python/object/apply:decimal.Decimal
+    - '1.684563'
+  - !!python/object/apply:decimal.Decimal
+    - '1.196796'
+- !!python/tuple
+  - Slope County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.905966'
+  - !!python/object/apply:decimal.Decimal
+    - '0.892290'
+  - !!python/object/apply:decimal.Decimal
+    - '2.037101'
+  - !!python/object/apply:decimal.Decimal
+    - '1.101293'
+- !!python/tuple
+  - Coke County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.680504'
+  - !!python/object/apply:decimal.Decimal
+    - '1.447283'
+  - !!python/object/apply:decimal.Decimal
+    - '1.341904'
+  - !!python/object/apply:decimal.Decimal
+    - '1.161209'
+- !!python/tuple
+  - Pasco County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.588155'
+  - !!python/object/apply:decimal.Decimal
+    - '0.926555'
+  - !!python/object/apply:decimal.Decimal
+    - '2.662919'
+  - !!python/object/apply:decimal.Decimal
+    - '1.938896'
+- !!python/tuple
+  - Uintah County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.289892'
+  - !!python/object/apply:decimal.Decimal
+    - '0.856591'
+  - !!python/object/apply:decimal.Decimal
+    - '2.620495'
+  - !!python/object/apply:decimal.Decimal
+    - '1.653940'
+- !!python/tuple
+  - Ozark County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.477685'
+  - !!python/object/apply:decimal.Decimal
+    - '1.062433'
+  - !!python/object/apply:decimal.Decimal
+    - '1.667812'
+  - !!python/object/apply:decimal.Decimal
+    - '1.169280'
+- !!python/tuple
+  - Esmeralda County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.951590'
+  - !!python/object/apply:decimal.Decimal
+    - '0.995772'
+  - !!python/object/apply:decimal.Decimal
+    - '2.234388'
+  - !!python/object/apply:decimal.Decimal
+    - '1.694142'
+- !!python/tuple
+  - Roseau County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.295529'
+  - !!python/object/apply:decimal.Decimal
+    - '0.623413'
+  - !!python/object/apply:decimal.Decimal
+    - '2.550306'
+  - !!python/object/apply:decimal.Decimal
+    - '1.766780'
+- !!python/tuple
+  - Chesterfield County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.837886'
+  - !!python/object/apply:decimal.Decimal
+    - '0.817756'
+  - !!python/object/apply:decimal.Decimal
+    - '3.585581'
+  - !!python/object/apply:decimal.Decimal
+    - '2.196882'
+- !!python/tuple
+  - Broome County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.119186'
+  - !!python/object/apply:decimal.Decimal
+    - '0.991218'
+  - !!python/object/apply:decimal.Decimal
+    - '2.867749'
+  - !!python/object/apply:decimal.Decimal
+    - '1.108708'
+- !!python/tuple
+  - Camas County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.648916'
+  - !!python/object/apply:decimal.Decimal
+    - '1.268019'
+  - !!python/object/apply:decimal.Decimal
+    - '1.305862'
+  - !!python/object/apply:decimal.Decimal
+    - '1.140672'
+- !!python/tuple
+  - Saunders County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.378216'
+  - !!python/object/apply:decimal.Decimal
+    - '1.144166'
+  - !!python/object/apply:decimal.Decimal
+    - '2.526942'
+  - !!python/object/apply:decimal.Decimal
+    - '1.426666'
+- !!python/tuple
+  - Palm Beach County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.818017'
+  - !!python/object/apply:decimal.Decimal
+    - '0.787105'
+  - !!python/object/apply:decimal.Decimal
+    - '2.824553'
+  - !!python/object/apply:decimal.Decimal
+    - '1.857622'
+- !!python/tuple
+  - Travis County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.022366'
+  - !!python/object/apply:decimal.Decimal
+    - '0.497498'
+  - !!python/object/apply:decimal.Decimal
+    - '3.864687'
+  - !!python/object/apply:decimal.Decimal
+    - '2.037374'
+- !!python/tuple
+  - Corson County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '9.042456'
+  - !!python/object/apply:decimal.Decimal
+    - '1.313182'
+  - !!python/object/apply:decimal.Decimal
+    - '1.750759'
+  - !!python/object/apply:decimal.Decimal
+    - '0.963408'
+- !!python/tuple
+  - Towns County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.703812'
+  - !!python/object/apply:decimal.Decimal
+    - '0.907700'
+  - !!python/object/apply:decimal.Decimal
+    - '2.125557'
+  - !!python/object/apply:decimal.Decimal
+    - '1.556552'
+- !!python/tuple
+  - Valdez-Cordova Census Area
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.186745'
+  - !!python/object/apply:decimal.Decimal
+    - '0.686403'
+  - !!python/object/apply:decimal.Decimal
+    - '2.259700'
+  - !!python/object/apply:decimal.Decimal
+    - '1.801323'
+- !!python/tuple
+  - Stark County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.938688'
+  - !!python/object/apply:decimal.Decimal
+    - '0.772628'
+  - !!python/object/apply:decimal.Decimal
+    - '2.508354'
+  - !!python/object/apply:decimal.Decimal
+    - '2.403493'
+- !!python/tuple
+  - New York County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.367264'
+  - !!python/object/apply:decimal.Decimal
+    - '0.313181'
+  - !!python/object/apply:decimal.Decimal
+    - '5.157922'
+  - !!python/object/apply:decimal.Decimal
+    - '3.340590'
+- !!python/tuple
+  - Loup County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.710737'
+  - !!python/object/apply:decimal.Decimal
+    - '0.492835'
+  - !!python/object/apply:decimal.Decimal
+    - '5.061521'
+  - !!python/object/apply:decimal.Decimal
+    - '2.406410'
+- !!python/tuple
+  - Sutter County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.101265'
+  - !!python/object/apply:decimal.Decimal
+    - '0.981028'
+  - !!python/object/apply:decimal.Decimal
+    - '2.232233'
+  - !!python/object/apply:decimal.Decimal
+    - '1.937527'
+- !!python/tuple
+  - Stephens County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.266033'
+  - !!python/object/apply:decimal.Decimal
+    - '1.195895'
+  - !!python/object/apply:decimal.Decimal
+    - '1.853262'
+  - !!python/object/apply:decimal.Decimal
+    - '1.738454'
+- !!python/tuple
+  - Shoshone County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.981248'
+  - !!python/object/apply:decimal.Decimal
+    - '0.907289'
+  - !!python/object/apply:decimal.Decimal
+    - '2.476129'
+  - !!python/object/apply:decimal.Decimal
+    - '1.472455'
+- !!python/tuple
+  - Alcorn County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.886196'
+  - !!python/object/apply:decimal.Decimal
+    - '1.180534'
+  - !!python/object/apply:decimal.Decimal
+    - '1.954557'
+  - !!python/object/apply:decimal.Decimal
+    - '1.805140'
+- !!python/tuple
+  - Yellowstone County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.535649'
+  - !!python/object/apply:decimal.Decimal
+    - '1.481290'
+  - !!python/object/apply:decimal.Decimal
+    - '3.134267'
+  - !!python/object/apply:decimal.Decimal
+    - '0.909779'
+- !!python/tuple
+  - Dakota County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.798947'
+  - !!python/object/apply:decimal.Decimal
+    - '0.973469'
+  - !!python/object/apply:decimal.Decimal
+    - '1.370146'
+  - !!python/object/apply:decimal.Decimal
+    - '1.247851'
+- !!python/tuple
+  - Juab County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.342191'
+  - !!python/object/apply:decimal.Decimal
+    - '0.811303'
+  - !!python/object/apply:decimal.Decimal
+    - '1.575530'
+  - !!python/object/apply:decimal.Decimal
+    - '1.309955'
+- !!python/tuple
+  - Roscommon County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.893482'
+  - !!python/object/apply:decimal.Decimal
+    - '0.871091'
+  - !!python/object/apply:decimal.Decimal
+    - '2.902619'
+  - !!python/object/apply:decimal.Decimal
+    - '2.790443'
+- !!python/tuple
+  - McDonald County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.619898'
+  - !!python/object/apply:decimal.Decimal
+    - '1.450071'
+  - !!python/object/apply:decimal.Decimal
+    - '1.804424'
+  - !!python/object/apply:decimal.Decimal
+    - '1.756814'
+- !!python/tuple
+  - Meigs County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.846933'
+  - !!python/object/apply:decimal.Decimal
+    - '0.819911'
+  - !!python/object/apply:decimal.Decimal
+    - '2.516093'
+  - !!python/object/apply:decimal.Decimal
+    - '2.237269'
+- !!python/tuple
+  - Okfuskee County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.675137'
+  - !!python/object/apply:decimal.Decimal
+    - '1.491893'
+  - !!python/object/apply:decimal.Decimal
+    - '2.274433'
+  - !!python/object/apply:decimal.Decimal
+    - '0.812304'
+- !!python/tuple
+  - Marinette County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.910680'
+  - !!python/object/apply:decimal.Decimal
+    - '0.830286'
+  - !!python/object/apply:decimal.Decimal
+    - '3.786242'
+  - !!python/object/apply:decimal.Decimal
+    - '1.421628'
+- !!python/tuple
+  - Zavala County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.255161'
+  - !!python/object/apply:decimal.Decimal
+    - '0.705065'
+  - !!python/object/apply:decimal.Decimal
+    - '3.672147'
+  - !!python/object/apply:decimal.Decimal
+    - '2.890816'
+- !!python/tuple
+  - Washakie County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.540992'
+  - !!python/object/apply:decimal.Decimal
+    - '0.738013'
+  - !!python/object/apply:decimal.Decimal
+    - '1.573904'
+  - !!python/object/apply:decimal.Decimal
+    - '1.323413'
+- !!python/tuple
+  - Overton County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '4.414096'
+  - !!python/object/apply:decimal.Decimal
+    - '1.241459'
+  - !!python/object/apply:decimal.Decimal
+    - '4.032482'
+  - !!python/object/apply:decimal.Decimal
+    - '1.198218'
+- !!python/tuple
+  - Live Oak County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '3.908376'
+  - !!python/object/apply:decimal.Decimal
+    - '1.070984'
+  - !!python/object/apply:decimal.Decimal
+    - '2.722226'
+  - !!python/object/apply:decimal.Decimal
+    - '1.818379'
+- !!python/tuple
+  - Mason County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.463985'
+  - !!python/object/apply:decimal.Decimal
+    - '0.906532'
+  - !!python/object/apply:decimal.Decimal
+    - '2.129280'
+  - !!python/object/apply:decimal.Decimal
+    - '2.036195'
+- !!python/tuple
+  - Le Flore County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.611784'
+  - !!python/object/apply:decimal.Decimal
+    - '1.023287'
+  - !!python/object/apply:decimal.Decimal
+    - '2.123255'
+  - !!python/object/apply:decimal.Decimal
+    - '1.697713'
+- !!python/tuple
+  - Citrus County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.120380'
+  - !!python/object/apply:decimal.Decimal
+    - '0.589814'
+  - !!python/object/apply:decimal.Decimal
+    - '2.174996'
+  - !!python/object/apply:decimal.Decimal
+    - '1.758467'
+- !!python/tuple
+  - Alger County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.290656'
+  - !!python/object/apply:decimal.Decimal
+    - '1.088254'
+  - !!python/object/apply:decimal.Decimal
+    - '1.806043'
+  - !!python/object/apply:decimal.Decimal
+    - '1.655903'
+- !!python/tuple
+  - Nez Perce County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.331452'
+  - !!python/object/apply:decimal.Decimal
+    - '0.625384'
+  - !!python/object/apply:decimal.Decimal
+    - '3.014626'
+  - !!python/object/apply:decimal.Decimal
+    - '2.603331'
+- !!python/tuple
+  - Griggs County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.662932'
+  - !!python/object/apply:decimal.Decimal
+    - '0.658373'
+  - !!python/object/apply:decimal.Decimal
+    - '2.728054'
+  - !!python/object/apply:decimal.Decimal
+    - '2.632199'
+- !!python/tuple
+  - Audrain County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '8.346590'
+  - !!python/object/apply:decimal.Decimal
+    - '0.793686'
+  - !!python/object/apply:decimal.Decimal
+    - '2.676866'
+  - !!python/object/apply:decimal.Decimal
+    - '2.399563'
+- !!python/tuple
+  - Schoolcraft County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.974942'
+  - !!python/object/apply:decimal.Decimal
+    - '0.923387'
+  - !!python/object/apply:decimal.Decimal
+    - '3.166293'
+  - !!python/object/apply:decimal.Decimal
+    - '2.488938'
+- !!python/tuple
+  - Bronx County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.378898'
+  - !!python/object/apply:decimal.Decimal
+    - '1.241748'
+  - !!python/object/apply:decimal.Decimal
+    - '2.515891'
+  - !!python/object/apply:decimal.Decimal
+    - '1.034675'
+- !!python/tuple
+  - Leon County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.758836'
+  - !!python/object/apply:decimal.Decimal
+    - '1.404102'
+  - !!python/object/apply:decimal.Decimal
+    - '2.112991'
+  - !!python/object/apply:decimal.Decimal
+    - '1.581248'
+- !!python/tuple
+  - Martin County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.027633'
+  - !!python/object/apply:decimal.Decimal
+    - '0.904171'
+  - !!python/object/apply:decimal.Decimal
+    - '2.128504'
+  - !!python/object/apply:decimal.Decimal
+    - '1.972039'
+- !!python/tuple
+  - Ben Hill County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '3.503757'
+  - !!python/object/apply:decimal.Decimal
+    - '1.204328'
+  - !!python/object/apply:decimal.Decimal
+    - '4.448564'
+  - !!python/object/apply:decimal.Decimal
+    - '1.659679'
+- !!python/tuple
+  - Ramsey County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.142605'
+  - !!python/object/apply:decimal.Decimal
+    - '0.666895'
+  - !!python/object/apply:decimal.Decimal
+    - '2.119080'
+  - !!python/object/apply:decimal.Decimal
+    - '2.022944'
+- !!python/tuple
+  - Bourbon County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.311725'
+  - !!python/object/apply:decimal.Decimal
+    - '1.261663'
+  - !!python/object/apply:decimal.Decimal
+    - '1.473412'
+  - !!python/object/apply:decimal.Decimal
+    - '0.897407'
+- !!python/tuple
+  - Wood County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.894044'
+  - !!python/object/apply:decimal.Decimal
+    - '0.843675'
+  - !!python/object/apply:decimal.Decimal
+    - '1.953006'
+  - !!python/object/apply:decimal.Decimal
+    - '1.782336'
+- !!python/tuple
+  - Marengo County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.290128'
+  - !!python/object/apply:decimal.Decimal
+    - '0.912318'
+  - !!python/object/apply:decimal.Decimal
+    - '2.263173'
+  - !!python/object/apply:decimal.Decimal
+    - '1.079926'
+- !!python/tuple
+  - Pecos County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.153158'
+  - !!python/object/apply:decimal.Decimal
+    - '1.115479'
+  - !!python/object/apply:decimal.Decimal
+    - '2.141268'
+  - !!python/object/apply:decimal.Decimal
+    - '1.852698'
+- !!python/tuple
+  - King William County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '4.107930'
+  - !!python/object/apply:decimal.Decimal
+    - '0.915736'
+  - !!python/object/apply:decimal.Decimal
+    - '2.166749'
+  - !!python/object/apply:decimal.Decimal
+    - '1.780320'
+- !!python/tuple
+  - Rock Island County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.223472'
+  - !!python/object/apply:decimal.Decimal
+    - '1.007556'
+  - !!python/object/apply:decimal.Decimal
+    - '2.733395'
+  - !!python/object/apply:decimal.Decimal
+    - '2.076209'
+- !!python/tuple
+  - Allen County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.383660'
+  - !!python/object/apply:decimal.Decimal
+    - '1.019390'
+  - !!python/object/apply:decimal.Decimal
+    - '2.127248'
+  - !!python/object/apply:decimal.Decimal
+    - '1.627937'
+- !!python/tuple
+  - Socorro County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.007009'
+  - !!python/object/apply:decimal.Decimal
+    - '0.906618'
+  - !!python/object/apply:decimal.Decimal
+    - '1.998406'
+  - !!python/object/apply:decimal.Decimal
+    - '1.525761'
+- !!python/tuple
+  - Barnes County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.162728'
+  - !!python/object/apply:decimal.Decimal
+    - '0.681204'
+  - !!python/object/apply:decimal.Decimal
+    - '2.931818'
+  - !!python/object/apply:decimal.Decimal
+    - '2.197399'
+- !!python/tuple
+  - Coffee County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.215639'
+  - !!python/object/apply:decimal.Decimal
+    - '0.860874'
+  - !!python/object/apply:decimal.Decimal
+    - '1.769650'
+  - !!python/object/apply:decimal.Decimal
+    - '1.763863'
+- !!python/tuple
+  - Bienville Parish
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.948098'
+  - !!python/object/apply:decimal.Decimal
+    - '0.628980'
+  - !!python/object/apply:decimal.Decimal
+    - '2.189927'
+  - !!python/object/apply:decimal.Decimal
+    - '1.679374'
+- !!python/tuple
+  - Suffolk County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.476440'
+  - !!python/object/apply:decimal.Decimal
+    - '0.926224'
+  - !!python/object/apply:decimal.Decimal
+    - '1.849486'
+  - !!python/object/apply:decimal.Decimal
+    - '1.664365'
+- !!python/tuple
+  - Bandera County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.778101'
+  - !!python/object/apply:decimal.Decimal
+    - '1.289166'
+  - !!python/object/apply:decimal.Decimal
+    - '1.591155'
+  - !!python/object/apply:decimal.Decimal
+    - '1.343993'
+- !!python/tuple
+  - Larimer County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.747444'
+  - !!python/object/apply:decimal.Decimal
+    - '0.861407'
+  - !!python/object/apply:decimal.Decimal
+    - '1.765829'
+  - !!python/object/apply:decimal.Decimal
+    - '1.549337'
+- !!python/tuple
+  - Midland County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.314478'
+  - !!python/object/apply:decimal.Decimal
+    - '1.001466'
+  - !!python/object/apply:decimal.Decimal
+    - '1.876856'
+  - !!python/object/apply:decimal.Decimal
+    - '1.738679'
+- !!python/tuple
+  - Cullman County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.176860'
+  - !!python/object/apply:decimal.Decimal
+    - '0.926958'
+  - !!python/object/apply:decimal.Decimal
+    - '4.199217'
+  - !!python/object/apply:decimal.Decimal
+    - '2.083830'
+- !!python/tuple
+  - Grand Isle County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.030740'
+  - !!python/object/apply:decimal.Decimal
+    - '0.735576'
+  - !!python/object/apply:decimal.Decimal
+    - '2.201184'
+  - !!python/object/apply:decimal.Decimal
+    - '1.828547'
+- !!python/tuple
+  - Bath County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.895553'
+  - !!python/object/apply:decimal.Decimal
+    - '1.161372'
+  - !!python/object/apply:decimal.Decimal
+    - '1.873608'
+  - !!python/object/apply:decimal.Decimal
+    - '1.558038'
+- !!python/tuple
+  - Colonial Heights city
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.576987'
+  - !!python/object/apply:decimal.Decimal
+    - '1.364443'
+  - !!python/object/apply:decimal.Decimal
+    - '1.550032'
+  - !!python/object/apply:decimal.Decimal
+    - '1.474310'
+- !!python/tuple
+  - Creek County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.825634'
+  - !!python/object/apply:decimal.Decimal
+    - '0.689196'
+  - !!python/object/apply:decimal.Decimal
+    - '5.866498'
+  - !!python/object/apply:decimal.Decimal
+    - '1.909214'
+- !!python/tuple
+  - Geauga County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.083134'
+  - !!python/object/apply:decimal.Decimal
+    - '1.164560'
+  - !!python/object/apply:decimal.Decimal
+    - '2.338842'
+  - !!python/object/apply:decimal.Decimal
+    - '1.881782'
+- !!python/tuple
+  - Chilton County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.465059'
+  - !!python/object/apply:decimal.Decimal
+    - '1.213587'
+  - !!python/object/apply:decimal.Decimal
+    - '2.953517'
+  - !!python/object/apply:decimal.Decimal
+    - '1.065256'
+- !!python/tuple
+  - Prince George County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.196992'
+  - !!python/object/apply:decimal.Decimal
+    - '1.165218'
+  - !!python/object/apply:decimal.Decimal
+    - '3.165237'
+  - !!python/object/apply:decimal.Decimal
+    - '1.215235'
+- !!python/tuple
+  - Sheboygan County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.079090'
+  - !!python/object/apply:decimal.Decimal
+    - '0.871675'
+  - !!python/object/apply:decimal.Decimal
+    - '10.350315'
+  - !!python/object/apply:decimal.Decimal
+    - '3.130578'
+- !!python/tuple
+  - Habersham County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.837763'
+  - !!python/object/apply:decimal.Decimal
+    - '1.774319'
+  - !!python/object/apply:decimal.Decimal
+    - '1.773125'
+  - !!python/object/apply:decimal.Decimal
+    - '1.002696'
+- !!python/tuple
+  - Fairfax city
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.509896'
+  - !!python/object/apply:decimal.Decimal
+    - '1.317315'
+  - !!python/object/apply:decimal.Decimal
+    - '2.184008'
+  - !!python/object/apply:decimal.Decimal
+    - '1.564776'
+- !!python/tuple
+  - Portsmouth city
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.957922'
+  - !!python/object/apply:decimal.Decimal
+    - '0.779601'
+  - !!python/object/apply:decimal.Decimal
+    - '5.781937'
+  - !!python/object/apply:decimal.Decimal
+    - '2.189894'
+- !!python/tuple
+  - Wilkin County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.816257'
+  - !!python/object/apply:decimal.Decimal
+    - '0.693228'
+  - !!python/object/apply:decimal.Decimal
+    - '8.976198'
+  - !!python/object/apply:decimal.Decimal
+    - '2.091548'
+- !!python/tuple
+  - Dallas County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.840427'
+  - !!python/object/apply:decimal.Decimal
+    - '0.829425'
+  - !!python/object/apply:decimal.Decimal
+    - '2.065281'
+  - !!python/object/apply:decimal.Decimal
+    - '1.931415'
+- !!python/tuple
+  - Assumption Parish
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.730486'
+  - !!python/object/apply:decimal.Decimal
+    - '0.638926'
+  - !!python/object/apply:decimal.Decimal
+    - '6.820897'
+  - !!python/object/apply:decimal.Decimal
+    - '2.036096'
+- !!python/tuple
+  - Hancock County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.936145'
+  - !!python/object/apply:decimal.Decimal
+    - '0.926985'
+  - !!python/object/apply:decimal.Decimal
+    - '1.980717'
+  - !!python/object/apply:decimal.Decimal
+    - '1.809955'
+- !!python/tuple
+  - Natchitoches Parish
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.966965'
+  - !!python/object/apply:decimal.Decimal
+    - '0.922916'
+  - !!python/object/apply:decimal.Decimal
+    - '1.741095'
+  - !!python/object/apply:decimal.Decimal
+    - '1.627098'
+- !!python/tuple
+  - Hooker County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.492934'
+  - !!python/object/apply:decimal.Decimal
+    - '0.556518'
+  - !!python/object/apply:decimal.Decimal
+    - '2.257610'
+  - !!python/object/apply:decimal.Decimal
+    - '1.922896'
+- !!python/tuple
+  - McIntosh County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.141344'
+  - !!python/object/apply:decimal.Decimal
+    - '0.784782'
+  - !!python/object/apply:decimal.Decimal
+    - '1.935502'
+  - !!python/object/apply:decimal.Decimal
+    - '1.560865'
+- !!python/tuple
+  - ''
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.010925'
+  - !!python/object/apply:decimal.Decimal
+    - '0.921659'
+  - !!python/object/apply:decimal.Decimal
+    - '2.062265'
+  - !!python/object/apply:decimal.Decimal
+    - '1.860947'
+- !!python/tuple
+  - Gage County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.165564'
+  - !!python/object/apply:decimal.Decimal
+    - '1.069582'
+  - !!python/object/apply:decimal.Decimal
+    - '2.388043'
+  - !!python/object/apply:decimal.Decimal
+    - '1.240482'
+- !!python/tuple
+  - Fairfax County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.846644'
+  - !!python/object/apply:decimal.Decimal
+    - '0.689736'
+  - !!python/object/apply:decimal.Decimal
+    - '3.362477'
+  - !!python/object/apply:decimal.Decimal
+    - '1.812774'
+- !!python/tuple
+  - Los Alamos County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.199897'
+  - !!python/object/apply:decimal.Decimal
+    - '0.919628'
+  - !!python/object/apply:decimal.Decimal
+    - '1.844445'
+  - !!python/object/apply:decimal.Decimal
+    - '1.741004'
+- !!python/tuple
+  - Dickinson County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.546889'
+  - !!python/object/apply:decimal.Decimal
+    - '0.974669'
+  - !!python/object/apply:decimal.Decimal
+    - '1.708278'
+  - !!python/object/apply:decimal.Decimal
+    - '1.425432'
+- !!python/tuple
+  - Missoula County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.810563'
+  - !!python/object/apply:decimal.Decimal
+    - '1.347556'
+  - !!python/object/apply:decimal.Decimal
+    - '1.799361'
+  - !!python/object/apply:decimal.Decimal
+    - '1.350833'
+- !!python/tuple
+  - Saratoga County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.906585'
+  - !!python/object/apply:decimal.Decimal
+    - '0.647493'
+  - !!python/object/apply:decimal.Decimal
+    - '2.893860'
+  - !!python/object/apply:decimal.Decimal
+    - '2.330924'
+- !!python/tuple
+  - Spokane County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '3.221949'
+  - !!python/object/apply:decimal.Decimal
+    - '0.695894'
+  - !!python/object/apply:decimal.Decimal
+    - '2.748723'
+  - !!python/object/apply:decimal.Decimal
+    - '2.359075'
+- !!python/tuple
+  - Owyhee County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.577348'
+  - !!python/object/apply:decimal.Decimal
+    - '0.920270'
+  - !!python/object/apply:decimal.Decimal
+    - '2.455411'
+  - !!python/object/apply:decimal.Decimal
+    - '1.809296'
+- !!python/tuple
+  - Norfolk city
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.908660'
+  - !!python/object/apply:decimal.Decimal
+    - '0.644502'
+  - !!python/object/apply:decimal.Decimal
+    - '1.536179'
+  - !!python/object/apply:decimal.Decimal
+    - '1.469426'
+- !!python/tuple
+  - Borden County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.895404'
+  - !!python/object/apply:decimal.Decimal
+    - '1.469727'
+  - !!python/object/apply:decimal.Decimal
+    - '2.317078'
+  - !!python/object/apply:decimal.Decimal
+    - '1.665766'
+- !!python/tuple
+  - Montezuma County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.736959'
+  - !!python/object/apply:decimal.Decimal
+    - '0.621915'
+  - !!python/object/apply:decimal.Decimal
+    - '2.243798'
+  - !!python/object/apply:decimal.Decimal
+    - '1.765740'
+- !!python/tuple
+  - Cortland County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.973142'
+  - !!python/object/apply:decimal.Decimal
+    - '0.972448'
+  - !!python/object/apply:decimal.Decimal
+    - '2.372622'
+  - !!python/object/apply:decimal.Decimal
+    - '1.518484'
+- !!python/tuple
+  - Long County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.100631'
+  - !!python/object/apply:decimal.Decimal
+    - '0.703668'
+  - !!python/object/apply:decimal.Decimal
+    - '2.636608'
+  - !!python/object/apply:decimal.Decimal
+    - '1.291427'
+- !!python/tuple
+  - McCulloch County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.568657'
+  - !!python/object/apply:decimal.Decimal
+    - '0.776029'
+  - !!python/object/apply:decimal.Decimal
+    - '2.501246'
+  - !!python/object/apply:decimal.Decimal
+    - '2.140838'
+- !!python/tuple
+  - Juniata County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '3.426881'
+  - !!python/object/apply:decimal.Decimal
+    - '1.305000'
+  - !!python/object/apply:decimal.Decimal
+    - '2.459158'
+  - !!python/object/apply:decimal.Decimal
+    - '1.852734'
+- !!python/tuple
+  - Allegany County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.446006'
+  - !!python/object/apply:decimal.Decimal
+    - '1.055027'
+  - !!python/object/apply:decimal.Decimal
+    - '1.996567'
+  - !!python/object/apply:decimal.Decimal
+    - '1.501835'
+- !!python/tuple
+  - McDuffie County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.841341'
+  - !!python/object/apply:decimal.Decimal
+    - '0.796807'
+  - !!python/object/apply:decimal.Decimal
+    - '2.972605'
+  - !!python/object/apply:decimal.Decimal
+    - '1.671059'
+- !!python/tuple
+  - Dillon County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.216145'
+  - !!python/object/apply:decimal.Decimal
+    - '0.923319'
+  - !!python/object/apply:decimal.Decimal
+    - '1.909417'
+  - !!python/object/apply:decimal.Decimal
+    - '1.739929'
+- !!python/tuple
+  - Dickenson County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.366251'
+  - !!python/object/apply:decimal.Decimal
+    - '0.942428'
+  - !!python/object/apply:decimal.Decimal
+    - '2.429085'
+  - !!python/object/apply:decimal.Decimal
+    - '1.751161'
+- !!python/tuple
+  - Billings County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '3.084228'
+  - !!python/object/apply:decimal.Decimal
+    - '0.810907'
+  - !!python/object/apply:decimal.Decimal
+    - '2.401289'
+  - !!python/object/apply:decimal.Decimal
+    - '2.120812'
+- !!python/tuple
+  - Woodbury County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.638549'
+  - !!python/object/apply:decimal.Decimal
+    - '0.632000'
+  - !!python/object/apply:decimal.Decimal
+    - '2.691408'
+  - !!python/object/apply:decimal.Decimal
+    - '2.110205'
+- !!python/tuple
+  - Forest County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.790345'
+  - !!python/object/apply:decimal.Decimal
+    - '1.140340'
+  - !!python/object/apply:decimal.Decimal
+    - '1.735729'
+  - !!python/object/apply:decimal.Decimal
+    - '1.647489'
+- !!python/tuple
+  - Scotland County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.732707'
+  - !!python/object/apply:decimal.Decimal
+    - '1.077571'
+  - !!python/object/apply:decimal.Decimal
+    - '2.295085'
+  - !!python/object/apply:decimal.Decimal
+    - '2.022539'
+- !!python/tuple
+  - Bristol County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.262828'
+  - !!python/object/apply:decimal.Decimal
+    - '1.193051'
+  - !!python/object/apply:decimal.Decimal
+    - '2.583547'
+  - !!python/object/apply:decimal.Decimal
+    - '1.671026'
+- !!python/tuple
+  - Windham County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.474362'
+  - !!python/object/apply:decimal.Decimal
+    - '1.100241'
+  - !!python/object/apply:decimal.Decimal
+    - '1.564112'
+  - !!python/object/apply:decimal.Decimal
+    - '1.226426'
+- !!python/tuple
+  - Larue County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.960189'
+  - !!python/object/apply:decimal.Decimal
+    - '0.806408'
+  - !!python/object/apply:decimal.Decimal
+    - '3.873403'
+  - !!python/object/apply:decimal.Decimal
+    - '2.451808'
+- !!python/tuple
+  - Brooks County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.749021'
+  - !!python/object/apply:decimal.Decimal
+    - '0.619119'
+  - !!python/object/apply:decimal.Decimal
+    - '2.105715'
+  - !!python/object/apply:decimal.Decimal
+    - '2.093603'
+- !!python/tuple
+  - Coleman County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '3.044497'
+  - !!python/object/apply:decimal.Decimal
+    - '1.382536'
+  - !!python/object/apply:decimal.Decimal
+    - '2.648649'
+  - !!python/object/apply:decimal.Decimal
+    - '1.709028'
+- !!python/tuple
+  - Koochiching County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.069429'
+  - !!python/object/apply:decimal.Decimal
+    - '0.854797'
+  - !!python/object/apply:decimal.Decimal
+    - '4.392259'
+  - !!python/object/apply:decimal.Decimal
+    - '2.670189'
+- !!python/tuple
+  - Greer County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.449286'
+  - !!python/object/apply:decimal.Decimal
+    - '0.718018'
+  - !!python/object/apply:decimal.Decimal
+    - '3.181614'
+  - !!python/object/apply:decimal.Decimal
+    - '2.303848'
+- !!python/tuple
+  - Rusk County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.379772'
+  - !!python/object/apply:decimal.Decimal
+    - '0.897008'
+  - !!python/object/apply:decimal.Decimal
+    - '2.348613'
+  - !!python/object/apply:decimal.Decimal
+    - '2.180729'
+- !!python/tuple
+  - Scotts Bluff County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.737581'
+  - !!python/object/apply:decimal.Decimal
+    - '0.782594'
+  - !!python/object/apply:decimal.Decimal
+    - '2.059159'
+  - !!python/object/apply:decimal.Decimal
+    - '1.317658'
+- !!python/tuple
+  - Karnes County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.107622'
+  - !!python/object/apply:decimal.Decimal
+    - '0.860390'
+  - !!python/object/apply:decimal.Decimal
+    - '3.079713'
+  - !!python/object/apply:decimal.Decimal
+    - '1.945407'
+- !!python/tuple
+  - Powhatan County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.971088'
+  - !!python/object/apply:decimal.Decimal
+    - '0.697941'
+  - !!python/object/apply:decimal.Decimal
+    - '2.545078'
+  - !!python/object/apply:decimal.Decimal
+    - '1.723090'
+- !!python/tuple
+  - Calcasieu Parish
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.269827'
+  - !!python/object/apply:decimal.Decimal
+    - '1.067204'
+  - !!python/object/apply:decimal.Decimal
+    - '1.513730'
+  - !!python/object/apply:decimal.Decimal
+    - '1.426190'
+- !!python/tuple
+  - Genesee County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.925100'
+  - !!python/object/apply:decimal.Decimal
+    - '0.795798'
+  - !!python/object/apply:decimal.Decimal
+    - '2.734429'
+  - !!python/object/apply:decimal.Decimal
+    - '2.121707'
+- !!python/tuple
+  - Missaukee County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.871528'
+  - !!python/object/apply:decimal.Decimal
+    - '0.836616'
+  - !!python/object/apply:decimal.Decimal
+    - '1.573017'
+  - !!python/object/apply:decimal.Decimal
+    - '1.429216'
+- !!python/tuple
+  - Winn Parish
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.166100'
+  - !!python/object/apply:decimal.Decimal
+    - '1.988385'
+  - !!python/object/apply:decimal.Decimal
+    - '2.903371'
+  - !!python/object/apply:decimal.Decimal
+    - '1.780082'
+- !!python/tuple
+  - Copiah County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.235229'
+  - !!python/object/apply:decimal.Decimal
+    - '0.882566'
+  - !!python/object/apply:decimal.Decimal
+    - '1.530021'
+  - !!python/object/apply:decimal.Decimal
+    - '1.414794'
+- !!python/tuple
+  - Sargent County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.777711'
+  - !!python/object/apply:decimal.Decimal
+    - '0.698280'
+  - !!python/object/apply:decimal.Decimal
+    - '2.274221'
+  - !!python/object/apply:decimal.Decimal
+    - '2.045600'
+- !!python/tuple
+  - Paulding County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.690352'
+  - !!python/object/apply:decimal.Decimal
+    - '0.640701'
+  - !!python/object/apply:decimal.Decimal
+    - '3.349973'
+  - !!python/object/apply:decimal.Decimal
+    - '2.991769'
+- !!python/tuple
+  - Tate County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.630290'
+  - !!python/object/apply:decimal.Decimal
+    - '0.617225'
+  - !!python/object/apply:decimal.Decimal
+    - '5.395172'
+  - !!python/object/apply:decimal.Decimal
+    - '1.457962'
+- !!python/tuple
+  - Johnston County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.504425'
+  - !!python/object/apply:decimal.Decimal
+    - '0.876380'
+  - !!python/object/apply:decimal.Decimal
+    - '1.564334'
+  - !!python/object/apply:decimal.Decimal
+    - '1.432149'
+- !!python/tuple
+  - Charlevoix County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.033211'
+  - !!python/object/apply:decimal.Decimal
+    - '0.525713'
+  - !!python/object/apply:decimal.Decimal
+    - '3.070422'
+  - !!python/object/apply:decimal.Decimal
+    - '1.721364'
+- !!python/tuple
+  - Weber County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.660491'
+  - !!python/object/apply:decimal.Decimal
+    - '0.613597'
+  - !!python/object/apply:decimal.Decimal
+    - '2.248154'
+  - !!python/object/apply:decimal.Decimal
+    - '2.112918'
+- !!python/tuple
+  - Bartow County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.402887'
+  - !!python/object/apply:decimal.Decimal
+    - '1.176767'
+  - !!python/object/apply:decimal.Decimal
+    - '1.482279'
+  - !!python/object/apply:decimal.Decimal
+    - '1.379709'
+- !!python/tuple
+  - Portage County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.418918'
+  - !!python/object/apply:decimal.Decimal
+    - '0.955638'
+  - !!python/object/apply:decimal.Decimal
+    - '2.515476'
+  - !!python/object/apply:decimal.Decimal
+    - '1.589682'
+- !!python/tuple
+  - Trego County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.852806'
+  - !!python/object/apply:decimal.Decimal
+    - '0.798595'
+  - !!python/object/apply:decimal.Decimal
+    - '2.479435'
+  - !!python/object/apply:decimal.Decimal
+    - '1.694134'
+- !!python/tuple
+  - Massac County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.081130'
+  - !!python/object/apply:decimal.Decimal
+    - '0.944948'
+  - !!python/object/apply:decimal.Decimal
+    - '1.680958'
+  - !!python/object/apply:decimal.Decimal
+    - '1.034547'
+- !!python/tuple
+  - Kittson County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.449423'
+  - !!python/object/apply:decimal.Decimal
+    - '1.163528'
+  - !!python/object/apply:decimal.Decimal
+    - '1.907301'
+  - !!python/object/apply:decimal.Decimal
+    - '1.482849'
+- !!python/tuple
+  - Peach County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.153907'
+  - !!python/object/apply:decimal.Decimal
+    - '1.008249'
+  - !!python/object/apply:decimal.Decimal
+    - '7.230057'
+  - !!python/object/apply:decimal.Decimal
+    - '1.814939'
+- !!python/tuple
+  - Kings County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.678921'
+  - !!python/object/apply:decimal.Decimal
+    - '1.038202'
+  - !!python/object/apply:decimal.Decimal
+    - '1.959106'
+  - !!python/object/apply:decimal.Decimal
+    - '1.736721'
+- !!python/tuple
+  - Ogle County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.240671'
+  - !!python/object/apply:decimal.Decimal
+    - '1.096458'
+  - !!python/object/apply:decimal.Decimal
+    - '1.824140'
+  - !!python/object/apply:decimal.Decimal
+    - '1.665154'
+- !!python/tuple
+  - Box Butte County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.021256'
+  - !!python/object/apply:decimal.Decimal
+    - '0.700091'
+  - !!python/object/apply:decimal.Decimal
+    - '3.451310'
+  - !!python/object/apply:decimal.Decimal
+    - '2.433507'
+- !!python/tuple
+  - Newberry County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '3.046807'
+  - !!python/object/apply:decimal.Decimal
+    - '1.125882'
+  - !!python/object/apply:decimal.Decimal
+    - '2.569446'
+  - !!python/object/apply:decimal.Decimal
+    - '1.855234'
+- !!python/tuple
+  - San Luis Obispo County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.799922'
+  - !!python/object/apply:decimal.Decimal
+    - '0.693689'
+  - !!python/object/apply:decimal.Decimal
+    - '2.119739'
+  - !!python/object/apply:decimal.Decimal
+    - '1.602228'
+- !!python/tuple
+  - Kennebec County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.576381'
+  - !!python/object/apply:decimal.Decimal
+    - '1.133211'
+  - !!python/object/apply:decimal.Decimal
+    - '2.281143'
+  - !!python/object/apply:decimal.Decimal
+    - '1.553811'
+- !!python/tuple
+  - Barnstable County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.193484'
+  - !!python/object/apply:decimal.Decimal
+    - '1.015199'
+  - !!python/object/apply:decimal.Decimal
+    - '2.362072'
+  - !!python/object/apply:decimal.Decimal
+    - '2.050642'
+- !!python/tuple
+  - Caddo County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.479000'
+  - !!python/object/apply:decimal.Decimal
+    - '1.064933'
+  - !!python/object/apply:decimal.Decimal
+    - '1.707132'
+  - !!python/object/apply:decimal.Decimal
+    - '1.177727'
+- !!python/tuple
+  - Gadsden County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.385242'
+  - !!python/object/apply:decimal.Decimal
+    - '0.969202'
+  - !!python/object/apply:decimal.Decimal
+    - '4.336327'
+  - !!python/object/apply:decimal.Decimal
+    - '2.050961'
+- !!python/tuple
+  - Gooding County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.139490'
+  - !!python/object/apply:decimal.Decimal
+    - '1.055327'
+  - !!python/object/apply:decimal.Decimal
+    - '1.673658'
+  - !!python/object/apply:decimal.Decimal
+    - '1.369790'
+- !!python/tuple
+  - Thurston County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '0.995743'
+  - !!python/object/apply:decimal.Decimal
+    - '0.863952'
+  - !!python/object/apply:decimal.Decimal
+    - '3.295426'
+  - !!python/object/apply:decimal.Decimal
+    - '1.860866'
+- !!python/tuple
+  - Bowman County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.310021'
+  - !!python/object/apply:decimal.Decimal
+    - '0.721851'
+  - !!python/object/apply:decimal.Decimal
+    - '1.593149'
+  - !!python/object/apply:decimal.Decimal
+    - '1.255462'
+- !!python/tuple
+  - Madison Parish
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.378190'
+  - !!python/object/apply:decimal.Decimal
+    - '0.649763'
+  - !!python/object/apply:decimal.Decimal
+    - '2.188206'
+  - !!python/object/apply:decimal.Decimal
+    - '1.184455'
+- !!python/tuple
+  - San Saba County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.689044'
+  - !!python/object/apply:decimal.Decimal
+    - '1.186047'
+  - !!python/object/apply:decimal.Decimal
+    - '1.654535'
+  - !!python/object/apply:decimal.Decimal
+    - '1.354986'
+- !!python/tuple
+  - Tama County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '4.928708'
+  - !!python/object/apply:decimal.Decimal
+    - '0.920978'
+  - !!python/object/apply:decimal.Decimal
+    - '2.075403'
+  - !!python/object/apply:decimal.Decimal
+    - '1.998191'
+- !!python/tuple
+  - Coconino County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.125757'
+  - !!python/object/apply:decimal.Decimal
+    - '0.672112'
+  - !!python/object/apply:decimal.Decimal
+    - '2.465041'
+  - !!python/object/apply:decimal.Decimal
+    - '1.951826'
+- !!python/tuple
+  - Crawford County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.148003'
+  - !!python/object/apply:decimal.Decimal
+    - '0.944484'
+  - !!python/object/apply:decimal.Decimal
+    - '2.010754'
+  - !!python/object/apply:decimal.Decimal
+    - '1.992262'
+- !!python/tuple
+  - Daggett County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.173717'
+  - !!python/object/apply:decimal.Decimal
+    - '0.580946'
+  - !!python/object/apply:decimal.Decimal
+    - '1.328794'
+  - !!python/object/apply:decimal.Decimal
+    - '1.318022'
+- !!python/tuple
+  - Gonzales County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.123809'
+  - !!python/object/apply:decimal.Decimal
+    - '1.025774'
+  - !!python/object/apply:decimal.Decimal
+    - '2.272737'
+  - !!python/object/apply:decimal.Decimal
+    - '2.206205'
+- !!python/tuple
+  - Sumter County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.017503'
+  - !!python/object/apply:decimal.Decimal
+    - '0.594645'
+  - !!python/object/apply:decimal.Decimal
+    - '2.232345'
+  - !!python/object/apply:decimal.Decimal
+    - '2.150076'
+- !!python/tuple
+  - Iroquois County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.083044'
+  - !!python/object/apply:decimal.Decimal
+    - '0.679644'
+  - !!python/object/apply:decimal.Decimal
+    - '2.323997'
+  - !!python/object/apply:decimal.Decimal
+    - '1.830455'
+- !!python/tuple
+  - Sussex County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.215200'
+  - !!python/object/apply:decimal.Decimal
+    - '1.014121'
+  - !!python/object/apply:decimal.Decimal
+    - '1.649276'
+  - !!python/object/apply:decimal.Decimal
+    - '1.432590'
+- !!python/tuple
+  - Fresno County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.122729'
+  - !!python/object/apply:decimal.Decimal
+    - '0.725996'
+  - !!python/object/apply:decimal.Decimal
+    - '2.549917'
+  - !!python/object/apply:decimal.Decimal
+    - '2.221819'
+- !!python/tuple
+  - Hall County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.347987'
+  - !!python/object/apply:decimal.Decimal
+    - '0.911589'
+  - !!python/object/apply:decimal.Decimal
+    - '2.400001'
+  - !!python/object/apply:decimal.Decimal
+    - '2.041489'
+- !!python/tuple
+  - Craighead County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '2.240817'
+  - !!python/object/apply:decimal.Decimal
+    - '1.331805'
+  - !!python/object/apply:decimal.Decimal
+    - '1.853616'
+  - !!python/object/apply:decimal.Decimal
+    - '1.696319'
+- !!python/tuple
+  - Atascosa County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.234378'
+  - !!python/object/apply:decimal.Decimal
+    - '0.654611'
+  - !!python/object/apply:decimal.Decimal
+    - '2.297556'
+  - !!python/object/apply:decimal.Decimal
+    - '1.556861'
+- !!python/tuple
+  - Nodaway County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.748343'
+  - !!python/object/apply:decimal.Decimal
+    - '0.987477'
+  - !!python/object/apply:decimal.Decimal
+    - '4.648392'
+  - !!python/object/apply:decimal.Decimal
+    - '1.832265'
+- !!python/tuple
+  - Woodruff County
+  - 2002
+  - !!python/object/apply:decimal.Decimal
+    - '1.467605'
+  - !!python/object/apply:decimal.Decimal
+    - '1.034566'
+  - !!python/object/apply:decimal.Decimal
+    - '1.696952'
+  - !!python/object/apply:decimal.Decimal
+    - '1.019680'

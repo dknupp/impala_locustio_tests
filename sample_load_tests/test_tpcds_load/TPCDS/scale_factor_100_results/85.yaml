@@ -1,0 +1,378 @@
+- !!python/tuple
+  - Did not fit
+  - 18.75
+  - !!python/object/apply:decimal.Decimal
+    - '410.421250'
+  - !!python/object/apply:decimal.Decimal
+    - '61.583750'
+- !!python/tuple
+  - Did not get it on ti
+  - 38.833333333333336
+  - !!python/object/apply:decimal.Decimal
+    - '1216.456667'
+  - !!python/object/apply:decimal.Decimal
+    - '48.108333'
+- !!python/tuple
+  - Did not like the col
+  - 27.6
+  - !!python/object/apply:decimal.Decimal
+    - '642.972000'
+  - !!python/object/apply:decimal.Decimal
+    - '43.394000'
+- !!python/tuple
+  - Did not like the mak
+  - 18.5
+  - !!python/object/apply:decimal.Decimal
+    - '739.512500'
+  - !!python/object/apply:decimal.Decimal
+    - '34.625000'
+- !!python/tuple
+  - Did not like the mod
+  - 19.333333333333332
+  - !!python/object/apply:decimal.Decimal
+    - '501.980000'
+  - !!python/object/apply:decimal.Decimal
+    - '53.143333'
+- !!python/tuple
+  - Did not like the war
+  - 14.0
+  - !!python/object/apply:decimal.Decimal
+    - '59.275000'
+  - !!python/object/apply:decimal.Decimal
+    - '43.260000'
+- !!python/tuple
+  - Does not work with a
+  - 30.666666666666668
+  - !!python/object/apply:decimal.Decimal
+    - '702.596667'
+  - !!python/object/apply:decimal.Decimal
+    - '38.526667'
+- !!python/tuple
+  - Found a better exten
+  - 54.666666666666664
+  - !!python/object/apply:decimal.Decimal
+    - '2333.176667'
+  - !!python/object/apply:decimal.Decimal
+    - '34.483333'
+- !!python/tuple
+  - Found a better price
+  - 17.666666666666668
+  - !!python/object/apply:decimal.Decimal
+    - '158.106667'
+  - !!python/object/apply:decimal.Decimal
+    - '26.543333'
+- !!python/tuple
+  - Gift exchange
+  - 6.0
+  - !!python/object/apply:decimal.Decimal
+    - '49.763333'
+  - !!python/object/apply:decimal.Decimal
+    - '41.273333'
+- !!python/tuple
+  - Lost my job
+  - 30.5
+  - !!python/object/apply:decimal.Decimal
+    - '599.657500'
+  - !!python/object/apply:decimal.Decimal
+    - '53.935000'
+- !!python/tuple
+  - 'No service location '
+  - 35.0
+  - !!python/object/apply:decimal.Decimal
+    - '223.956667'
+  - !!python/object/apply:decimal.Decimal
+    - '41.536667'
+- !!python/tuple
+  - Not the product that
+  - 50.0
+  - !!python/object/apply:decimal.Decimal
+    - '1461.750000'
+  - !!python/object/apply:decimal.Decimal
+    - '65.510000'
+- !!python/tuple
+  - Not working any more
+  - 24.4
+  - !!python/object/apply:decimal.Decimal
+    - '443.462000'
+  - !!python/object/apply:decimal.Decimal
+    - '51.624000'
+- !!python/tuple
+  - Package was damaged
+  - 13.333333333333334
+  - !!python/object/apply:decimal.Decimal
+    - '373.483333'
+  - !!python/object/apply:decimal.Decimal
+    - '40.063333'
+- !!python/tuple
+  - Parts missing
+  - 32.625
+  - !!python/object/apply:decimal.Decimal
+    - '779.572500'
+  - !!python/object/apply:decimal.Decimal
+    - '45.840000'
+- !!python/tuple
+  - Stopped working
+  - 18.6
+  - !!python/object/apply:decimal.Decimal
+    - '898.300000'
+  - !!python/object/apply:decimal.Decimal
+    - '62.762000'
+- !!python/tuple
+  - Wrong size
+  - 60.0
+  - !!python/object/apply:decimal.Decimal
+    - '855.325000'
+  - !!python/object/apply:decimal.Decimal
+    - '61.445000'
+- !!python/tuple
+  - duplicate purchase
+  - 8.0
+  - !!python/object/apply:decimal.Decimal
+    - '108.463333'
+  - !!python/object/apply:decimal.Decimal
+    - '41.623333'
+- !!python/tuple
+  - it is a girl
+  - 25.5
+  - !!python/object/apply:decimal.Decimal
+    - '700.543750'
+  - !!python/object/apply:decimal.Decimal
+    - '50.676250'
+- !!python/tuple
+  - its is a boy
+  - 40.5
+  - !!python/object/apply:decimal.Decimal
+    - '1590.595000'
+  - !!python/object/apply:decimal.Decimal
+    - '61.965000'
+- !!python/tuple
+  - reason 23
+  - 13.0
+  - !!python/object/apply:decimal.Decimal
+    - '373.525000'
+  - !!python/object/apply:decimal.Decimal
+    - '57.603333'
+- !!python/tuple
+  - reason 24
+  - 40.75
+  - !!python/object/apply:decimal.Decimal
+    - '278.617500'
+  - !!python/object/apply:decimal.Decimal
+    - '41.305000'
+- !!python/tuple
+  - reason 25
+  - 3.0
+  - !!python/object/apply:decimal.Decimal
+    - '139.240000'
+  - !!python/object/apply:decimal.Decimal
+    - '68.130000'
+- !!python/tuple
+  - reason 26
+  - 21.666666666666668
+  - !!python/object/apply:decimal.Decimal
+    - '221.068333'
+  - !!python/object/apply:decimal.Decimal
+    - '52.961667'
+- !!python/tuple
+  - reason 27
+  - 62.5
+  - !!python/object/apply:decimal.Decimal
+    - '141.035000'
+  - !!python/object/apply:decimal.Decimal
+    - '59.210000'
+- !!python/tuple
+  - reason 28
+  - 38.333333333333336
+  - !!python/object/apply:decimal.Decimal
+    - '490.376667'
+  - !!python/object/apply:decimal.Decimal
+    - '31.500000'
+- !!python/tuple
+  - reason 29
+  - 40.5
+  - !!python/object/apply:decimal.Decimal
+    - '1152.925000'
+  - !!python/object/apply:decimal.Decimal
+    - '50.465000'
+- !!python/tuple
+  - reason 31
+  - 31.714285714285715
+  - !!python/object/apply:decimal.Decimal
+    - '812.495714'
+  - !!python/object/apply:decimal.Decimal
+    - '49.137143'
+- !!python/tuple
+  - reason 32
+  - 28.125
+  - !!python/object/apply:decimal.Decimal
+    - '386.135000'
+  - !!python/object/apply:decimal.Decimal
+    - '66.537500'
+- !!python/tuple
+  - reason 33
+  - 18.0
+  - !!python/object/apply:decimal.Decimal
+    - '18.635000'
+  - !!python/object/apply:decimal.Decimal
+    - '8.305000'
+- !!python/tuple
+  - reason 34
+  - 14.0
+  - !!python/object/apply:decimal.Decimal
+    - '313.480000'
+  - !!python/object/apply:decimal.Decimal
+    - '53.835000'
+- !!python/tuple
+  - reason 35
+  - 5.333333333333333
+  - !!python/object/apply:decimal.Decimal
+    - '78.410000'
+  - !!python/object/apply:decimal.Decimal
+    - '47.423333'
+- !!python/tuple
+  - reason 36
+  - 68.0
+  - !!python/object/apply:decimal.Decimal
+    - '191.300000'
+  - !!python/object/apply:decimal.Decimal
+    - '70.715000'
+- !!python/tuple
+  - reason 37
+  - 29.571428571428573
+  - !!python/object/apply:decimal.Decimal
+    - '167.128571'
+  - !!python/object/apply:decimal.Decimal
+    - '43.030000'
+- !!python/tuple
+  - reason 38
+  - 41.5
+  - !!python/object/apply:decimal.Decimal
+    - '865.208750'
+  - !!python/object/apply:decimal.Decimal
+    - '42.387500'
+- !!python/tuple
+  - reason 39
+  - 44.2
+  - !!python/object/apply:decimal.Decimal
+    - '2519.340000'
+  - !!python/object/apply:decimal.Decimal
+    - '44.896000'
+- !!python/tuple
+  - reason 40
+  - 62.333333333333336
+  - !!python/object/apply:decimal.Decimal
+    - '2245.930000'
+  - !!python/object/apply:decimal.Decimal
+    - '57.910000'
+- !!python/tuple
+  - reason 41
+  - 23.8
+  - !!python/object/apply:decimal.Decimal
+    - '223.952000'
+  - !!python/object/apply:decimal.Decimal
+    - '65.910000'
+- !!python/tuple
+  - reason 42
+  - 7.0
+  - !!python/object/apply:decimal.Decimal
+    - '201.060000'
+  - !!python/object/apply:decimal.Decimal
+    - '34.800000'
+- !!python/tuple
+  - reason 43
+  - 7.0
+  - !!python/object/apply:decimal.Decimal
+    - '155.163333'
+  - !!python/object/apply:decimal.Decimal
+    - '44.686667'
+- !!python/tuple
+  - reason 44
+  - 37.0
+  - !!python/object/apply:decimal.Decimal
+    - '754.771667'
+  - !!python/object/apply:decimal.Decimal
+    - '34.196000'
+- !!python/tuple
+  - reason 45
+  - 12.5
+  - !!python/object/apply:decimal.Decimal
+    - '201.346667'
+  - !!python/object/apply:decimal.Decimal
+    - '37.646667'
+- !!python/tuple
+  - reason 46
+  - 24.125
+  - !!python/object/apply:decimal.Decimal
+    - '459.285000'
+  - !!python/object/apply:decimal.Decimal
+    - '46.813750'
+- !!python/tuple
+  - reason 47
+  - 45.833333333333336
+  - !!python/object/apply:decimal.Decimal
+    - '923.938333'
+  - !!python/object/apply:decimal.Decimal
+    - '75.401667'
+- !!python/tuple
+  - reason 48
+  - 22.285714285714285
+  - !!python/object/apply:decimal.Decimal
+    - '714.830000'
+  - !!python/object/apply:decimal.Decimal
+    - '45.331429'
+- !!python/tuple
+  - reason 49
+  - 21.25
+  - !!python/object/apply:decimal.Decimal
+    - '427.602500'
+  - !!python/object/apply:decimal.Decimal
+    - '50.907500'
+- !!python/tuple
+  - reason 50
+  - 6.0
+  - !!python/object/apply:decimal.Decimal
+    - '93.080000'
+  - !!python/object/apply:decimal.Decimal
+    - '19.160000'
+- !!python/tuple
+  - reason 51
+  - 20.833333333333332
+  - !!python/object/apply:decimal.Decimal
+    - '599.000000'
+  - !!python/object/apply:decimal.Decimal
+    - '53.520000'
+- !!python/tuple
+  - reason 52
+  - 18.75
+  - !!python/object/apply:decimal.Decimal
+    - '382.490000'
+  - !!python/object/apply:decimal.Decimal
+    - '50.620000'
+- !!python/tuple
+  - reason 53
+  - 41.0
+  - !!python/object/apply:decimal.Decimal
+    - '233.640000'
+  - !!python/object/apply:decimal.Decimal
+    - '41.085000'
+- !!python/tuple
+  - reason 54
+  - 30.666666666666668
+  - !!python/object/apply:decimal.Decimal
+    - '671.946667'
+  - !!python/object/apply:decimal.Decimal
+    - '40.293333'
+- !!python/tuple
+  - reason 55
+  - 60.2
+  - !!python/object/apply:decimal.Decimal
+    - '1364.944000'
+  - !!python/object/apply:decimal.Decimal
+    - '42.792000'
+- !!python/tuple
+  - unauthoized purchase
+  - 16.6
+  - !!python/object/apply:decimal.Decimal
+    - '414.154000'
+  - !!python/object/apply:decimal.Decimal
+    - '37.426000'

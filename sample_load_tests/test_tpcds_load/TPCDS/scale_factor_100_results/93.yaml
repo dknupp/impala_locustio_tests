@@ -1,0 +1,400 @@
+- !!python/tuple
+  - 29
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 60
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 152
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 204
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 284
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 305
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 435
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 462
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 513
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 515
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 719
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 739
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 857
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 970
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 971
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 1118
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 1190
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 1298
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 1310
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 1401
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 1585
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 1727
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 1739
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 1791
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 1941
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2095
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2226
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2243
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2253
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2279
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2300
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2512
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2651
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2666
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2743
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2788
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2799
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 2960
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3041
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3093
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3149
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3213
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3274
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3283
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3298
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3500
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3719
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3853
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3911
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 3985
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4077
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4110
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4198
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4303
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4363
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4386
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4430
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4650
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4682
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4725
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4810
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4837
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4935
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 4954
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5079
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5289
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5383
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5619
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5631
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5781
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5843
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5852
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5892
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5982
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 5988
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 6026
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 6084
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 6139
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 6304
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 6479
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 6506
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 6853
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 6942
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7083
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7132
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7165
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7220
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7291
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7304
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7317
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7326
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7391
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7565
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7796
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7882
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7926
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7948
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 7965
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 8016
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+- !!python/tuple
+  - 8129
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'

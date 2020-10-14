@@ -1,0 +1,71 @@
+- !!python/tuple
+  - AAAAAAAAABAAAAAA
+  - North Midwest_1
+  - Miguel Bird
+  - null
+- !!python/tuple
+  - AAAAAAAANAAAAAAA
+  - NY Metro_1
+  - Jack Little
+  - !!python/object/apply:decimal.Decimal
+    - '4205.37'
+- !!python/tuple
+  - AAAAAAAAEBAAAAAA
+  - California_1
+  - Jason Brito
+  - !!python/object/apply:decimal.Decimal
+    - '1967.96'
+- !!python/tuple
+  - AAAAAAAAGBAAAAAA
+  - Hawaii/Alaska_1
+  - Travis Wilson
+  - !!python/object/apply:decimal.Decimal
+    - '934.71'
+- !!python/tuple
+  - AAAAAAAAABAAAAAA
+  - North Midwest_1
+  - Miguel Bird
+  - !!python/object/apply:decimal.Decimal
+    - '650.32'
+- !!python/tuple
+  - AAAAAAAAOAAAAAAA
+  - Mid Atlantic_1
+  - Charles Hinkle
+  - !!python/object/apply:decimal.Decimal
+    - '466.33'
+- !!python/tuple
+  - AAAAAAAAHAAAAAAA
+  - Pacific Northwest
+  - Alden Snyder
+  - !!python/object/apply:decimal.Decimal
+    - '380.55'
+- !!python/tuple
+  - AAAAAAAAIAAAAAAA
+  - California
+  - Wayne Ray
+  - !!python/object/apply:decimal.Decimal
+    - '228.19'
+- !!python/tuple
+  - AAAAAAAAEBAAAAAA
+  - California_1
+  - Jason Brito
+  - !!python/object/apply:decimal.Decimal
+    - '221.87'
+- !!python/tuple
+  - AAAAAAAAOAAAAAAA
+  - Mid Atlantic_1
+  - Charles Hinkle
+  - !!python/object/apply:decimal.Decimal
+    - '111.84'
+- !!python/tuple
+  - AAAAAAAAIAAAAAAA
+  - California
+  - Wayne Ray
+  - !!python/object/apply:decimal.Decimal
+    - '62.69'
+- !!python/tuple
+  - AAAAAAAAHAAAAAAA
+  - Pacific Northwest
+  - Alden Snyder
+  - !!python/object/apply:decimal.Decimal
+    - '7.35'

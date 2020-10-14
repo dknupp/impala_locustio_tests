@@ -1,0 +1,1092 @@
+- !!python/tuple
+  - antibarcallyeingn st
+  - bar
+  - '55709'
+  - '322'
+  - 'Third '
+  - Lakewood
+  - ''
+  - '648'
+  - 6th Pine
+  - Concord
+  - '74107'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '29.70'
+  - !!python/object/apply:decimal.Decimal
+    - '37.42'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '26.08'
+  - !!python/object/apply:decimal.Decimal
+    - '44.07'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - antieingablebaration
+  - eing
+  - '39231'
+  - '1000'
+  - 'Broadway '
+  - Lakewood
+  - '68877'
+  - '259'
+  - Valley Hill
+  - Riverview
+  - '59003'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '20.80'
+  - !!python/object/apply:decimal.Decimal
+    - '38.68'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '97.16'
+  - !!python/object/apply:decimal.Decimal
+    - '99.10'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - antieingablebaration
+  - ese
+  - '36098'
+  - '110'
+  - 'Lincoln '
+  - Jackson
+  - '69583'
+  - '229'
+  - Broadway Cedar
+  - Friendship
+  - '64536'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '21.62'
+  - !!python/object/apply:decimal.Decimal
+    - '22.48'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '85.75'
+  - !!python/object/apply:decimal.Decimal
+    - '150.92'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - antipribarbarn st
+  - able
+  - '56098'
+  - '66'
+  - '14th '
+  - Cedar Grove
+  - '40411'
+  - '775'
+  - Cherry Hill
+  - Oakland
+  - '39843'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '76.44'
+  - !!python/object/apply:decimal.Decimal
+    - '89.43'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '3.00'
+  - !!python/object/apply:decimal.Decimal
+    - '3.27'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - antipriesen stought
+  - able
+  - '51904'
+  - '691'
+  - 'Cedar '
+  - Blair
+  - '45465'
+  - '864'
+  - Smith Cherry
+  - Lebanon
+  - '22898'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '10.81'
+  - !!python/object/apply:decimal.Decimal
+    - '18.70'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '74.96'
+  - !!python/object/apply:decimal.Decimal
+    - '134.92'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - antipriesen stought
+  - able
+  - '38370'
+  - '510'
+  - Lee 6th
+  - Plainview
+  - '73683'
+  - '803'
+  - Tenth West
+  - Roscoe
+  - '41854'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '46.90'
+  - !!python/object/apply:decimal.Decimal
+    - '92.86'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '24.74'
+  - !!python/object/apply:decimal.Decimal
+    - '30.18'
+  - !!python/object/apply:decimal.Decimal
+    - '571.91'
+  - 2001
+  - 1
+- !!python/tuple
+  - antipriesen stought
+  - cally
+  - ''
+  - '656'
+  - Jackson Lincoln
+  - Mountain View
+  - '54466'
+  - '669'
+  - Miller Hill
+  - Walnut Grove
+  - '17752'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '74.39'
+  - !!python/object/apply:decimal.Decimal
+    - '148.03'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '78.38'
+  - !!python/object/apply:decimal.Decimal
+    - '94.83'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - ationationeseanti
+  - anti
+  - '33604'
+  - '375'
+  - '13th '
+  - ''
+  - '23951'
+  - '359'
+  - Mill Seventh
+  - Rockland
+  - '82044'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '70.92'
+  - !!python/object/apply:decimal.Decimal
+    - '132.62'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '43.83'
+  - !!python/object/apply:decimal.Decimal
+    - '71.88'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - ationationeseanti
+  - eing
+  - '55709'
+  - '983'
+  - Hickory 2nd
+  - Jones
+  - '42686'
+  - '789'
+  - Cedar Laurel
+  - Oakwood
+  - '20169'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '77.08'
+  - !!python/object/apply:decimal.Decimal
+    - '134.11'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '54.05'
+  - !!python/object/apply:decimal.Decimal
+    - '65.40'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - ationbarationationanti
+  - able
+  - '56098'
+  - '34'
+  - Poplar Elevnth
+  - Walnut Grove
+  - '77752'
+  - '643'
+  - 'Willow '
+  - Concord
+  - '64107'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '15.10'
+  - !!python/object/apply:decimal.Decimal
+    - '19.47'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '20.52'
+  - !!python/object/apply:decimal.Decimal
+    - '34.26'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - ationbarationationanti
+  - able
+  - '56098'
+  - '34'
+  - Poplar Elevnth
+  - Walnut Grove
+  - '77752'
+  - '643'
+  - 'Willow '
+  - Concord
+  - '64107'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '15.10'
+  - !!python/object/apply:decimal.Decimal
+    - '19.47'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '84.66'
+  - !!python/object/apply:decimal.Decimal
+    - '154.08'
+  - !!python/object/apply:decimal.Decimal
+    - '33.51'
+  - 2001
+  - 1
+- !!python/tuple
+  - ationbarationationanti
+  - n st
+  - '39231'
+  - '910'
+  - Railroad 10th
+  - Greenwood
+  - '28828'
+  - '699'
+  - Cedar College
+  - Brownsville
+  - '69310'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '80.13'
+  - !!python/object/apply:decimal.Decimal
+    - '103.36'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '27.29'
+  - !!python/object/apply:decimal.Decimal
+    - '52.12'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - n stationoughtprieing
+  - bar
+  - '58370'
+  - '664'
+  - 'Poplar '
+  - Oakland
+  - '49843'
+  - '976'
+  - Maple Second
+  - Sunnyside
+  - '81952'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '14.39'
+  - !!python/object/apply:decimal.Decimal
+    - '17.84'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '39.32'
+  - !!python/object/apply:decimal.Decimal
+    - '48.75'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - n steingationeingeing
+  - n st
+  - '39231'
+  - '454'
+  - College Park
+  - ''
+  - ''
+  - '373'
+  - Willow Hill
+  - Brownsville
+  - '69310'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '2.43'
+  - !!python/object/apply:decimal.Decimal
+    - '2.89'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '34.26'
+  - !!python/object/apply:decimal.Decimal
+    - '53.78'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - n steseableese
+  - eing
+  - '31904'
+  - '913'
+  - 'Locust '
+  - Bunker Hill
+  - '40150'
+  - '291'
+  - '14th '
+  - Florence
+  - '83394'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '28.01'
+  - !!python/object/apply:decimal.Decimal
+    - '40.61'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '67.73'
+  - !!python/object/apply:decimal.Decimal
+    - '100.91'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - n stpricallyeingpri
+  - ese
+  - '36098'
+  - '453'
+  - Main Walnut
+  - Spring Hill
+  - '46787'
+  - '486'
+  - Cherry Elevnth
+  - Summerville
+  - '12033'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '25.09'
+  - !!python/object/apply:decimal.Decimal
+    - '48.67'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '35.42'
+  - !!python/object/apply:decimal.Decimal
+    - '55.25'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - oughtableationcally
+  - n st
+  - '35709'
+  - '417'
+  - Main Fourth
+  - Oakdale
+  - '29584'
+  - '326'
+  - Miller Main
+  - Wildwood
+  - '26871'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '92.92'
+  - !!python/object/apply:decimal.Decimal
+    - '133.80'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '23.46'
+  - !!python/object/apply:decimal.Decimal
+    - '35.89'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - oughtbarcallyeingought
+  - ation
+  - '33604'
+  - '289'
+  - 'Franklin '
+  - Oak Grove
+  - '28370'
+  - '456'
+  - Railroad 1st
+  - Pleasant Hill
+  - '43604'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '22.72'
+  - !!python/object/apply:decimal.Decimal
+    - '42.94'
+  - !!python/object/apply:decimal.Decimal
+    - '1559.50'
+  - !!python/object/apply:decimal.Decimal
+    - '79.49'
+  - !!python/object/apply:decimal.Decimal
+    - '115.26'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - oughtbarcallyeingought
+  - ation
+  - '33604'
+  - '289'
+  - 'Franklin '
+  - Oak Grove
+  - '28370'
+  - '456'
+  - Railroad 1st
+  - Pleasant Hill
+  - '43604'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '22.72'
+  - !!python/object/apply:decimal.Decimal
+    - '42.94'
+  - !!python/object/apply:decimal.Decimal
+    - '1559.50'
+  - !!python/object/apply:decimal.Decimal
+    - '57.99'
+  - !!python/object/apply:decimal.Decimal
+    - '111.92'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - oughtbarcallyeingought
+  - ought
+  - '53604'
+  - '933'
+  - '3rd '
+  - Brownsville
+  - '59310'
+  - ''
+  - 'Pine '
+  - ''
+  - '76192'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '76.23'
+  - !!python/object/apply:decimal.Decimal
+    - '115.10'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '96.10'
+  - !!python/object/apply:decimal.Decimal
+    - '128.77'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - oughteingableprically
+  - bar
+  - '53604'
+  - '760'
+  - Washington View
+  - Post Oak
+  - '68567'
+  - '100'
+  - 'Woodland '
+  - Crossroads
+  - '20534'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '63.72'
+  - !!python/object/apply:decimal.Decimal
+    - '77.10'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '39.16'
+  - !!python/object/apply:decimal.Decimal
+    - '46.99'
+  - !!python/object/apply:decimal.Decimal
+    - '196.19'
+  - 2001
+  - 1
+- !!python/tuple
+  - oughteingcallyoughtought
+  - anti
+  - '36098'
+  - '981'
+  - 'Chestnut '
+  - Tipton
+  - '98773'
+  - '430'
+  - Forest Sixth
+  - Friendship
+  - '84536'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '32.41'
+  - !!python/object/apply:decimal.Decimal
+    - '49.91'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '40.20'
+  - !!python/object/apply:decimal.Decimal
+    - '40.60'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - oughteingcallyoughtought
+  - anti
+  - '36098'
+  - '651'
+  - Green Broadway
+  - Midway
+  - '61904'
+  - '763'
+  - '9th '
+  - White Plains
+  - '96622'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '10.71'
+  - !!python/object/apply:decimal.Decimal
+    - '11.45'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '40.20'
+  - !!python/object/apply:decimal.Decimal
+    - '40.60'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - oughtoughtn stantiought
+  - n st
+  - '39231'
+  - '450'
+  - West Sycamore
+  - Oakwood
+  - '50169'
+  - '16'
+  - Sycamore Church
+  - Waterloo
+  - '41675'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '35.46'
+  - !!python/object/apply:decimal.Decimal
+    - '64.89'
+  - !!python/object/apply:decimal.Decimal
+    - '392.21'
+  - !!python/object/apply:decimal.Decimal
+    - '78.73'
+  - !!python/object/apply:decimal.Decimal
+    - '106.28'
+  - !!python/object/apply:decimal.Decimal
+    - '1248.30'
+  - 2001
+  - 1
+- !!python/tuple
+  - oughtpriableationese
+  - able
+  - '55709'
+  - '416'
+  - Lake 8th
+  - Riverdale
+  - 09991
+  - '714'
+  - '5th '
+  - Crossroads
+  - '70534'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '1.62'
+  - !!python/object/apply:decimal.Decimal
+    - '2.21'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '97.77'
+  - !!python/object/apply:decimal.Decimal
+    - '145.67'
+  - !!python/object/apply:decimal.Decimal
+    - '2290.57'
+  - 2001
+  - 1
+- !!python/tuple
+  - priablecallypriable
+  - anti
+  - '36098'
+  - '785'
+  - 'Jackson '
+  - Deerfield
+  - '19840'
+  - '385'
+  - 'Lee '
+  - Marion
+  - '10399'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '14.82'
+  - !!python/object/apply:decimal.Decimal
+    - '16.00'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '61.93'
+  - !!python/object/apply:decimal.Decimal
+    - '68.74'
+  - !!python/object/apply:decimal.Decimal
+    - '619.19'
+  - 2001
+  - 1
+- !!python/tuple
+  - priablecallypriable
+  - cally
+  - '53604'
+  - '896'
+  - Miller Jefferson
+  - Antioch
+  - '88605'
+  - '665'
+  - Mill Cherry
+  - Oakland
+  - '29843'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '56.74'
+  - !!python/object/apply:decimal.Decimal
+    - '92.48'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '52.47'
+  - !!python/object/apply:decimal.Decimal
+    - '75.03'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - priablecallypriable
+  - ese
+  - '36098'
+  - '799'
+  - River Spruce
+  - Friendship
+  - '34536'
+  - '973'
+  - Mill 10th
+  - Newport
+  - '31521'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '54.11'
+  - !!python/object/apply:decimal.Decimal
+    - '83.87'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '61.87'
+  - !!python/object/apply:decimal.Decimal
+    - '76.71'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - priablecallypriable
+  - pri
+  - '31904'
+  - '306'
+  - 'West '
+  - Vance
+  - '40268'
+  - '215'
+  - Lake Ridge
+  - Sunnyside
+  - '41952'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '26.33'
+  - !!python/object/apply:decimal.Decimal
+    - '46.07'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '88.01'
+  - !!python/object/apply:decimal.Decimal
+    - '110.01'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - priablecallypriable
+  - pri
+  - '53604'
+  - '891'
+  - West Central
+  - Oak Grove
+  - '38370'
+  - '860'
+  - Wilson Highland
+  - Sulphur Springs
+  - '68354'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '57.03'
+  - !!python/object/apply:decimal.Decimal
+    - '74.13'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '20.99'
+  - !!python/object/apply:decimal.Decimal
+    - '26.23'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - priantieseoughtcally
+  - able
+  - '38370'
+  - '524'
+  - Sunset Cedar
+  - Greenwood
+  - '78828'
+  - '44'
+  - 'Lakeview '
+  - Pleasant Valley
+  - '82477'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '14.19'
+  - !!python/object/apply:decimal.Decimal
+    - '24.69'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '98.97'
+  - !!python/object/apply:decimal.Decimal
+    - '143.50'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - priantieseoughtcally
+  - bar
+  - '38370'
+  - '528'
+  - 11th Washington
+  - Farmington
+  - '19145'
+  - '103'
+  - 'Maple '
+  - New Hope
+  - 09431
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '86.81'
+  - !!python/object/apply:decimal.Decimal
+    - '119.79'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '1.79'
+  - !!python/object/apply:decimal.Decimal
+    - '2.68'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - priantioughtationought
+  - eing
+  - '33604'
+  - '803'
+  - 'Cedar '
+  - Riverdale
+  - '49391'
+  - '695'
+  - Jackson Second
+  - Franklin
+  - ''
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '39.73'
+  - !!python/object/apply:decimal.Decimal
+    - '42.51'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '33.77'
+  - !!python/object/apply:decimal.Decimal
+    - '53.69'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - priantioughtationought
+  - eing
+  - '33604'
+  - '803'
+  - 'Cedar '
+  - Riverdale
+  - '49391'
+  - '695'
+  - Jackson Second
+  - Franklin
+  - ''
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '39.73'
+  - !!python/object/apply:decimal.Decimal
+    - '42.51'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '27.60'
+  - !!python/object/apply:decimal.Decimal
+    - '36.98'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - prieingcallyationese
+  - cally
+  - '35709'
+  - '820'
+  - Forest Cedar
+  - Florence
+  - '43394'
+  - '384'
+  - 'Lincoln '
+  - Lakewood
+  - '78877'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '91.53'
+  - !!python/object/apply:decimal.Decimal
+    - '159.26'
+  - !!python/object/apply:decimal.Decimal
+    - '754.17'
+  - !!python/object/apply:decimal.Decimal
+    - '15.06'
+  - !!python/object/apply:decimal.Decimal
+    - '27.40'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - prieingcallyationese
+  - ese
+  - '35709'
+  - '49'
+  - Eigth Lee
+  - Avoca
+  - '70540'
+  - '633'
+  - College Mill
+  - Springfield
+  - '49303'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '89.68'
+  - !!python/object/apply:decimal.Decimal
+    - '171.28'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '37.92'
+  - !!python/object/apply:decimal.Decimal
+    - '37.92'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - prieingcallyationese
+  - n st
+  - '39231'
+  - '370'
+  - Meadow Meadow
+  - Wolf Creek
+  - '52455'
+  - '40'
+  - 9th Adams
+  - Florence
+  - '73394'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '64.56'
+  - !!python/object/apply:decimal.Decimal
+    - '67.78'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '97.06'
+  - !!python/object/apply:decimal.Decimal
+    - '107.73'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1
+- !!python/tuple
+  - prieingcallyationese
+  - n st
+  - '39231'
+  - '370'
+  - Meadow Meadow
+  - Wolf Creek
+  - '52455'
+  - '40'
+  - 9th Adams
+  - Florence
+  - '73394'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '64.56'
+  - !!python/object/apply:decimal.Decimal
+    - '67.78'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - !!python/object/apply:decimal.Decimal
+    - '73.24'
+  - !!python/object/apply:decimal.Decimal
+    - '78.36'
+  - !!python/object/apply:decimal.Decimal
+    - '346.43'
+  - 2001
+  - 1
+- !!python/tuple
+  - prieingcallyationese
+  - ought
+  - '53604'
+  - '55'
+  - 'Spruce '
+  - Georgetown
+  - '47057'
+  - '387'
+  - '12th '
+  - Harmony
+  - '35804'
+  - 2000
+  - 1
+  - !!python/object/apply:decimal.Decimal
+    - '25.85'
+  - !!python/object/apply:decimal.Decimal
+    - '34.12'
+  - !!python/object/apply:decimal.Decimal
+    - '23.03'
+  - !!python/object/apply:decimal.Decimal
+    - '61.59'
+  - !!python/object/apply:decimal.Decimal
+    - '89.30'
+  - !!python/object/apply:decimal.Decimal
+    - '0.00'
+  - 2001
+  - 1

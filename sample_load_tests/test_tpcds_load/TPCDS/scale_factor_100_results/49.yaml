@@ -1,0 +1,910 @@
+- !!python/tuple
+  - catalog
+  - 180567
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 3596
+- !!python/tuple
+  - web
+  - 15655
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 136
+- !!python/tuple
+  - catalog
+  - 74967
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 3592
+- !!python/tuple
+  - web
+  - 49333
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1701
+- !!python/tuple
+  - catalog
+  - 32718
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2818
+- !!python/tuple
+  - web
+  - 105903
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 57
+- !!python/tuple
+  - store
+  - 147222
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 318
+- !!python/tuple
+  - catalog
+  - 180523
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1144
+- !!python/tuple
+  - web
+  - 15438
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 158
+- !!python/tuple
+  - store
+  - 117085
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 307
+- !!python/tuple
+  - web
+  - 89136
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 571
+- !!python/tuple
+  - store
+  - 157545
+  - !!python/object/apply:decimal.Decimal
+    - '0.64646464646464646465'
+  - 30
+  - 10
+- !!python/tuple
+  - web
+  - 146263
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1574
+- !!python/tuple
+  - web
+  - 77523
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1043
+- !!python/tuple
+  - store
+  - 186417
+  - !!python/object/apply:decimal.Decimal
+    - '0.62921348314606741573'
+  - 28
+  - 8
+- !!python/tuple
+  - web
+  - 125622
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 355
+- !!python/tuple
+  - catalog
+  - 151638
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1801
+- !!python/tuple
+  - store
+  - 197298
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1210
+- !!python/tuple
+  - web
+  - 93169
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 4
+- !!python/tuple
+  - catalog
+  - 36441
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2702
+- !!python/tuple
+  - store
+  - 2863
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 753
+- !!python/tuple
+  - store
+  - 23706
+  - !!python/object/apply:decimal.Decimal
+    - '0.61616161616161616162'
+  - 25
+  - 5
+- !!python/tuple
+  - catalog
+  - 92395
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 503
+- !!python/tuple
+  - store
+  - 73603
+  - !!python/object/apply:decimal.Decimal
+    - '0.61956521739130434783'
+  - 26
+  - 6
+- !!python/tuple
+  - web
+  - 78871
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 896
+- !!python/tuple
+  - catalog
+  - 61729
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 319
+- !!python/tuple
+  - web
+  - 137994
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1497
+- !!python/tuple
+  - web
+  - 42121
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1289
+- !!python/tuple
+  - catalog
+  - 62491
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1213
+- !!python/tuple
+  - web
+  - 50151
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1341
+- !!python/tuple
+  - store
+  - 54201
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 541
+- !!python/tuple
+  - store
+  - 15450
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 607
+- !!python/tuple
+  - store
+  - 104481
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 753
+- !!python/tuple
+  - catalog
+  - 7767
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2903
+- !!python/tuple
+  - catalog
+  - 91441
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2773
+- !!python/tuple
+  - web
+  - 829
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1141
+- !!python/tuple
+  - store
+  - 156507
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 121
+- !!python/tuple
+  - store
+  - 168444
+  - !!python/object/apply:decimal.Decimal
+    - '0.64646464646464646465'
+  - 30
+  - 10
+- !!python/tuple
+  - web
+  - 64620
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 986
+- !!python/tuple
+  - web
+  - 132469
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1050
+- !!python/tuple
+  - web
+  - 197757
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1090
+- !!python/tuple
+  - catalog
+  - 7087
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1954
+- !!python/tuple
+  - store
+  - 52722
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 560
+- !!python/tuple
+  - catalog
+  - 140670
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 3155
+- !!python/tuple
+  - store
+  - 94081
+  - !!python/object/apply:decimal.Decimal
+    - '0.63917525773195876289'
+  - 29
+  - 9
+- !!python/tuple
+  - web
+  - 142842
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 563
+- !!python/tuple
+  - catalog
+  - 7137
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2310
+- !!python/tuple
+  - catalog
+  - 156216
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 3570
+- !!python/tuple
+  - web
+  - 45312
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 124
+- !!python/tuple
+  - store
+  - 15408
+  - !!python/object/apply:decimal.Decimal
+    - '0.59183673469387755102'
+  - 23
+  - 2
+- !!python/tuple
+  - catalog
+  - 37047
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 3571
+- !!python/tuple
+  - web
+  - 18025
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 103
+- !!python/tuple
+  - web
+  - 135093
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 593
+- !!python/tuple
+  - catalog
+  - 38757
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2645
+- !!python/tuple
+  - web
+  - 81246
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1077
+- !!python/tuple
+  - catalog
+  - 30636
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1701
+- !!python/tuple
+  - web
+  - 105114
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1265
+- !!python/tuple
+  - catalog
+  - 1167
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1314
+- !!python/tuple
+  - store
+  - 110208
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 590
+- !!python/tuple
+  - catalog
+  - 21949
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 3155
+- !!python/tuple
+  - store
+  - 5520
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 683
+- !!python/tuple
+  - catalog
+  - 174555
+  - !!python/object/apply:decimal.Decimal
+    - '0.47422680412371134021'
+  - 55
+  - 9
+- !!python/tuple
+  - catalog
+  - 30045
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 3532
+- !!python/tuple
+  - web
+  - 176208
+  - !!python/object/apply:decimal.Decimal
+    - '0.48979591836734693878'
+  - 46
+  - 7
+- !!python/tuple
+  - catalog
+  - 184563
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 3155
+- !!python/tuple
+  - catalog
+  - 165015
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2617
+- !!python/tuple
+  - web
+  - 186972
+  - !!python/object/apply:decimal.Decimal
+    - '0.49315068493150684932'
+  - 47
+  - 8
+- !!python/tuple
+  - catalog
+  - 80089
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1652
+- !!python/tuple
+  - catalog
+  - 85869
+  - !!python/object/apply:decimal.Decimal
+    - '0.47000000000000000000'
+  - 50
+  - 6
+- !!python/tuple
+  - catalog
+  - 703
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 996
+- !!python/tuple
+  - catalog
+  - 91320
+  - !!python/object/apply:decimal.Decimal
+    - '0.47368421052631578947'
+  - 54
+  - 8
+- !!python/tuple
+  - store
+  - 92988
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 4
+- !!python/tuple
+  - web
+  - 177379
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 434
+- !!python/tuple
+  - catalog
+  - 154896
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1742
+- !!python/tuple
+  - web
+  - 128724
+  - !!python/object/apply:decimal.Decimal
+    - '0.48888888888888888889'
+  - 44
+  - 5
+- !!python/tuple
+  - web
+  - 85165
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1516
+- !!python/tuple
+  - store
+  - 129384
+  - !!python/object/apply:decimal.Decimal
+    - '0.58333333333333333333'
+  - 22
+  - 1
+- !!python/tuple
+  - web
+  - 45219
+  - !!python/object/apply:decimal.Decimal
+    - '0.48421052631578947368'
+  - 42
+  - 2
+- !!python/tuple
+  - catalog
+  - 174801
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1114
+- !!python/tuple
+  - catalog
+  - 131271
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 784
+- !!python/tuple
+  - catalog
+  - 146712
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1801
+- !!python/tuple
+  - catalog
+  - 55623
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1642
+- !!python/tuple
+  - catalog
+  - 66403
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2389
+- !!python/tuple
+  - web
+  - 186561
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1163
+- !!python/tuple
+  - store
+  - 191028
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 522
+- !!python/tuple
+  - catalog
+  - 81885
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2095
+- !!python/tuple
+  - catalog
+  - 113088
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1933
+- !!python/tuple
+  - catalog
+  - 107460
+  - !!python/object/apply:decimal.Decimal
+    - '0.47191011235955056180'
+  - 53
+  - 7
+- !!python/tuple
+  - web
+  - 47340
+  - !!python/object/apply:decimal.Decimal
+    - '0.38000000000000000000'
+  - 39
+  - 1
+- !!python/tuple
+  - catalog
+  - 191979
+  - !!python/object/apply:decimal.Decimal
+    - '0.46236559139784946237'
+  - 49
+  - 5
+- !!python/tuple
+  - catalog
+  - 24925
+  - !!python/object/apply:decimal.Decimal
+    - '0.45263157894736842105'
+  - 45
+  - 2
+- !!python/tuple
+  - web
+  - 31975
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1818
+- !!python/tuple
+  - web
+  - 199851
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 313
+- !!python/tuple
+  - web
+  - 41823
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 818
+- !!python/tuple
+  - web
+  - 187489
+  - !!python/object/apply:decimal.Decimal
+    - '0.50000000000000000000'
+  - 51
+  - 10
+- !!python/tuple
+  - web
+  - 118033
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1455
+- !!python/tuple
+  - store
+  - 43482
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 368
+- !!python/tuple
+  - web
+  - 15462
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 437
+- !!python/tuple
+  - store
+  - 98005
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 503
+- !!python/tuple
+  - catalog
+  - 53913
+  - !!python/object/apply:decimal.Decimal
+    - '0.45454545454545454545'
+  - 47
+  - 4
+- !!python/tuple
+  - store
+  - 195057
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 904
+- !!python/tuple
+  - store
+  - 162511
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 553
+- !!python/tuple
+  - store
+  - 96403
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 747
+- !!python/tuple
+  - web
+  - 158355
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1025
+- !!python/tuple
+  - store
+  - 26683
+  - !!python/object/apply:decimal.Decimal
+    - '0.62765957446808510638'
+  - 27
+  - 7
+- !!python/tuple
+  - web
+  - 132243
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1214
+- !!python/tuple
+  - catalog
+  - 137133
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2285
+- !!python/tuple
+  - web
+  - 172320
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1783
+- !!python/tuple
+  - catalog
+  - 191058
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1396
+- !!python/tuple
+  - store
+  - 18354
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 670
+- !!python/tuple
+  - store
+  - 117873
+  - !!python/object/apply:decimal.Decimal
+    - '0.60606060606060606061'
+  - 24
+  - 3
+- !!python/tuple
+  - web
+  - 98352
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 570
+- !!python/tuple
+  - store
+  - 111576
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 722
+- !!python/tuple
+  - web
+  - 60246
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 457
+- !!python/tuple
+  - web
+  - 96697
+  - !!python/object/apply:decimal.Decimal
+    - '0.49484536082474226804'
+  - 50
+  - 9
+- !!python/tuple
+  - catalog
+  - 147426
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 3372
+- !!python/tuple
+  - web
+  - 161538
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1237
+- !!python/tuple
+  - web
+  - 114894
+  - !!python/object/apply:decimal.Decimal
+    - '0.48453608247422680412'
+  - 43
+  - 3
+- !!python/tuple
+  - catalog
+  - 192943
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2812
+- !!python/tuple
+  - catalog
+  - 123702
+  - !!python/object/apply:decimal.Decimal
+    - '0.45263157894736842105'
+  - 45
+  - 2
+- !!python/tuple
+  - web
+  - 154437
+  - !!python/object/apply:decimal.Decimal
+    - '0.48936170212765957447'
+  - 45
+  - 6
+- !!python/tuple
+  - catalog
+  - 86935
+  - !!python/object/apply:decimal.Decimal
+    - '0.43956043956043956044'
+  - 44
+  - 1
+- !!python/tuple
+  - catalog
+  - 24063
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 3128
+- !!python/tuple
+  - catalog
+  - 196260
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 2862
+- !!python/tuple
+  - store
+  - 38334
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 950
+- !!python/tuple
+  - catalog
+  - 102858
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 1433
+- !!python/tuple
+  - catalog
+  - 30295
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 308
+- !!python/tuple
+  - catalog
+  - 154662
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 876
+- !!python/tuple
+  - web
+  - 89095
+  - !!python/object/apply:decimal.Decimal
+    - 0E-20
+  - 1
+  - 563
+- !!python/tuple
+  - catalog
+  - 23479
+  - !!python/object/apply:decimal.Decimal
+    - '0.47826086956521739130'
+  - 57
+  - 10
