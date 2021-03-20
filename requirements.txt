@@ -20,7 +20,7 @@ importlib-metadata==0.22
 impyla==0.16.2
 itsdangerous==1.1.0
 JayDeBeApi==1.1.1
-Jinja2==2.10.3
+Jinja2==2.11.3
 jmespath==0.9.4
 JPype1==0.6.3
 locustio==0.13.5
