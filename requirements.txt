@@ -48,7 +48,7 @@ six==1.13.0
 sqlparse==0.1.19
 thrift==0.9.3
 thrift-sasl==0.3.0
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.7
 Werkzeug==0.16.0
 zipp==0.6.0
